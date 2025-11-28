@@ -6,4 +6,4 @@ Les zones ne sont pas ajoutées, elles seront fournies dans un dépôt à part: 
 
 ## Statistiques
 
-Le dépôt contient actuellement **150 pages**, et un total de **1140 lignes**. Les lignes ne sont pas transcrites.
+Le dépôt contient actuellement **150 pages**, et un total de **1140 lignes**. Les lignes ne sont pas transcrites, ni classées. Leur classement est à venir, en utilisant le vocabulaire contrôlé SegmOnto.
