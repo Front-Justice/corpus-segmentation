@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_187-2-_0048_jpg.rf.f1cb84226e8faa470e9b7655ad37598f.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3634"
+          HEIGHT="6183"
+          PHYSICAL_IMG_NR="304"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3634"
+                  HEIGHT="6183">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_e50130eb"
+                    BASELINE="198 950 190 357" 
+                    HPOS="118"
+                    VPOS="350"
+                    WIDTH="134"
+                    HEIGHT="598">
+            <Shape><Polygon POINTS="185 355 118 355 118 381 118 432 118 484 118 535 123 587 123 638 123 690 123 741 123 793 123 845 128 896 128 948 195 948 252 942 221 350 185 355"/></Shape>
+            <String CONTENT="Tossaert du"
+                    HPOS="118"
+                    VPOS="350"
+                    WIDTH="134"
+                    HEIGHT="598"
+                    WC="0.9947674978863109"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_80e695b0"
+                    BASELINE="567 2711 514 2326" 
+                    HPOS="391"
+                    VPOS="2308"
+                    WIDTH="310"
+                    HEIGHT="407">
+            <Shape><Polygon POINTS="510 2323 391 2334 469 2715 561 2710 701 2684 695 2586 695 2581 695 2576 675 2550 639 2509 654 2462 654 2447 654 2442 654 2437 654 2431 613 2308 510 2323"/></Shape>
+            <String CONTENT="+"
+                    HPOS="391"
+                    VPOS="2308"
+                    WIDTH="310"
+                    HEIGHT="407"
+                    WC="0.9999369382858276"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_bce45056"
+                    BASELINE="387 2959 337 1989" 
+                    HPOS="273"
+                    VPOS="1978"
+                    WIDTH="211"
+                    HEIGHT="979">
+            <Shape><Polygon POINTS="335 1988 273 1988 324 2957 386 2957 438 2947 422 2828 443 2782 448 2772 448 2766 448 2761 448 2735 407 2529 422 2349 458 2303 484 2272 484 2267 484 2261 484 2256 463 1978 335 1988"/></Shape>
+            <String CONTENT="ONEE OURESAII MbISOI GE pe"
+                    HPOS="273"
+                    VPOS="1978"
+                    WIDTH="211"
+                    HEIGHT="979"
+                    WC="0.7642166224809793"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_aad53a6d"
+                    BASELINE="140 3415 140 2564 134 1802 132 1124 116 320" 
+                    HPOS="5"
+                    VPOS="314"
+                    WIDTH="190"
+                    HEIGHT="3096">
+            <Shape><Polygon POINTS="113 319 25 319 36 747 25 762 5 788 5 834 5 886 5 937 5 989 5 1040 5 1092 5 1143 5 1195 5 1246 5 1298 5 1349 5 1401 5 1453 5 1504 5 1556 5 1607 5 1659 5 1710 5 1762 5 1813 5 1865 5 1916 5 1968 5 2009 30 2040 46 2050 56 2236 56 2406 36 2437 5 2478 5 2483 5 2488 5 2493 36 2699 56 2854 41 3405 139 3410 195 3400 154 314 113 319"/></Shape>
+            <String CONTENT="Ven ce qui goncerne Gault du dix-neuf Juillet Mol neuf cent dix neuf pour comptet"
+                    HPOS="5"
+                    VPOS="314"
+                    WIDTH="190"
+                    HEIGHT="3096"
+                    WC="0.955404954927939"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_22ba5077"
+                    BASELINE="390 4242 350 3272" 
+                    HPOS="293"
+                    VPOS="3266"
+                    WIDTH="155"
+                    HEIGHT="974">
+            <Shape><Polygon POINTS="345 3271 293 3271 293 3313 293 3364 293 3416 293 3467 293 3519 293 3570 293 3622 293 3658 309 4240 386 4240 448 4230 402 3266 345 3271"/></Shape>
+            <String CONTENT="Le Commissaire Rapporteur"
+                    HPOS="293"
+                    VPOS="3266"
+                    WIDTH="155"
+                    HEIGHT="974"
+                    WC="0.986205768585205"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f960dd97"
+                    BASELINE="185 5076 177 3483" 
+                    HPOS="77"
+                    VPOS="3472"
+                    WIDTH="139"
+                    HEIGHT="1603">
+            <Shape><Polygon POINTS="175 3477 92 3477 77 5070 180 5075 216 5070 201 3472 175 3477"/></Shape>
+            <String CONTENT="Le présent jugement a commencé à recevoir son exécution"
+                    HPOS="77"
+                    VPOS="3472"
+                    WIDTH="139"
+                    HEIGHT="1603"
+                    WC="0.9698486479662233"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4a23d50d"
+                    BASELINE="300 5162 290 4505 290 3720 290 2906 274 2263 266 1709 274 1354" 
+                    HPOS="201"
+                    VPOS="1349"
+                    WIDTH="159"
+                    HEIGHT="3808">
+            <Shape><Polygon POINTS="201 1349 201 1396 201 1447 201 1499 201 1550 201 1602 201 1653 201 1705 201 1757 201 1808 206 1860 206 1911 206 1963 206 2014 206 2066 206 2117 206 2169 206 2220 206 2272 206 2323 206 2375 206 2426 211 2478 211 2529 211 2581 211 2632 216 2684 216 2735 216 2787 221 2839 221 2890 221 2942 221 2993 226 3045 226 3096 226 3148 226 3199 226 3251 226 3302 226 3354 226 3405 226 3457 221 3508 221 3560 221 3611 221 3663 221 3714 221 3766 221 3818 221 3869 221 3921 221 3972 221 4024 221 4065 221 4472 226 4487 226 4539 226 4590 226 4611 226 4699 231 4745 231 4796 231 4848 231 4900 237 4951 237 5003 237 5054 237 5106 237 5157 298 5157 355 5152 360 5054 360 5049 360 5044 360 5039 355 5039 329 5003 355 4925 360 4910 360 4905 360 4900 355 4838 335 4663 355 4539 360 4477 360 4472 360 4467 350 4431 324 4317 324 4060 350 4013 350 4008 350 4003 350 3998 350 3926 319 3436 319 3127 340 3091 350 3081 350 3076 350 3070 350 3065 340 2988 319 2844 340 2668 345 2586 345 2581 345 2576 345 2571 335 2560 314 2529 324 1349 273 1349 201 1349"/></Shape>
+            <String CONTENT="dixneuf Juillet Mol neuf cent daix neuf pour compte du douze Juin mif neuf cent dix neu"
+                    HPOS="201"
+                    VPOS="1349"
+                    WIDTH="159"
+                    HEIGHT="3808"
+                    WC="0.9865278841435224"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0ecdd4a9"
+                    BASELINE="242 5172 221 4260 219 3783 227 3177 211 2460 206 1862 200 1076" 
+                    HPOS="128"
+                    VPOS="1066"
+                    WIDTH="150"
+                    HEIGHT="4101">
+            <Shape><Polygon POINTS="195 1071 128 1071 128 1097 134 1149 134 1200 134 1252 134 1303 134 1355 134 1406 134 1458 134 1509 134 1561 134 1612 134 1664 134 1715 134 1767 134 1818 134 1870 134 1921 134 1973 134 2024 134 2076 134 2091 134 2127 139 2179 139 2231 139 2282 139 2334 139 2385 139 2437 139 2488 139 2540 144 2591 144 2643 144 2694 144 2746 144 2797 144 2849 144 2900 144 2952 144 3003 144 3055 144 3106 144 3117 144 3508 180 3519 180 3570 180 3622 180 3673 180 3725 180 3776 180 3828 180 3879 180 3931 180 3982 180 4034 180 4085 180 4137 180 4188 180 4240 180 4292 180 4343 180 4395 180 4446 180 4498 180 4549 180 4601 180 4652 180 4704 180 4755 180 4807 180 4858 180 4910 180 4961 180 5013 180 5064 159 5064 164 5167 237 5167 278 5157 242 1066 195 1071"/></Shape>
+            <String CONTENT="la douze Juin quil zeuf cent qu neuf détention prévendise du 12 Juin 1919 au 11uilfet 1919), 27 en ce qui concerne"
+                    HPOS="128"
+                    VPOS="1066"
+                    WIDTH="150"
+                    HEIGHT="4101"
+                    WC="0.9704056978225708"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

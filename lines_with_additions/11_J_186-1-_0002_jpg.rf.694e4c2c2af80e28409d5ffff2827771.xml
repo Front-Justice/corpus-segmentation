@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_186-1-_0002_jpg.rf.694e4c2c2af80e28409d5ffff2827771.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="4144"
+          HEIGHT="6191"
+          PHYSICAL_IMG_NR="244"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4144"
+                  HEIGHT="6191">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_f04495a7"
+                    BASELINE="3405 1688 4005 1485" 
+                    HPOS="3359"
+                    VPOS="1377"
+                    WIDTH="661"
+                    HEIGHT="346">
+            <Shape><Polygon POINTS="3400 1687 3416 1723 4020 1537 4004 1480 3963 1377 3746 1470 3715 1470 3591 1475 3586 1475 3581 1475 3581 1480 3576 1480 3540 1527 3395 1542 3390 1542 3385 1542 3385 1547 3380 1547 3380 1552 3359 1578 3400 1687"/></Shape>
+            <String CONTENT="Louis meruf"
+                    HPOS="3359"
+                    VPOS="1377"
+                    WIDTH="661"
+                    HEIGHT="346"
+                    WC="0.9573878158222545"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_74097527"
+                    BASELINE="3217 2491 3851 2293" 
+                    HPOS="3178"
+                    VPOS="2182"
+                    WIDTH="692"
+                    HEIGHT="351">
+            <Shape><Polygon POINTS="3215 2486 3230 2533 3452 2507 3457 2507 3571 2450 3674 2399 3870 2373 3849 2290 3803 2182 3751 2233 3653 2233 3643 2233 3638 2233 3633 2233 3627 2233 3617 2244 3555 2295 3498 2285 3473 2280 3467 2280 3462 2280 3457 2280 3457 2285 3436 2306 3395 2347 3307 2373 3271 2362 3246 2352 3240 2352 3235 2352 3230 2352 3225 2352 3178 2383 3215 2486"/></Shape>
+            <String CONTENT="+"
+                    HPOS="3178"
+                    VPOS="2182"
+                    WIDTH="692"
+                    HEIGHT="351"
+                    WC="0.9999954700469971"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

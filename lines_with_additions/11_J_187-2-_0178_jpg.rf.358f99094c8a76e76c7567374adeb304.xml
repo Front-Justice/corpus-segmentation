@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_187-2-_0178_jpg.rf.358f99094c8a76e76c7567374adeb304.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3869"
+          HEIGHT="6175"
+          PHYSICAL_IMG_NR="347"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3869"
+                  HEIGHT="6175">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_a08f4117"
+                    BASELINE="616 3686 523 3298" 
+                    HPOS="422"
+                    VPOS="3277"
+                    WIDTH="242"
+                    HEIGHT="412">
+            <Shape><Polygon POINTS="520 3293 437 3308 422 3473 422 3478 422 3483 422 3488 504 3581 515 3591 530 3689 613 3684 664 3663 561 3277 520 3293"/></Shape>
+            <String CONTENT="+"
+                    HPOS="422"
+                    VPOS="3277"
+                    WIDTH="242"
+                    HEIGHT="412"
+                    WC="0.9999997615814209"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2ea53add"
+                    BASELINE="393 3807 389 3437" 
+                    HPOS="278"
+                    VPOS="3427"
+                    WIDTH="221"
+                    HEIGHT="375">
+            <Shape><Polygon POINTS="386 3432 278 3432 303 3802 391 3802 453 3792 432 3710 448 3684 494 3638 494 3632 494 3627 499 3627 499 3540 494 3535 494 3530 437 3427 386 3432"/></Shape>
+            <String CONTENT="Le Greffier"
+                    HPOS="278"
+                    VPOS="3427"
+                    WIDTH="221"
+                    HEIGHT="375"
+                    WC="0.919584946198897"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a66317b5"
+                    BASELINE="148 4191 190 3561 194 2608" 
+                    HPOS="56"
+                    VPOS="2598"
+                    WIDTH="237"
+                    HEIGHT="1590">
+            <Shape><Polygon POINTS="206 4188 257 4044 257 4039 257 4034 257 4029 221 3921 262 3843 262 3838 262 3833 262 3828 231 3735 226 3715 226 3504 247 3411 278 3257 278 3252 262 3092 242 2830 283 2737 288 2727 288 2722 293 2722 293 2603 190 2603 118 2598 82 3082 82 3087 82 3092 97 3154 108 3200 92 3221 77 3241 77 3247 77 3252 77 3257 77 3262 92 3303 103 3334 87 3360 77 3385 77 3391 77 3396 77 3401 77 3406 82 3406 87 3411 103 3432 97 3905 56 4178 144 4188 206 4188"/></Shape>
+            <String CONTENT="le cinq septembre smil neuf cent dix ney"
+                    HPOS="56"
+                    VPOS="2598"
+                    WIDTH="237"
+                    HEIGHT="1590"
+                    WC="0.9571824699640274"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3374b0d8"
+                    BASELINE="356 4806 361 4209" 
+                    HPOS="278"
+                    VPOS="4199"
+                    WIDTH="180"
+                    HEIGHT="602">
+            <Shape><Polygon POINTS="443 4337 437 4286 458 4281 458 4204 360 4204 278 4199 278 4790 355 4801 427 4795 453 4682 453 4677 453 4672 453 4667 437 4646 412 4605 412 4384 443 4343 443 4337"/></Shape>
+            <String CONTENT="Lu Commissaire Rapporien"
+                    HPOS="278"
+                    VPOS="4199"
+                    WIDTH="180"
+                    HEIGHT="602"
+                    WC="0.934929721057415"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_06c4a3ba"
+                    BASELINE="250 4825 264 4108 282 3876" 
+                    HPOS="154"
+                    VPOS="3869"
+                    WIDTH="180"
+                    HEIGHT="952">
+            <Shape><Polygon POINTS="278 3874 195 3869 159 4456 159 4461 180 4615 154 4646 154 4651 154 4656 154 4662 180 4811 247 4821 324 4811 298 4734 329 4559 329 4533 334 4533 334 3874 278 3874"/></Shape>
+            <String CONTENT="pour compter du dit jour"
+                    HPOS="154"
+                    VPOS="3869"
+                    WIDTH="180"
+                    HEIGHT="952"
+                    WC="0.9962180008490881"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_bc700b29"
+                    BASELINE="532 4820 440 4246" 
+                    HPOS="365"
+                    VPOS="4240"
+                    WIDTH="201"
+                    HEIGHT="581">
+            <Shape><Polygon POINTS="437 4245 365 4250 458 4821 530 4816 566 4806 463 4240 437 4245"/></Shape>
+            <String CONTENT="buanasseur"
+                    HPOS="365"
+                    VPOS="4240"
+                    WIDTH="201"
+                    HEIGHT="581"
+                    WC="0.9986647605895996"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_00248769"
+                    BASELINE="74 5834 106 4644 139 4242" 
+                    HPOS="0"
+                    VPOS="4235"
+                    WIDTH="180"
+                    HEIGHT="1595">
+            <Shape><Polygon POINTS="5 5001 5 5053 5 5104 5 5156 5 5207 5 5259 5 5310 5 5361 5 5413 5 5464 5 5516 5 5567 5 5619 5 5670 5 5722 5 5773 0 5773 5 5825 72 5830 139 5830 180 4240 133 4240 46 4235 5 4970 5 5001"/></Shape>
+            <String CONTENT=", présent jugement a commencé a recevoir son exéuuue"
+                    HPOS="0"
+                    VPOS="4235"
+                    WIDTH="180"
+                    HEIGHT="1595"
+                    WC="0.9478856877847152"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

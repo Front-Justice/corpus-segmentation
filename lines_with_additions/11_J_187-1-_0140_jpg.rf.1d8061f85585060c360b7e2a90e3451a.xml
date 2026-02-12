@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_187-1-_0140_jpg.rf.1d8061f85585060c360b7e2a90e3451a.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3940"
+          HEIGHT="6160"
+          PHYSICAL_IMG_NR="293"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3940"
+                  HEIGHT="6160">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_cf466d19"
+                    BASELINE="857 3461 786 3173" 
+                    HPOS="647"
+                    VPOS="3141"
+                    WIDTH="334"
+                    HEIGHT="334">
+            <Shape><Polygon POINTS="785 3172 647 3203 708 3285 729 3475 852 3459 981 3423 914 3141 785 3172"/></Shape>
+            <String CONTENT="+"
+                    HPOS="647"
+                    VPOS="3141"
+                    WIDTH="334"
+                    HEIGHT="334"
+                    WC="0.9995716214179993"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b47f2a30"
+                    BASELINE="600 3833 557 2881" 
+                    HPOS="488"
+                    VPOS="2874"
+                    WIDTH="190"
+                    HEIGHT="955">
+            <Shape><Polygon POINTS="554 2879 488 2879 529 3829 595 3829 662 3819 678 3624 678 3619 678 3613 678 3608 657 3583 631 3536 657 3495 657 3490 657 3485 657 3480 657 3465 616 3234 647 3085 652 3059 652 3054 642 2874 554 2879"/></Shape>
+            <String CONTENT="ENOTE D&#x27;EMMMSIRNIDN PEUPOT GRETEE de CONSEI"
+                    HPOS="488"
+                    VPOS="2874"
+                    WIDTH="190"
+                    HEIGHT="955"
+                    WC="0.8347817451454872"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3c383bba"
+                    BASELINE="403 4690 409 3121" 
+                    HPOS="313"
+                    VPOS="3110"
+                    WIDTH="133"
+                    HEIGHT="1576">
+            <Shape><Polygon POINTS="431 4686 446 3115 405 3115 313 3110 318 4681 400 4686 431 4686"/></Shape>
+            <String CONTENT="Le présent jugement a commencé a recevoir don exécution"
+                    HPOS="313"
+                    VPOS="3110"
+                    WIDTH="133"
+                    HEIGHT="1576"
+                    WC="0.9806640014566225"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2e021356"
+                    BASELINE="489 4813 483 3579 486 2899" 
+                    HPOS="400"
+                    VPOS="2890"
+                    WIDTH="134"
+                    HEIGHT="1919">
+            <Shape><Polygon POINTS="482 2895 400 2895 400 3110 405 3115 405 3167 405 3218 405 3269 405 3321 405 3372 405 3423 405 3475 405 3526 405 3577 405 3629 405 3680 405 3731 405 3783 405 3834 405 3885 405 3937 405 3988 405 4039 405 4091 405 4142 405 4193 405 4245 405 4296 405 4347 405 4399 405 4450 405 4501 405 4553 405 4604 405 4655 400 4655 400 4809 488 4809 534 4799 523 2890 482 2895"/></Shape>
+            <String CONTENT="le 28 mars 1813 pour compter du 17 novembre 1916"
+                    HPOS="400"
+                    VPOS="2890"
+                    WIDTH="134"
+                    HEIGHT="1919"
+                    WC="0.9899927303195"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_12a56fe1"
+                    BASELINE="646 4804 626 4027" 
+                    HPOS="534"
+                    VPOS="4019"
+                    WIDTH="154"
+                    HEIGHT="780">
+            <Shape><Polygon POINTS="621 4024 534 4024 539 4799 642 4799 688 4789 652 4019 621 4024"/></Shape>
+            <String CONTENT="Le Commissaire Rapporteur"
+                    HPOS="534"
+                    VPOS="4019"
+                    WIDTH="154"
+                    HEIGHT="780"
+                    WC="0.9721459794044495"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_049edd3b"
+                    BASELINE="829 4776 751 4153" 
+                    HPOS="626"
+                    VPOS="4142"
+                    WIDTH="288"
+                    HEIGHT="637">
+            <Shape><Polygon POINTS="749 4152 626 4163 626 4173 626 4173 652 4214 642 4276 636 4327 636 4332 636 4337 636 4342 642 4342 657 4363 693 4389 703 4496 693 4553 678 4655 678 4661 678 4666 739 4779 827 4774 914 4758 852 4430 852 4363 852 4188 847 4183 847 4178 847 4173 821 4142 749 4152"/></Shape>
+            <String CONTENT="+"
+                    HPOS="626"
+                    VPOS="4142"
+                    WIDTH="288"
+                    HEIGHT="637"
+                    WC="0.999991774559021"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

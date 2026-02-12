@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_187-1-_0109_jpg.rf.87ae858c69025b740112ec0214ff5d14.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3667"
+          HEIGHT="6014"
+          PHYSICAL_IMG_NR="280"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3667"
+                  HEIGHT="6014">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_de2b823b"
+                    BASELINE="2757 1363 3119 1251" 
+                    HPOS="2728"
+                    VPOS="1157"
+                    WIDTH="397"
+                    HEIGHT="236">
+            <Shape><Polygon POINTS="2754 1358 2764 1393 3125 1308 3115 1247 3080 1157 2728 1282 2754 1358"/></Shape>
+            <String CONTENT="Limnistie"
+                    HPOS="2728"
+                    VPOS="1157"
+                    WIDTH="397"
+                    HEIGHT="236"
+                    WC="0.9917800294028388"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9a0792e7"
+                    BASELINE="2552 1522 3411 1256" 
+                    HPOS="2518"
+                    VPOS="1192"
+                    WIDTH="903"
+                    HEIGHT="396">
+            <Shape><Polygon POINTS="2548 1518 2568 1588 2718 1518 2784 1523 2794 1523 2799 1523 2804 1523 2809 1523 2819 1513 2904 1453 3421 1318 3406 1252 3376 1192 2518 1428 2548 1518"/></Shape>
+            <String CONTENT="101 du 240011oi"
+                    HPOS="2518"
+                    VPOS="1192"
+                    WIDTH="903"
+                    HEIGHT="396"
+                    WC="0.987653648853302"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_fb234824"
+                    BASELINE="2898 1501 3438 1350" 
+                    HPOS="2869"
+                    VPOS="1287"
+                    WIDTH="582"
+                    HEIGHT="286">
+            <Shape><Polygon POINTS="2894 1498 2919 1573 2974 1523 3451 1423 3436 1348 3406 1287 2869 1428 2894 1498"/></Shape>
+            <String CONTENT="Le Greftie"
+                    HPOS="2869"
+                    VPOS="1287"
+                    WIDTH="582"
+                    HEIGHT="286"
+                    WC="0.9890820562839509"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_89532327"
+                    BASELINE="3026 1685 3531 1435" 
+                    HPOS="2964"
+                    VPOS="1318"
+                    WIDTH="612"
+                    HEIGHT="481">
+            <Shape><Polygon POINTS="3024 1683 3080 1799 3175 1759 3180 1759 3180 1754 3185 1754 3190 1744 3290 1633 3576 1538 3526 1433 3461 1318 3371 1403 3185 1483 3150 1473 3140 1473 3135 1473 3130 1473 3125 1473 3120 1473 2964 1563 3024 1683"/></Shape>
+            <String CONTENT="+"
+                    HPOS="2964"
+                    VPOS="1318"
+                    WIDTH="612"
+                    HEIGHT="481"
+                    WC="0.9999998807907104"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

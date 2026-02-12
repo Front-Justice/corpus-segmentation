@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_187-1-_0124_jpg.rf.dfbd36696396ffb473756d0e7d208061.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3828"
+          HEIGHT="6102"
+          PHYSICAL_IMG_NR="288"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3828"
+                  HEIGHT="6102">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_bb067cf3"
+                    BASELINE="424 4005 422 3385 432 3038" 
+                    HPOS="356"
+                    VPOS="3030"
+                    WIDTH="147"
+                    HEIGHT="971">
+            <Shape><Polygon POINTS="376 3081 376 3132 376 3183 371 3234 371 3284 366 3335 361 3386 361 3437 356 3488 356 3996 422 4001 453 3996 453 3793 453 3788 498 3701 498 3696 503 3696 503 3600 498 3595 498 3590 498 3584 493 3584 458 3544 453 3534 463 3508 498 3376 498 3371 498 3366 468 3035 427 3035 376 3030 376 3081"/></Shape>
+            <String CONTENT="COETIUEE DESMIRS EENEN CEUPOT peNCiN I GONSE"
+                    HPOS="356"
+                    VPOS="3030"
+                    WIDTH="147"
+                    HEIGHT="971"
+                    WC="0.8139817247336562"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a9e45e49"
+                    BASELINE="188 4324 231 2757" 
+                    HPOS="101"
+                    VPOS="2750"
+                    WIDTH="168"
+                    HEIGHT="1572">
+            <Shape><Polygon POINTS="229 4322 269 2756 229 2756 127 2750 101 4306 183 4322 229 4322"/></Shape>
+            <String CONTENT="Le présent jugement a commencé a recevoir son exécurior"
+                    HPOS="101"
+                    VPOS="2750"
+                    WIDTH="168"
+                    HEIGHT="1572"
+                    WC="0.9651666766610639"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_156fa43c"
+                    BASELINE="254 4480 296 3551 306 2950 314 2709" 
+                    HPOS="167"
+                    VPOS="2700"
+                    WIDTH="179"
+                    HEIGHT="1779">
+            <Shape><Polygon POINTS="229 2847 229 2898 223 2939 223 2959 223 3000 223 3051 223 3101 218 3152 218 3203 218 3254 213 3305 213 3356 213 3406 208 3457 208 3508 208 3559 208 3610 203 3661 203 3712 203 3762 198 3813 198 3864 198 3915 198 3966 193 4017 193 4068 193 4118 188 4169 188 4220 188 4271 183 4322 173 4322 167 4464 249 4479 295 4479 346 2705 310 2705 229 2700 229 2822 229 2847"/></Shape>
+            <String CONTENT="le quatorze mars mil neuf cent dix-neuf jour"
+                    HPOS="167"
+                    VPOS="2700"
+                    WIDTH="179"
+                    HEIGHT="1779"
+                    WC="0.9937659745866602"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9ddee7b4"
+                    BASELINE="332 4485 347 3618 374 3222 397 2644" 
+                    HPOS="254"
+                    VPOS="2634"
+                    WIDTH="178"
+                    HEIGHT="1850">
+            <Shape><Polygon POINTS="310 2801 310 2852 310 2903 305 2954 305 3005 305 3056 305 3106 305 3157 305 3208 300 3259 300 3310 300 3361 300 3412 300 3462 300 3513 295 3564 295 3615 290 3666 290 3717 285 3767 285 3818 279 3869 279 3920 274 3971 274 4022 269 4073 269 4123 264 4174 264 4225 259 4256 259 4312 259 4327 254 4332 254 4469 330 4484 351 4484 381 4454 386 4454 386 4449 386 4444 386 4439 386 3727 386 3376 407 3295 412 3274 412 3264 412 3213 412 3198 412 3183 397 3030 432 2639 391 2639 310 2634 310 2776 310 2801"/></Shape>
+            <String CONTENT="compter du trois féorier mil neufcent dix neuf"
+                    HPOS="254"
+                    VPOS="2634"
+                    WIDTH="178"
+                    HEIGHT="1850"
+                    WC="0.9780923178855409"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2a07634c"
+                    BASELINE="497 4633 477 3854" 
+                    HPOS="397"
+                    VPOS="3844"
+                    WIDTH="152"
+                    HEIGHT="788">
+            <Shape><Polygon POINTS="473 3849 422 3849 422 3869 422 3920 422 3971 397 3981 407 4632 493 4632 549 4627 524 3844 473 3849"/></Shape>
+            <String CONTENT="Le Commissaire Rapporteur"
+                    HPOS="397"
+                    VPOS="3844"
+                    WIDTH="152"
+                    HEIGHT="788"
+                    WC="0.9766052055358887"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

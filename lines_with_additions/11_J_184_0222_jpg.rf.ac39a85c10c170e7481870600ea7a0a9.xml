@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_184_0222_jpg.rf.ac39a85c10c170e7481870600ea7a0a9.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="6557"
+          HEIGHT="9397"
+          PHYSICAL_IMG_NR="232"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6557"
+                  HEIGHT="9397">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_303e22e9"
+                    BASELINE="1264 8422 4425 8469" 
+                    HPOS="1253"
+                    VPOS="8285"
+                    WIDTH="3165"
+                    HEIGHT="234">
+            <Shape><Polygon POINTS="1261 8418 1253 8457 4402 8519 4418 8465 4418 8355 2201 8300 2193 8300 2154 8300 1864 8332 1261 8285 1261 8418"/></Shape>
+            <String CONTENT="Le present jugement a commencé à reevois son exécution"
+                    HPOS="1253"
+                    VPOS="8285"
+                    WIDTH="3165"
+                    HEIGHT="234"
+                    WC="0.9841896640627008"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_adf85318"
+                    BASELINE="1195 8525 4377 8589" 
+                    HPOS="1182"
+                    VPOS="8394"
+                    WIDTH="3189"
+                    HEIGHT="274">
+            <Shape><Polygon POINTS="4324 8465 4245 8465 4167 8465 4089 8465 4010 8465 3932 8465 3854 8457 3775 8457 3697 8457 3619 8457 3540 8457 3462 8457 3384 8457 3305 8449 3227 8449 3149 8449 3070 8449 2992 8449 2914 8449 2835 8441 2757 8441 2679 8441 2600 8441 2522 8441 2444 8441 2365 8441 2287 8433 2209 8433 2130 8433 2052 8433 1974 8433 1895 8433 1817 8433 1739 8425 1660 8425 1582 8425 1504 8425 1425 8425 1347 8425 1269 8425 1269 8394 1190 8394 1190 8519 1182 8582 2169 8629 2177 8629 2256 8613 2358 8590 2381 8621 2389 8629 2397 8629 2397 8637 2405 8637 2412 8637 2420 8637 2428 8637 2475 8621 2538 8598 3023 8598 3196 8637 3274 8653 3282 8653 3407 8645 3705 8621 3909 8660 3971 8668 3979 8668 4034 8660 4230 8629 4347 8668 4371 8582 4363 8465 4324 8465"/></Shape>
+            <String CONTENT="le quatre mars mil neuf cent quinze pour comptis de"
+                    HPOS="1182"
+                    VPOS="8394"
+                    WIDTH="3189"
+                    HEIGHT="274"
+                    WC="0.9700719386923546"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5a4be655"
+                    BASELINE="1182 8657 3742 8689" 
+                    HPOS="1167"
+                    VPOS="8535"
+                    WIDTH="2569"
+                    HEIGHT="384">
+            <Shape><Polygon POINTS="3681 8574 3603 8574 3525 8566 3446 8566 3368 8566 3290 8566 3211 8566 3133 8559 3086 8559 3055 8559 2976 8559 2898 8559 2820 8559 2781 8551 2452 8551 2428 8551 2420 8543 1175 8535 1175 8653 1167 8880 1323 8903 1331 8903 1339 8903 1347 8903 1386 8880 1425 8848 1464 8872 1496 8903 1504 8903 1511 8903 1519 8903 1527 8903 1535 8903 1574 8872 1645 8825 1715 8872 1801 8911 1809 8911 2530 8919 2538 8919 2969 8903 2976 8903 2984 8903 3063 8833 3094 8809 3721 8809 3736 8684 3728 8574 3681 8574"/></Shape>
+            <String CONTENT="vingt- toi e dtie, ate tane quinze"
+                    HPOS="1167"
+                    VPOS="8535"
+                    WIDTH="2569"
+                    HEIGHT="384"
+                    WC="0.6123637535116252"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
