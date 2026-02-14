@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_2-2-0568_jpg.rf.f2e352540cf1310598a3bf336cb0f844.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3585"
+          HEIGHT="6062"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3585"
+                  HEIGHT="6062">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_092573dd"
+                    BASELINE="189 1522 1234 650" 
+                    HPOS="121"
+                    VPOS="550"
+                    WIDTH="1138"
+                    HEIGHT="1000">
+            <Shape><Polygon POINTS="212 1550 556 1308 556 1303 561 1303 616 1217 616 1212 626 1207 738 1151 743 1151 743 1146 748 1146 748 1141 773 1086 773 1081 889 1025 894 1025 894 1020 900 1020 996 899 1132 823 1137 823 1137 818 1142 818 1259 676 1233 646 1152 550 1051 606 1046 606 1046 611 1041 611 1041 616 1006 676 980 737 879 788 839 813 834 813 834 818 829 818 829 823 824 838 814 873 672 995 632 1005 530 1035 525 1035 414 1126 414 1131 121 1444 187 1520"/></Shape>
+            <String CONTENT="Par déceision du 11 Juillet 1919."
+                    HPOS="121"
+                    VPOS="550"
+                    WIDTH="1138"
+                    HEIGHT="1000"
+                    WC="0.929301488925429"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7a06b1e6"
+                    BASELINE="293 1571 1281 716" 
+                    HPOS="232"
+                    VPOS="651"
+                    WIDTH="1067"
+                    HEIGHT="960">
+            <Shape><Polygon POINTS="1279 712 1228 651 232 1495 288 1566 328 1611 1299 737 1279 712"/></Shape>
+            <String CONTENT="peine de cinq ans de travaux"
+                    HPOS="232"
+                    VPOS="651"
+                    WIDTH="1067"
+                    HEIGHT="960"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_05f094d2"
+                    BASELINE="746 1561 1124 1181" 
+                    HPOS="672"
+                    VPOS="1106"
+                    WIDTH="506"
+                    HEIGHT="510">
+            <Shape><Polygon POINTS="778 1384 743 1414 702 1449 697 1449 672 1495 743 1560 798 1616 1117 1384 1117 1379 1122 1379 1122 1374 1178 1232 1122 1177 1051 1106 905 1202 905 1207 900 1207 900 1212 900 1217 900 1222 900 1257 773 1358 778 1384"/></Shape>
+            <String CONTENT="Le Greffier."
+                    HPOS="672"
+                    VPOS="1106"
+                    WIDTH="506"
+                    HEIGHT="510"
+                    WC="0.9531542211771011"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f67682fb"
+                    BASELINE="1097 1595 1194 1268" 
+                    HPOS="1006"
+                    VPOS="1237"
+                    WIDTH="268"
+                    HEIGHT="399">
+            <Shape><Polygon POINTS="1092 1591 1243 1636 1274 1545 1274 1540 1274 1535 1274 1530 1243 1459 1218 1399 1233 1278 1193 1267 1112 1237 1087 1363 1077 1379 1006 1464 1006 1470 1006 1475 1006 1480 1016 1566 1092 1591"/></Shape>
+            <String CONTENT="+"
+                    HPOS="1006"
+                    VPOS="1237"
+                    WIDTH="268"
+                    HEIGHT="399"
+                    WC="0.9999955892562866"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1e86bd0b"
+                    BASELINE="358 1650 1340 773" 
+                    HPOS="298"
+                    VPOS="712"
+                    WIDTH="1067"
+                    HEIGHT="965">
+            <Shape><Polygon POINTS="1243 747 1238 747 1208 798 298 1581 353 1646 384 1677 697 1389 723 1379 803 1343 809 1343 809 1338 814 1338 930 1192 996 1177 1001 1177 1006 1177 1006 1171 1011 1171 1011 1166 1031 1106 1183 1020 1183 1015 1188 1015 1365 798 1339 772 1274 712 1243 747"/></Shape>
+            <String CONTENT="publics comuée en cinq ans"
+                    HPOS="298"
+                    VPOS="712"
+                    WIDTH="1067"
+                    HEIGHT="965"
+                    WC="0.9738696018854777"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_36238c60"
+                    BASELINE="457 1664 794 1373" 
+                    HPOS="409"
+                    VPOS="1313"
+                    WIDTH="435"
+                    HEIGHT="379">
+            <Shape><Polygon POINTS="444 1571 409 1601 455 1661 480 1692 601 1646 606 1646 606 1641 611 1641 672 1555 697 1515 844 1429 793 1369 738 1313 444 1566 444 1571"/></Shape>
+            <String CONTENT="de prison."
+                    HPOS="409"
+                    VPOS="1313"
+                    WIDTH="435"
+                    HEIGHT="379"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

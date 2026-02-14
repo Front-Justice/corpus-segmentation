@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_247-0911.jpg</fileName>
+      <fileIdentifier>zip//corpus_258p.zip/11_J_247-0911.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT11707" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3565"
+          HEIGHT="5309"
+          PHYSICAL_IMG_NR="202"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3565"
+                  HEIGHT="5309">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_a14e03f3"
+                    BASELINE="141 2828 664 2608" 
+                    HPOS="141.0"
+                    VPOS="2608.0"
+                    WIDTH="523.0"
+                    HEIGHT="220.0">
+            <String CONTENT=""
+                    HPOS="141.0"
+                    VPOS="2608.0"
+                    WIDTH="523.0"
+                    HEIGHT="220.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_74359c15"
+                    BASELINE="167 2990 716 2750" 
+                    HPOS="167.0"
+                    VPOS="2750.0"
+                    WIDTH="549.0"
+                    HEIGHT="240.0">
+            <String CONTENT=""
+                    HPOS="167.0"
+                    VPOS="2750.0"
+                    WIDTH="549.0"
+                    HEIGHT="240.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4aacf806"
+                    BASELINE="230 3084 711 2838" 
+                    HPOS="230.0"
+                    VPOS="2838.0"
+                    WIDTH="481.0"
+                    HEIGHT="246.0">
+            <String CONTENT=""
+                    HPOS="230.0"
+                    VPOS="2838.0"
+                    WIDTH="481.0"
+                    HEIGHT="246.0"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a6f64528"
+                    BASELINE="293 3236 669 3027" 
+                    HPOS="293.0"
+                    VPOS="3027.0"
+                    WIDTH="376.0"
+                    HEIGHT="209.0">
+            <String CONTENT=""
+                    HPOS="293.0"
+                    VPOS="3027.0"
+                    WIDTH="376.0"
+                    HEIGHT="209.0"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
