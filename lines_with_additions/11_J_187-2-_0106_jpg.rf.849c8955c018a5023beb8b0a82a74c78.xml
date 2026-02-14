@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_187-2-_0106_jpg.rf.849c8955c018a5023beb8b0a82a74c78.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3820"
+          HEIGHT="6102"
+          PHYSICAL_IMG_NR="321"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3820"
+                  HEIGHT="6102">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_08a1ef8d"
+                    BASELINE="427 280 414 116" 
+                    HPOS="340"
+                    VPOS="106"
+                    WIDTH="163"
+                    HEIGHT="173">
+            <Shape><Polygon POINTS="412 111 340 111 340 127 340 177 340 228 340 279 422 279 503 264 462 106 412 111"/></Shape>
+            <String CONTENT="Greffie"
+                    HPOS="340"
+                    VPOS="106"
+                    WIDTH="163"
+                    HEIGHT="173"
+                    WC="0.930474306855883"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_19d112e3"
+                    BASELINE="341 405 336 116" 
+                    HPOS="233"
+                    VPOS="106"
+                    WIDTH="138"
+                    HEIGHT="295">
+            <Shape><Polygon POINTS="335 111 269 111 279 244 233 391 340 401 371 396 366 106 335 111"/></Shape>
+            <String CONTENT="envoi approue"
+                    HPOS="233"
+                    VPOS="106"
+                    WIDTH="138"
+                    HEIGHT="295"
+                    WC="0.824432916366137"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5e2e500d"
+                    BASELINE="267 578 271 391" 
+                    HPOS="203"
+                    VPOS="381"
+                    WIDTH="107"
+                    HEIGHT="193">
+            <Shape><Polygon POINTS="203 416 203 467 203 518 203 564 264 574 310 569 295 386 269 386 203 381 203 416"/></Shape>
+            <String CONTENT="militaire"
+                    HPOS="203"
+                    VPOS="381"
+                    WIDTH="107"
+                    HEIGHT="193"
+                    WC="0.9085639781422086"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a010cb5b"
+                    BASELINE="613 284 589 114" 
+                    HPOS="508"
+                    VPOS="91"
+                    WIDTH="260"
+                    HEIGHT="193">
+            <Shape><Polygon POINTS="584 111 508 116 539 284 610 279 768 249 686 91 584 111"/></Shape>
+            <String CONTENT="+"
+                    HPOS="508"
+                    VPOS="91"
+                    WIDTH="260"
+                    HEIGHT="193"
+                    WC="0.9999028444290161"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8690937b"
+                    BASELINE="206 663 202 155" 
+                    HPOS="142"
+                    VPOS="147"
+                    WIDTH="132"
+                    HEIGHT="514">
+            <Shape><Polygon POINTS="198 152 142 152 142 203 142 254 142 305 142 355 142 406 142 457 142 508 142 559 142 610 142 661 203 661 244 650 233 483 244 416 274 218 274 213 274 208 239 147 198 152"/></Shape>
+            <String CONTENT="ot subi la dégradation"
+                    HPOS="142"
+                    VPOS="147"
+                    WIDTH="132"
+                    HEIGHT="514"
+                    WC="0.9861881240554478"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3b36e9a1"
+                    BASELINE="139 701 143 129" 
+                    HPOS="76"
+                    VPOS="122"
+                    WIDTH="112"
+                    HEIGHT="574">
+            <Shape><Polygon POINTS="81 183 86 233 86 284 86 335 86 386 86 437 86 488 86 539 86 589 86 640 86 691 137 696 172 696 188 127 142 127 76 122 76 177 81 183"/></Shape>
+            <String CONTENT="Coty- Suscher et Geyres"
+                    HPOS="76"
+                    VPOS="122"
+                    WIDTH="112"
+                    HEIGHT="574"
+                    WC="0.9497893621092257"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_37ccee1e"
+                    BASELINE="87 716 85 191" 
+                    HPOS="5"
+                    VPOS="183"
+                    WIDTH="106"
+                    HEIGHT="528">
+            <Shape><Polygon POINTS="81 188 5 188 5 203 5 254 5 305 5 355 5 406 5 447 10 711 86 711 111 701 106 183 81 188"/></Shape>
+            <String CONTENT="vier ou les condamnée"
+                    HPOS="5"
+                    VPOS="183"
+                    WIDTH="106"
+                    HEIGHT="528"
+                    WC="0.9667454524473711"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3a7ec0de"
+                    BASELINE="440 1004 443 904" 
+                    HPOS="381"
+                    VPOS="894"
+                    WIDTH="595"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="381 945 381 996 437 1001 966 1022 976 925 442 900 381 894 381 945"/></Shape>
+            <String CONTENT="+"
+                    HPOS="381"
+                    VPOS="894"
+                    WIDTH="595"
+                    HEIGHT="128"
+                    WC="0.9952131509780884"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_db7102fa"
+                    BASELINE="380 1788 380 857" 
+                    HPOS="310"
+                    VPOS="854"
+                    WIDTH="117"
+                    HEIGHT="930">
+            <Shape><Polygon POINTS="376 1784 412 1779 427 854 376 854 310 854 315 1784 376 1784"/></Shape>
+            <String CONTENT="ENEICIER DUOMMMSIRATIOR BOUNOT CAETEI.SI FONSE"
+                    HPOS="310"
+                    VPOS="854"
+                    WIDTH="117"
+                    HEIGHT="930"
+                    WC="0.9066251218318939"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_715e5bff"
+                    BASELINE="432 1783 438 1085" 
+                    HPOS="381"
+                    VPOS="1078"
+                    WIDTH="112"
+                    HEIGHT="701">
+            <Shape><Polygon POINTS="381 1113 381 1164 381 1215 381 1266 381 1317 381 1367 381 1418 381 1469 381 1520 381 1571 381 1622 381 1672 381 1723 381 1774 427 1779 493 1774 488 1083 437 1083 381 1078 381 1113"/></Shape>
+            <String CONTENT="ppropavant quatre m1"
+                    HPOS="381"
+                    VPOS="1078"
+                    WIDTH="112"
+                    HEIGHT="701"
+                    WC="0.9640850752592087"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_bafef09f"
+                    BASELINE="159 2120 144 1596 135 892" 
+                    HPOS="61"
+                    VPOS="884"
+                    WIDTH="127"
+                    HEIGHT="1231">
+            <Shape><Polygon POINTS="183 1601 183 1550 183 1500 183 1494 178 884 132 889 61 889 76 1444 86 1454 91 1505 91 1556 91 1606 91 1657 96 1708 96 1759 96 1810 96 1861 96 1911 101 1962 101 2013 101 2064 101 2115 157 2115 188 2110 183 1606 183 1601"/></Shape>
+            <String CONTENT="nce qui concerne Coty, Geyres et Gurche"
+                    HPOS="61"
+                    VPOS="884"
+                    WIDTH="127"
+                    HEIGHT="1231"
+                    WC="0.9677362808814416"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_dd8fdcf3"
+                    BASELINE="372 2867 380 2388" 
+                    HPOS="310"
+                    VPOS="2379"
+                    WIDTH="132"
+                    HEIGHT="483">
+            <Shape><Polygon POINTS="310 2400 310 2450 310 2501 310 2552 310 2603 310 2654 310 2705 310 2756 310 2806 310 2857 371 2862 442 2862 442 2384 376 2384 310 2379 310 2400"/></Shape>
+            <String CONTENT="e Commissaire rapporteur"
+                    HPOS="310"
+                    VPOS="2379"
+                    WIDTH="132"
+                    HEIGHT="483"
+                    WC="0.9253597781062126"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b1989074"
+                    BASELINE="108 3045 105 2145 88 1462" 
+                    HPOS="30"
+                    VPOS="1454"
+                    WIDTH="153"
+                    HEIGHT="1586">
+            <Shape><Polygon POINTS="137 2984 137 2934 137 2883 137 2832 137 2781 137 2740 137 2735 183 2623 183 2618 183 2613 152 2074 147 2069 147 2018 147 1967 142 1917 142 1866 142 1840 122 1454 86 1459 30 1459 40 3040 106 3040 137 3035 137 2984"/></Shape>
+            <String CONTENT="Le présent jugement a commencé à recevoir son exécution"
+                    HPOS="30"
+                    VPOS="1454"
+                    WIDTH="153"
+                    HEIGHT="1586"
+                    WC="0.9801561817274256"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d415cd29"
+                    BASELINE="525 3016 525 2313" 
+                    HPOS="401"
+                    VPOS="2308"
+                    WIDTH="306"
+                    HEIGHT="707">
+            <Shape><Polygon POINTS="523 3015 707 3010 707 2715 701 2710 701 2705 701 2700 676 2659 656 2628 671 2603 676 2583 676 2578 676 2573 640 2308 523 2308 401 2313 437 2450 412 2593 412 2598 437 2796 412 2827 406 2837 401 2837 401 2842 401 2847 401 2852 422 3015 523 3015"/></Shape>
+            <String CONTENT="+"
+                    HPOS="401"
+                    VPOS="2308"
+                    WIDTH="306"
+                    HEIGHT="707"
+                    WC="0.9999985694885254"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b5ef590a"
+                    BASELINE="144 3182 147 2762" 
+                    HPOS="66"
+                    VPOS="2761"
+                    WIDTH="127"
+                    HEIGHT="417">
+            <Shape><Polygon POINTS="106 2771 106 2822 106 2873 106 2923 106 2974 106 3025 66 3040 66 3173 142 3178 193 3173 188 2827 188 2822 188 2771 188 2761 142 2761 106 2761 106 2771"/></Shape>
+            <String CONTENT="Le ingt- troiseous"
+                    HPOS="66"
+                    VPOS="2761"
+                    WIDTH="127"
+                    HEIGHT="417"
+                    WC="0.9192745387554169"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3b010658"
+                    BASELINE="271 3179 255 2722 249 2159 260 1835 241 1386 252 1062 252 904" 
+                    HPOS="193"
+                    VPOS="894"
+                    WIDTH="107"
+                    HEIGHT="2284">
+            <Shape><Polygon POINTS="249 900 193 900 193 940 193 991 193 1042 193 1093 193 1144 193 1194 193 1245 193 1296 193 1347 193 1398 193 1449 193 1500 193 1550 193 1601 198 1652 198 1703 198 1754 198 1805 198 1856 203 1906 203 1957 203 2008 203 2059 203 2110 203 2161 203 2211 203 2262 198 2308 203 2944 208 2974 208 3025 213 3076 213 3127 213 3178 269 3178 300 3173 279 894 249 900"/></Shape>
+            <String CONTENT="du 27 avril 1919 pein cotq- 28 avril 1915 pour zuscher- 25 avril 191pour gertres"
+                    HPOS="193"
+                    VPOS="894"
+                    WIDTH="107"
+                    HEIGHT="2284"
+                    WC="0.9422187440097332"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_933fad6a"
+                    BASELINE="216 3187 191 2619 205 2096 191 1414 194 852" 
+                    HPOS="101"
+                    VPOS="844"
+                    WIDTH="148"
+                    HEIGHT="2339">
+            <Shape><Polygon POINTS="244 2669 244 2618 244 2593 239 2456 239 2420 239 2369 239 2318 239 2267 239 2217 239 2166 239 2115 239 2064 239 2059 233 1454 233 1454 233 1423 228 844 193 849 122 849 122 889 137 894 137 945 137 996 137 1047 137 1098 137 1149 137 1200 142 1250 142 1301 142 1352 142 1403 142 1454 142 1505 142 1556 147 1606 147 1657 147 1708 147 1759 152 1810 152 1861 152 1911 157 1962 157 2013 157 2064 157 2115 111 2156 106 2710 106 2725 106 2776 106 2827 106 2878 106 2928 106 2979 106 3030 101 3030 101 3178 213 3183 249 3178 244 2674 244 2669"/></Shape>
+            <String CONTENT="e co ut 41019 ence qui concerne Geune verne et ćédier pour compl"
+                    HPOS="101"
+                    VPOS="844"
+                    WIDTH="148"
+                    HEIGHT="2339"
+                    WC="0.9081872767119696"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2f8e231e"
+                    BASELINE="324 3187 307 2772 307 2384 302 1904 299 1494 299 730" 
+                    HPOS="223"
+                    VPOS="722"
+                    WIDTH="143"
+                    HEIGHT="2461">
+            <Shape><Polygon POINTS="295 727 223 727 223 869 249 894 254 945 254 996 254 1047 249 1098 249 1149 249 1200 244 1250 244 1301 244 1352 244 1403 244 1454 249 1505 249 1556 254 1606 254 1657 254 1708 259 1759 259 1810 259 1861 259 1911 254 1962 254 2013 249 2064 249 2115 249 2166 249 2217 249 2267 249 2318 249 2369 249 2420 254 2471 254 2522 254 2573 254 2623 254 2674 259 2725 259 2776 259 2827 264 2878 264 2928 264 2979 269 3030 269 3081 269 3132 249 3142 254 3183 320 3183 366 3173 345 722 295 727"/></Shape>
+            <String CONTENT="11 juillet 1919 pour Darier. 2 juillet 1919 pour verne 25 avril 1919 pour geene"
+                    HPOS="223"
+                    VPOS="722"
+                    WIDTH="143"
+                    HEIGHT="2461"
+                    WC="0.9542697366279892"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
