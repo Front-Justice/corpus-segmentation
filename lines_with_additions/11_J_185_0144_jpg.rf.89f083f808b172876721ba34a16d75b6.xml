@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_185_0144_jpg.rf.89f083f808b172876721ba34a16d75b6.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="4177"
+          HEIGHT="6265"
+          PHYSICAL_IMG_NR="236"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4177"
+                  HEIGHT="6265">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_a7509660"
+                    TAGREFS="LT10974"
+                    BASELINE="177 3919 257 3891" 
+                    HPOS="111"
+                    VPOS="3678"
+                    WIDTH="237"
+                    HEIGHT="505">
+            <Shape><Polygon POINTS="177 3919 268 4183 348 4155 257 3891 177 3678 111 3727 177 3919"/></Shape>
+            <String CONTENT=""
+                    HPOS="111"
+                    VPOS="3678"
+                    WIDTH="237"
+                    HEIGHT="505"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b9a52f3b"
+                    TAGREFS="LT10974"
+                    BASELINE="908 5589 2252 5558" 
+                    HPOS="905"
+                    VPOS="5502"
+                    WIDTH="1347"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="908 5589 908 5607 2252 5582 2252 5558 2241 5509 1639 5520 1597 5509 1555 5502 1552 5502 1454 5513 1305 5527 1249 5513 1235 5509 1232 5509 1228 5509 1225 5509 1221 5509 1218 5513 1186 5530 905 5516 908 5589"/></Shape>
+            <String CONTENT="Le présent jugement a commencé a rrecevoi"
+                    HPOS="905"
+                    VPOS="5502"
+                    WIDTH="1347"
+                    HEIGHT="105"
+                    WC="0.9941222986509634"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_fcd9ed71"
+                    TAGREFS="LT10974"
+                    BASELINE="831 5655 2453 5607" 
+                    HPOS="828"
+                    VPOS="5551"
+                    WIDTH="1625"
+                    HEIGHT="125">
+            <Shape><Polygon POINTS="1942 5568 1907 5568 1893 5568 1886 5575 1712 5579 1688 5575 1670 5572 1663 5572 1629 5575 1622 5575 1618 5579 1615 5582 1604 5579 1594 5575 1594 5575 1559 5575 1542 5575 1538 5579 1531 5586 1521 5582 1507 5575 1489 5579 1454 5579 1448 5579 1427 5586 1416 5586 1406 5586 1374 5579 1350 5582 1319 5582 1312 5589 1308 5589 1305 5589 1270 5582 1246 5582 1211 5582 1190 5582 1152 5593 1134 5596 1113 5596 1044 5586 1037 5589 1002 5589 967 5589 943 5589 828 5603 831 5655 831 5676 2450 5648 2453 5607 2443 5551 2001 5572 1970 5565 1942 5568"/></Shape>
+            <String CONTENT="son excécution le trois Mars mil neuf cent seize"
+                    HPOS="828"
+                    VPOS="5551"
+                    WIDTH="1625"
+                    HEIGHT="125"
+                    WC="0.9777293643172906"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_cc0f2690"
+                    TAGREFS="LT10974"
+                    BASELINE="821 5708 2450 5683" 
+                    HPOS="817"
+                    VPOS="5628"
+                    WIDTH="1633"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="1723 5631 1688 5631 1660 5631 1618 5635 1465 5648 1354 5641 1340 5641 1305 5641 1270 5645 1235 5645 1228 5645 1218 5655 992 5655 950 5652 922 5655 887 5655 852 5655 849 5641 817 5641 821 5708 821 5763 971 5749 1235 5760 1260 5760 1263 5760 1267 5760 1270 5760 1270 5756 1294 5732 1357 5749 1361 5749 1364 5749 1472 5732 1503 5753 1507 5753 1510 5753 1514 5753 1517 5753 1566 5728 1604 5753 1608 5753 1611 5753 1615 5753 1622 5753 1782 5725 1890 5725 1924 5746 1924 5749 1928 5749 1931 5749 1935 5749 1938 5749 1952 5746 2050 5722 2443 5735 2450 5683 2443 5631 1754 5628 1723 5631"/></Shape>
+            <String CONTENT="pour compter du vingt trois février mil neuf cento"
+                    HPOS="817"
+                    VPOS="5628"
+                    WIDTH="1633"
+                    HEIGHT="135"
+                    WC="0.9663558684143365"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e94bf4f8"
+                    TAGREFS="LT10974"
+                    BASELINE="1910 5788 2185 5781 2380 5753" 
+                    HPOS="1904"
+                    VPOS="5694"
+                    WIDTH="476"
+                    HEIGHT="153">
+            <Shape><Polygon POINTS="1910 5788 1910 5816 2050 5816 2057 5819 2119 5847 2123 5847 2126 5847 2130 5847 2185 5826 2279 5836 2283 5836 2286 5836 2290 5836 2290 5833 2307 5816 2318 5805 2377 5812 2380 5753 2370 5711 2290 5694 2286 5694 2283 5694 2279 5694 2259 5711 2252 5718 2234 5711 2199 5701 2196 5701 2192 5701 2189 5701 2158 5711 2112 5728 1904 5718 1910 5788"/></Shape>
+            <String CONTENT="armis Greffie"
+                    HPOS="1904"
+                    VPOS="5694"
+                    WIDTH="476"
+                    HEIGHT="153"
+                    WC="0.9043111709448007"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_16dbc19b"
+                    TAGREFS="LT10974"
+                    BASELINE="1914 5934 1987 5909 2245 5875" 
+                    HPOS="1897"
+                    VPOS="5795"
+                    WIDTH="375"
+                    HEIGHT="334">
+            <Shape><Polygon POINTS="1914 5934 1942 6129 2067 6108 2102 6125 2109 6129 2112 6129 2116 6129 2119 6129 2123 6129 2126 6125 2147 6111 2272 6118 2245 5875 2231 5805 2189 5798 2185 5798 2182 5798 2123 5822 2109 5826 2098 5822 2029 5795 2025 5795 2022 5795 1928 5809 1924 5809 1921 5809 1921 5812 1897 5836 1914 5934"/></Shape>
+            <String CONTENT="+"
+                    HPOS="1897"
+                    VPOS="5795"
+                    WIDTH="375"
+                    HEIGHT="334"
+                    WC="0.9989818930625916"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

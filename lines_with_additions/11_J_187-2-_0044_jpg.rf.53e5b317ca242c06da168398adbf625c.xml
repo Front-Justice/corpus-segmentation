@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_187-2-_0044_jpg.rf.53e5b317ca242c06da168398adbf625c.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3908"
+          HEIGHT="6183"
+          PHYSICAL_IMG_NR="303"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3908"
+                  HEIGHT="6183">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_f818bb88"
+                    BASELINE="355 3809 330 2849" 
+                    HPOS="237"
+                    VPOS="2844"
+                    WIDTH="216"
+                    HEIGHT="963">
+            <Shape><Polygon POINTS="237 2844 237 2875 268 3091 247 3519 247 3524 278 3684 252 3797 350 3807 412 3797 402 3617 417 3591 448 3555 448 3550 448 3544 453 3544 453 3395 448 3390 448 3385 448 3380 422 3349 391 3307 427 3132 427 3122 427 3117 427 3112 427 3106 422 3106 386 3065 386 2988 433 2844 329 2844 237 2844"/></Shape>
+            <String CONTENT="PERÉE OEREREAI A. EEVESI Crsrpe ss cone"
+                    HPOS="237"
+                    VPOS="2844"
+                    WIDTH="216"
+                    HEIGHT="963"
+                    WC="0.5356462839990854"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_fc5bcdc4"
+                    BASELINE="368 5065 372 4096" 
+                    HPOS="288"
+                    VPOS="4085"
+                    WIDTH="139"
+                    HEIGHT="979">
+            <Shape><Polygon POINTS="288 4853 293 4905 299 4956 299 5008 304 5059 366 5064 422 5059 427 4091 371 4091 288 4085 288 4802 288 4853"/></Shape>
+            <String CONTENT="Le COmMmILAITe Rappere"
+                    HPOS="288"
+                    VPOS="4085"
+                    WIDTH="139"
+                    HEIGHT="979"
+                    WC="0.9511054402047937"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_45b03298"
+                    BASELINE="243 5390 185 4075 154 3039 144 2649 131 1957" 
+                    HPOS="5"
+                    VPOS="1947"
+                    WIDTH="288"
+                    HEIGHT="3442">
+            <Shape><Polygon POINTS="262 4637 237 4529 247 4333 247 4302 247 4250 247 4199 247 4178 221 4080 242 3998 247 3988 247 3982 247 3977 247 3972 247 3967 242 3967 216 3936 232 3637 232 3580 232 3575 232 3570 226 3514 190 3246 211 3081 211 3050 211 3045 211 3039 206 3029 180 2962 206 2911 206 2900 206 2895 206 2890 206 2885 206 2880 201 2880 180 2854 195 2730 201 2689 201 2684 201 2679 195 2663 175 2617 190 2571 195 2550 195 2545 195 2540 164 1947 128 1952 5 1952 30 3251 30 3256 67 3354 92 3421 87 3802 87 4018 87 4024 108 4235 123 4389 118 4405 97 4441 97 4446 97 4451 97 4456 123 4508 134 4539 123 4580 108 4663 108 4668 108 4673 108 4678 128 4714 144 4735 149 5028 144 5044 123 5121 123 5126 123 5131 123 5137 123 5142 154 5183 159 5188 164 5389 242 5389 293 5379 247 4704 268 4663 262 4637"/></Shape>
+            <String CONTENT="le présent jugement a commané à pocenoir son entuution le dix neuf Juillet mil neuf cent dix neuf"
+                    HPOS="5"
+                    VPOS="1947"
+                    WIDTH="288"
+                    HEIGHT="3442"
+                    WC="0.9342535310983657"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7a31c1f3"
+                    BASELINE="329 5415 260 4397 257 3871 232 3232 238 2559 210 1789 194 1000" 
+                    HPOS="92"
+                    VPOS="999"
+                    WIDTH="294"
+                    HEIGHT="4411">
+            <Shape><Polygon POINTS="97 999 92 1653 92 1659 128 1921 139 1968 159 2797 159 2808 144 2828 144 2839 144 2880 159 2895 164 2900 159 2916 149 2947 149 2993 149 3019 164 3039 170 3050 164 3106 154 3210 159 3246 159 3297 159 3333 175 3359 175 3364 175 3380 164 3514 170 3555 170 3606 170 3632 185 3658 185 3663 185 3689 175 3833 175 3864 180 3915 180 3967 180 4018 185 4070 185 4122 185 4173 190 4225 190 4276 195 4328 195 4379 201 4431 201 4482 206 4534 206 4585 211 4637 211 4688 216 4740 216 4791 221 4843 221 4894 221 4946 226 4997 226 5049 232 5100 232 5152 237 5204 237 5255 242 5307 242 5358 237 5358 242 5410 324 5410 360 5404 386 5291 386 5286 386 5281 355 5219 335 5178 309 4353 329 4281 340 4255 340 4250 340 4245 340 4240 340 4235 329 4219 304 4178 324 4008 335 3900 335 3895 335 3890 335 3884 319 3869 293 3833 314 3725 324 3673 324 3668 324 3663 324 3658 314 3642 283 3596 304 3318 304 3292 304 3287 304 3282 304 3276 273 3240 299 3127 309 3076 309 3070 309 3065 299 3029 283 2993 293 2972 304 2962 304 2957 304 2952 304 2947 304 2942 304 2936 293 2926 268 2885 288 2668 293 2560 293 2555 278 2364 252 2081 268 2004 273 1973 273 1968 262 1659 262 1653 262 1648 257 1643 237 1617 237 999 190 999 97 999"/></Shape>
+            <String CONTENT="pour compter du Vingt-six mais il nouf cent dix neuf (Détention prescndise du 26 Mri 199 au 2Juillet 1911"
+                    HPOS="92"
+                    VPOS="999"
+                    WIDTH="294"
+                    HEIGHT="4411"
+                    WC="0.9504172897563791"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

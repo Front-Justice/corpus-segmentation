@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_187-2-_0183_jpg.rf.3b8240a75474ace7d03ef332b5b6de85.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3796"
+          HEIGHT="6118"
+          PHYSICAL_IMG_NR="350"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3796"
+                  HEIGHT="6118">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_80b585a6"
+                    BASELINE="2665 1396 3528 1392" 
+                    HPOS="2663"
+                    VPOS="1274"
+                    WIDTH="862"
+                    HEIGHT="179">
+            <Shape><Polygon POINTS="2663 1391 2663 1442 3520 1453 3525 1391 3525 1305 3306 1274 3301 1274 3295 1274 3290 1274 3255 1300 3250 1300 3239 1300 3158 1274 3153 1274 3148 1274 2663 1284 2663 1391"/></Shape>
+            <String CONTENT="Le soldat Galdemas"
+                    HPOS="2663"
+                    VPOS="1274"
+                    WIDTH="862"
+                    HEIGHT="179"
+                    WC="0.9712697598669264"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_514884ef"
+                    BASELINE="2615 1483 3233 1492" 
+                    HPOS="2607"
+                    VPOS="1412"
+                    WIDTH="622"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="2612 1478 2607 1519 3224 1514 3229 1488 3229 1412 2612 1412 2612 1478"/></Shape>
+            <String CONTENT="est Amnistié"
+                    HPOS="2607"
+                    VPOS="1412"
+                    WIDTH="622"
+                    HEIGHT="107"
+                    WC="0.9967966263110821"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_66811c77"
+                    BASELINE="2597 1578 3514 1587" 
+                    HPOS="2591"
+                    VPOS="1483"
+                    WIDTH="919"
+                    HEIGHT="148">
+            <Shape><Polygon POINTS="2596 1575 2591 1621 3500 1631 3510 1585 3505 1498 2596 1483 2596 1575"/></Shape>
+            <String CONTENT="L0) du 240011010"
+                    HPOS="2591"
+                    VPOS="1483"
+                    WIDTH="919"
+                    HEIGHT="148"
+                    WC="0.985685620456934"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ad530dc0"
+                    BASELINE="2956 1669 3487 1678" 
+                    HPOS="2949"
+                    VPOS="1590"
+                    WIDTH="535"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="2954 1667 2949 1692 3474 1702 3484 1677 3479 1600 2954 1590 2954 1667"/></Shape>
+            <String CONTENT="Le Groitie"
+                    HPOS="2949"
+                    VPOS="1590"
+                    WIDTH="535"
+                    HEIGHT="112"
+                    WC="0.977719122171402"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_46e40d14"
+                    BASELINE="3087 1837 3591 1760" 
+                    HPOS="3061"
+                    VPOS="1626"
+                    WIDTH="541"
+                    HEIGHT="362">
+            <Shape><Polygon POINTS="3474 1677 3469 1677 3443 1697 3061 1697 3086 1835 3107 1988 3219 1978 3224 1978 3229 1978 3250 1962 3311 1922 3387 1932 3423 1932 3428 1932 3433 1932 3602 1876 3586 1758 3545 1626 3474 1672 3474 1677"/></Shape>
+            <String CONTENT="+"
+                    HPOS="3061"
+                    VPOS="1626"
+                    WIDTH="541"
+                    HEIGHT="362"
+                    WC="0.9999909400939941"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

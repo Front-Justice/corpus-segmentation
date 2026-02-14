@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_187-2-_0122_jpg.rf.7fccc76b189b5c6d9f8bc32c05a8a777.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3723"
+          HEIGHT="6037"
+          PHYSICAL_IMG_NR="328"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3723"
+                  HEIGHT="6037">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_4d91a132"
+                    BASELINE="109 3251 120 2653" 
+                    HPOS="40"
+                    VPOS="2646"
+                    WIDTH="171"
+                    HEIGHT="603">
+            <Shape><Polygon POINTS="211 3249 211 3104 206 3098 206 3093 206 3088 160 3018 201 2887 201 2877 201 2872 201 2867 201 2862 196 2857 166 2792 186 2651 115 2651 40 2646 40 3244 105 3249 211 3249"/></Shape>
+            <String CONTENT="e vingt trois aout 1949"
+                    HPOS="40"
+                    VPOS="2646"
+                    WIDTH="171"
+                    HEIGHT="603"
+                    WC="0.8673672326233076"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a92fe954"
+                    BASELINE="408 3968 372 2985" 
+                    HPOS="296"
+                    VPOS="2978"
+                    WIDTH="166"
+                    HEIGHT="986">
+            <Shape><Polygon POINTS="367 2983 296 2983 327 3964 407 3964 462 3954 432 3833 422 2978 367 2983"/></Shape>
+            <String CONTENT="EDETISIEE DEOMMSTRATUE DOUDOT MRETTEE Ee CONSEI"
+                    HPOS="296"
+                    VPOS="2978"
+                    WIDTH="166"
+                    HEIGHT="986"
+                    WC="0.8943860467444075"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_41adb59a"
+                    BASELINE="579 4675 506 4078" 
+                    HPOS="387"
+                    VPOS="4064"
+                    WIDTH="277"
+                    HEIGHT="614">
+            <Shape><Polygon POINTS="503 4074 387 4085 397 4235 397 4240 397 4246 407 4256 462 4336 477 4482 457 4678 578 4673 664 4658 638 4225 638 4220 638 4215 633 4215 588 4165 583 4165 568 4064 503 4074"/></Shape>
+            <String CONTENT="+"
+                    HPOS="387"
+                    VPOS="4064"
+                    WIDTH="277"
+                    HEIGHT="614"
+                    WC="0.8349355459213257"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b8aa6e8c"
+                    BASELINE="404 4857 350 4296" 
+                    HPOS="276"
+                    VPOS="4281"
+                    WIDTH="201"
+                    HEIGHT="573">
+            <Shape><Polygon POINTS="347 4291 276 4291 311 4854 402 4854 477 4834 432 4688 412 4281 347 4291"/></Shape>
+            <String CONTENT="e Commissaire Rapporter."
+                    HPOS="276"
+                    VPOS="4281"
+                    WIDTH="201"
+                    HEIGHT="573"
+                    WC="0.9244794237116972"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0d857ada"
+                    BASELINE="106 4894 127 3313" 
+                    HPOS="10"
+                    VPOS="3305"
+                    WIDTH="156"
+                    HEIGHT="1584">
+            <Shape><Polygon POINTS="155 4889 166 3310 125 3310 20 3305 45 3692 15 3929 15 3949 15 3954 15 3969 40 4090 15 4256 10 4296 10 4301 15 4326 35 4422 15 4879 105 4889 155 4889"/></Shape>
+            <String CONTENT="e présent jugement a commencé a recevoir son exécution"
+                    HPOS="10"
+                    VPOS="3305"
+                    WIDTH="156"
+                    HEIGHT="1584"
+                    WC="0.972373714572505"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_53046c65"
+                    BASELINE="226 4912 244 4027 244 3345" 
+                    HPOS="135"
+                    VPOS="3335"
+                    WIDTH="151"
+                    HEIGHT="1575">
+            <Shape><Polygon POINTS="241 3340 171 3335 135 4895 221 4910 256 4905 286 3340 241 3340"/></Shape>
+            <String CONTENT="our compter du dix neuf Juillet 1917"
+                    HPOS="135"
+                    VPOS="3335"
+                    WIDTH="151"
+                    HEIGHT="1575"
+                    WC="0.9923302829265594"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

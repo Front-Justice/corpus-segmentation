@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_187-2-_0008_jpg.rf.75837c5459511f1d10fcbace254860dc.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3925"
+          HEIGHT="6248"
+          PHYSICAL_IMG_NR="296"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3925"
+                  HEIGHT="6248">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_c4315c7c"
+                    BASELINE="603 3148 613 2894 608 2700 603 2448" 
+                    HPOS="469"
+                    VPOS="2447"
+                    WIDTH="333"
+                    HEIGHT="697">
+            <Shape><Polygon POINTS="802 3144 802 2973 797 2967 797 2962 797 2957 781 2936 708 2816 708 2665 750 2603 766 2582 766 2577 766 2572 766 2566 766 2561 766 2556 745 2530 714 2488 740 2457 599 2447 469 2447 469 2561 469 2566 469 2572 474 2572 479 2582 521 2618 521 2665 495 2707 469 2738 469 2743 469 2749 469 2754 469 2759 469 2764 474 2764 505 2795 536 2827 542 3139 599 3144 802 3144"/></Shape>
+            <String CONTENT=" ui cf"
+                    HPOS="469"
+                    VPOS="2447"
+                    WIDTH="333"
+                    HEIGHT="697"
+                    WC="0.6624009211858114"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_aca19095"
+                    BASELINE="654 3581 664 3463" 
+                    HPOS="620"
+                    VPOS="3457"
+                    WIDTH="68"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="620 3467 620 3519 620 3571 651 3576 688 3576 688 3462 661 3462 620 3457 620 3467"/></Shape>
+            <String CONTENT="+"
+                    HPOS="620"
+                    VPOS="3457"
+                    WIDTH="68"
+                    HEIGHT="119"
+                    WC="0.9999289512634277"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1865c3ed"
+                    BASELINE="652 3767 664 3640" 
+                    HPOS="609"
+                    VPOS="3634"
+                    WIDTH="94"
+                    HEIGHT="130">
+            <Shape><Polygon POINTS="615 3655 615 3707 609 3754 651 3764 703 3764 703 3639 661 3639 615 3634 615 3655"/></Shape>
+            <String CONTENT="raye"
+                    HPOS="609"
+                    VPOS="3634"
+                    WIDTH="94"
+                    HEIGHT="130"
+                    WC="0.9887641221284866"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c7cf2da8"
+                    BASELINE="546 3864 535 2898" 
+                    HPOS="432"
+                    VPOS="2889"
+                    WIDTH="146"
+                    HEIGHT="974">
+            <Shape><Polygon POINTS="531 2894 458 2894 432 3243 432 3290 432 3327 463 3394 474 3410 474 3545 463 3561 432 3618 432 3623 432 3629 469 3863 542 3863 578 3858 578 2889 531 2894"/></Shape>
+            <String CONTENT="DEDUCEE DEOMMETRATUIA GOUDET gEENEE De conSE."
+                    HPOS="432"
+                    VPOS="2889"
+                    WIDTH="146"
+                    HEIGHT="974"
+                    WC="0.8239539914660984"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1825e6e6"
+                    BASELINE="608 3895 628 3277" 
+                    HPOS="542"
+                    VPOS="3269"
+                    WIDTH="125"
+                    HEIGHT="625">
+            <Shape><Polygon POINTS="625 3274 557 3269 542 3878 604 3894 656 3889 635 3623 667 3274 625 3274"/></Shape>
+            <String CONTENT="approuvant douz"
+                    HPOS="542"
+                    VPOS="3269"
+                    WIDTH="125"
+                    HEIGHT="625"
+                    WC="0.9993960340817769"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ab857257"
+                    BASELINE="258 4660 263 3078" 
+                    HPOS="172"
+                    VPOS="3071"
+                    WIDTH="130"
+                    HEIGHT="1588">
+            <Shape><Polygon POINTS="297 4659 302 3077 260 3077 172 3071 172 4649 255 4659 297 4659"/></Shape>
+            <String CONTENT="Le présent jugement a commencé à recevoir son exécution"
+                    HPOS="172"
+                    VPOS="3071"
+                    WIDTH="130"
+                    HEIGHT="1588"
+                    WC="0.9893938686888096"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_450fcbaa"
+                    BASELINE="706 4639 695 4045" 
+                    HPOS="552"
+                    VPOS="4035"
+                    WIDTH="302"
+                    HEIGHT="598">
+            <Shape><Polygon POINTS="693 4040 552 4040 557 4217 557 4222 557 4227 609 4342 578 4628 703 4633 755 4628 755 4378 807 4311 854 4259 854 4253 854 4248 854 4243 849 4035 693 4040"/></Shape>
+            <String CONTENT=""
+                    HPOS="552"
+                    VPOS="4035"
+                    WIDTH="302"
+                    HEIGHT="598"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_057d2585"
+                    BASELINE="556 4688 549 4087" 
+                    HPOS="448"
+                    VPOS="4076"
+                    WIDTH="167"
+                    HEIGHT="610">
+            <Shape><Polygon POINTS="547 4082 448 4082 453 4686 552 4686 594 4680 615 4154 615 4149 615 4144 589 4076 547 4082"/></Shape>
+            <String CONTENT="Le Commissaire Rapporteur"
+                    HPOS="448"
+                    VPOS="4076"
+                    WIDTH="167"
+                    HEIGHT="610"
+                    WC="0.9481485080718994"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_85004f43"
+                    BASELINE="428 4751 428 3343 428 2154" 
+                    HPOS="291"
+                    VPOS="2150"
+                    WIDTH="198"
+                    HEIGHT="2598">
+            <Shape><Polygon POINTS="427 4748 489 4738 458 4316 458 3889 479 3858 484 3858 484 3852 484 3847 484 3842 479 3800 458 3639 479 3597 489 3576 489 3571 489 3566 479 3452 458 3295 474 3207 489 3113 489 3108 489 3103 474 3040 458 2988 469 2905 489 2764 489 2759 458 2150 427 2150 338 2150 291 2259 291 2264 291 2270 291 2275 344 2457 344 2462 297 2514 291 2514 291 2520 291 2525 291 2530 291 3248 291 3254 344 3389 344 3394 344 3405 317 3644 317 3649 317 3655 317 3660 344 3691 349 3691 349 3915 344 3915 312 3957 312 3962 312 3967 312 3972 312 3977 312 3983 344 4029 349 4035 349 4748 427 4748"/></Shape>
+            <String CONTENT="deux Juin 1919 à la pasade, pour compter du 25 avril 1916"
+                    HPOS="291"
+                    VPOS="2150"
+                    WIDTH="198"
+                    HEIGHT="2598"
+                    WC="0.9782479364296486"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
