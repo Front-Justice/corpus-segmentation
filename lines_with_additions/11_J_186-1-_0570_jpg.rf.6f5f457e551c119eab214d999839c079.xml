@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_186-1-_0570_jpg.rf.6f5f457e551c119eab214d999839c079.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT10974" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="4415"
+          HEIGHT="6118"
+          PHYSICAL_IMG_NR="249"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4415"
+                  HEIGHT="6118">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_ef6c44f9"
+                    BASELINE="1065 5473 1964 5477 2860 5497" 
+                    HPOS="1056"
+                    VPOS="5368"
+                    WIDTH="1802"
+                    HEIGHT="163">
+            <Shape><Polygon POINTS="1061 5470 1056 5511 2848 5531 2858 5496 2848 5394 2659 5419 2164 5383 2159 5383 2153 5383 2148 5383 1811 5409 1061 5368 1061 5470"/></Shape>
+            <String CONTENT="Le présent jugement a commencé à recevoir son exécution"
+                    HPOS="1056"
+                    VPOS="5368"
+                    WIDTH="1802"
+                    HEIGHT="163"
+                    WC="0.9775647702863661"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_10f28e73"
+                    BASELINE="1096 5544 2152 5559 3020 5587" 
+                    HPOS="1087"
+                    VPOS="5475"
+                    WIDTH="1929"
+                    HEIGHT="163">
+            <Shape><Polygon POINTS="2827 5496 2776 5496 2725 5496 2674 5496 2633 5490 2531 5490 2521 5490 2470 5490 2419 5490 2404 5485 1092 5475 1092 5541 1087 5577 1270 5608 1276 5608 1449 5592 1551 5582 1643 5597 1771 5618 1776 5618 1781 5618 1837 5603 1893 5587 1954 5608 1990 5618 1995 5618 2000 5618 2005 5618 2010 5618 2021 5608 2056 5592 2444 5592 2485 5623 2490 5623 2495 5623 2500 5623 2511 5623 2720 5603 2781 5633 2797 5638 2802 5638 2807 5638 2812 5638 2832 5633 2924 5608 3001 5638 3016 5582 3011 5496 2827 5490 2827 5496"/></Shape>
+            <String CONTENT="le dix- sept Juillet 1917, à la parade, pour campter du 13 Juin 1916"
+                    HPOS="1087"
+                    VPOS="5475"
+                    WIDTH="1929"
+                    HEIGHT="163"
+                    WC="0.9565974646720333"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c2f3fb93"
+                    BASELINE="2078 5630 2484 5657" 
+                    HPOS="2072"
+                    VPOS="5557"
+                    WIDTH="408"
+                    HEIGHT="188">
+            <Shape><Polygon POINTS="2077 5628 2072 5684 2230 5745 2235 5745 2240 5745 2470 5720 2480 5654 2480 5582 2077 5557 2077 5628"/></Shape>
+            <String CONTENT="Le Greffier"
+                    HPOS="2072"
+                    VPOS="5557"
+                    WIDTH="408"
+                    HEIGHT="188"
+                    WC="0.9940444176847284"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5851e292"
+                    BASELINE="2023 5829 2617 5727" 
+                    HPOS="2000"
+                    VPOS="5654"
+                    WIDTH="623"
+                    HEIGHT="321">
+            <Shape><Polygon POINTS="2021 5827 2046 5975 2199 5949 2204 5949 2210 5949 2210 5944 2230 5929 2276 5883 2358 5893 2414 5898 2419 5898 2424 5898 2623 5817 2613 5725 2592 5654 2000 5730 2021 5827"/></Shape>
+            <String CONTENT="+"
+                    HPOS="2000"
+                    VPOS="5654"
+                    WIDTH="623"
+                    HEIGHT="321"
+                    WC="0.9999995231628418"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
