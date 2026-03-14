@@ -31,12 +31,12 @@
                     WIDTH="688.0"
                     HEIGHT="163.0">
             <Shape><Polygon POINTS="1131 5483 1131 5514 1819 5509 1819 5483 1813 5351 1131 5371 1131 5483"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le présent jugement"
                     HPOS="1131.0"
                     VPOS="5351.0"
                     WIDTH="688.0"
                     HEIGHT="163.0"
-                    ></String>
+                    WC="0.9717372804880142"></String>
           </TextLine>
           <TextLine ID="eSc_line_4134b1c0"
                     TAGREFS="LT11707"
@@ -46,12 +46,12 @@
                     WIDTH="1335.0"
                     HEIGHT="122.0">
             <Shape><Polygon POINTS="1808 5488 1757 5488 1706 5488 1656 5488 1605 5488 1554 5488 1503 5488 1452 5488 1401 5488 1350 5488 1299 5488 1248 5488 1197 5488 1146 5488 1141 5468 891 5468 896 5534 896 5565 2007 5570 2012 5570 2221 5539 2226 5509 2211 5448 1803 5453 1808 5488"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="a commencé à recevoir son exécution le"
                     HPOS="891.0"
                     VPOS="5448.0"
                     WIDTH="1335.0"
                     HEIGHT="122.0"
-                    ></String>
+                    WC="0.9665238566514922"></String>
           </TextLine>
           <TextLine ID="eSc_line_594ddc6a"
                     TAGREFS="LT11707"
@@ -61,12 +61,12 @@
                     WIDTH="1462.0"
                     HEIGHT="137.0">
             <Shape><Polygon POINTS="2211 5514 2160 5514 2109 5514 2058 5519 2007 5519 1956 5524 1910 5524 1905 5529 1727 5529 1701 5534 1650 5534 1599 5534 1549 5539 1498 5539 1447 5539 1396 5539 1345 5539 1294 5539 1243 5539 1192 5539 1141 5539 1090 5539 1039 5539 988 5539 937 5539 932 5519 886 5519 891 5595 891 5631 2033 5636 2038 5636 2343 5595 2348 5560 2338 5504 2206 5499 2211 5514"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="treize novembre mil neuf cent quinze pour"
                     HPOS="886.0"
                     VPOS="5499.0"
                     WIDTH="1462.0"
                     HEIGHT="137.0"
-                    ></String>
+                    WC="0.9734041356458897"></String>
           </TextLine>
           <TextLine ID="eSc_line_3a007958"
                     TAGREFS="LT11707"
@@ -76,12 +76,12 @@
                     WIDTH="810.0"
                     HEIGHT="112.0">
             <Shape><Polygon POINTS="1661 5595 1610 5595 1559 5595 1508 5595 1457 5595 1406 5595 1355 5595 1304 5595 1253 5595 1202 5595 1151 5595 1100 5595 1049 5595 998 5595 947 5595 896 5595 901 5656 901 5707 1706 5672 1706 5641 1691 5595 1661 5595"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="compter du même jour"
                     HPOS="896.0"
                     VPOS="5595.0"
                     WIDTH="810.0"
                     HEIGHT="112.0"
-                    ></String>
+                    WC="0.9939361782301039"></String>
           </TextLine>
           <TextLine ID="eSc_line_94a6cdcf"
                     BASELINE="1406 5732 1814 5765" 
@@ -90,12 +90,12 @@
                     WIDTH="422.0"
                     HEIGHT="183.0">
             <Shape><Polygon POINTS="1661 5646 1610 5646 1559 5646 1508 5646 1457 5646 1406 5651 1401 5728 1391 5809 1798 5819 1813 5763 1813 5641 1666 5636 1661 5646"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="L Greffier"
                     HPOS="1391.0"
                     VPOS="5636.0"
                     WIDTH="422.0"
                     HEIGHT="183.0"
-                    ></String>
+                    WC="0.987713098526001"></String>
           </TextLine>
           <TextLine ID="eSc_line_7b7c669d"
                     BASELINE="1366 5957 1983 5813" 
@@ -104,12 +104,12 @@
                     WIDTH="682.0"
                     HEIGHT="361.0">
             <Shape><Polygon POINTS="1365 5952 1396 6104 1447 6104 1487 6104 2027 6043 1982 5809 1961 5743 1788 5784 1737 5763 1732 5763 1727 5763 1722 5763 1717 5763 1661 5809 1543 5789 1538 5789 1533 5789 1345 5875 1365 5952"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="1345.0"
                     VPOS="5743.0"
                     WIDTH="682.0"
                     HEIGHT="361.0"
-                    ></String>
+                    WC="0.999998927116394"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

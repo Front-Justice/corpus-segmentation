@@ -22,6 +22,92 @@
                   VPOS="0"
                   WIDTH="3675"
                   HEIGHT="6118">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_9155ccf8"
+                    BASELINE="18 5406 1951 5406" 
+                    HPOS="15"
+                    VPOS="5266"
+                    WIDTH="1934"
+                    HEIGHT="179">
+            <Shape><Polygon POINTS="15 5404 15 5445 1949 5424 1949 5404 1949 5297 1000 5266 995 5266 214 5302 102 5266 96 5266 91 5266 86 5266 15 5302 15 5404"/></Shape>
+            <String CONTENT="Jugement exécutoire le 3 mars 1919 (à la parade)"
+                    HPOS="15"
+                    VPOS="5266"
+                    WIDTH="1934"
+                    HEIGHT="179"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0df093ae"
+                    BASELINE="14 5470 1678 5463" 
+                    HPOS="5"
+                    VPOS="5383"
+                    WIDTH="1669"
+                    HEIGHT="148">
+            <Shape><Polygon POINTS="1638 5409 56 5409 51 5383 5 5383 10 5465 10 5531 209 5501 515 5526 831 5496 908 5526 928 5526 964 5496 1076 5496 1276 5526 1291 5526 1321 5496 1669 5490 1674 5460 1663 5409 1638 5409"/></Shape>
+            <String CONTENT="pour compter du 25 décembre 1918."
+                    HPOS="5"
+                    VPOS="5383"
+                    WIDTH="1669"
+                    HEIGHT="148"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7cebf3cf"
+                    BASELINE="32 5583 1266 5569" 
+                    HPOS="25"
+                    VPOS="5490"
+                    WIDTH="1240"
+                    HEIGHT="174">
+            <Shape><Polygon POINTS="30 5582 30 5618 433 5613 479 5654 479 5659 484 5659 490 5659 780 5659 796 5659 847 5648 898 5638 949 5628 1000 5618 1000 5659 1173 5664 1179 5664 1184 5664 1189 5664 1265 5603 1265 5567 1250 5490 25 5501 30 5582"/></Shape>
+            <String CONTENT="Le Commissaire Rapporteur."
+                    HPOS="25"
+                    VPOS="5490"
+                    WIDTH="1240"
+                    HEIGHT="174"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ebcab649"
+                    BASELINE="1327 5580 1823 5580" 
+                    HPOS="1321"
+                    VPOS="5465"
+                    WIDTH="501"
+                    HEIGHT="189">
+            <Shape><Polygon POINTS="1321 5577 1321 5628 1628 5654 1633 5654 1638 5654 1643 5654 1679 5623 1822 5623 1822 5577 1822 5490 1321 5465 1321 5577"/></Shape>
+            <String CONTENT="Le Greffier"
+                    HPOS="1321"
+                    VPOS="5465"
+                    WIDTH="501"
+                    HEIGHT="189"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f5819bd0"
+                    BASELINE="1224 5871 2288 5591" 
+                    HPOS="1173"
+                    VPOS="5490"
+                    WIDTH="1118"
+                    HEIGHT="439">
+            <Shape><Polygon POINTS="1219 5868 1235 5929 1470 5842 1526 5852 1531 5852 1536 5852 1541 5852 1541 5847 1546 5847 1572 5812 1612 5822 1618 5822 1623 5822 1628 5822 1801 5745 2291 5633 2286 5587 2250 5501 2184 5521 2133 5490 2128 5490 2123 5490 2118 5490 2113 5490 2108 5490 2108 5496 2102 5496 2067 5552 1944 5582 1878 5567 1873 5567 1868 5567 1863 5567 1857 5567 1750 5633 1633 5608 1628 5608 1623 5608 1510 5659 1449 5643 1444 5643 1439 5643 1434 5643 1173 5710 1219 5868"/></Shape>
+            <String CONTENT="+"
+                    HPOS="1173"
+                    VPOS="5490"
+                    WIDTH="1118"
+                    HEIGHT="439"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1915d642"
+                    BASELINE="103 5807 1036 5619" 
+                    HPOS="81"
+                    VPOS="5572"
+                    WIDTH="960"
+                    HEIGHT="301">
+            <Shape><Polygon POINTS="990 5572 939 5572 888 5572 837 5577 786 5577 729 5577 724 5577 678 5613 454 5623 449 5623 81 5725 102 5801 117 5873 403 5796 469 5822 474 5822 479 5822 484 5822 597 5776 740 5776 745 5776 750 5776 755 5776 821 5725 883 5745 888 5745 893 5745 1041 5715 1031 5618 1015 5572 990 5572"/></Shape>
+            <String CONTENT="+"
+                    HPOS="81"
+                    VPOS="5572"
+                    WIDTH="960"
+                    HEIGHT="301"
+                    ></String>
+          </TextLine>
+        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>

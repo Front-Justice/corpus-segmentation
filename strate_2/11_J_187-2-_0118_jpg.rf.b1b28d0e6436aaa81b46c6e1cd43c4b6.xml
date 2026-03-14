@@ -23,74 +23,74 @@
                   HEIGHT="6037">
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_08ea6cc2"
-                    BASELINE="495 4060 473 3098" 
-                    HPOS="352"
-                    VPOS="3088"
-                    WIDTH="221"
-                    HEIGHT="971">
-            <Shape><Polygon POINTS="467 3093 387 3093 362 3164 362 3169 362 3174 362 3179 392 3275 407 3320 407 3516 387 3536 352 3581 352 3586 352 3592 352 3597 357 3747 357 3753 387 3813 417 3873 387 4054 493 4059 538 4054 568 3939 568 3934 543 3808 573 3742 573 3737 573 3732 543 3516 528 3400 538 3088 467 3093"/></Shape>
-            <String CONTENT="CENEEL DUORRDR LEI EOUDDE CENE DU ÉNEE"
-                    HPOS="352"
-                    VPOS="3088"
-                    WIDTH="221"
-                    HEIGHT="971"
-                    WC="0.7028340739317429"></String>
+                    BASELINE="495 4060 479 3017" 
+                    HPOS="372"
+                    VPOS="3008"
+                    WIDTH="201"
+                    HEIGHT="1051">
+            <Shape><Polygon POINTS="478 3013 372 3018 397 3098 377 3280 377 3285 377 3290 412 3365 382 3687 382 3692 382 3697 422 3793 422 3979 387 4049 493 4059 533 4054 573 3712 573 3707 523 3259 553 3098 553 3093 553 3088 518 3008 478 3013"/></Shape>
+            <String CONTENT="L&#x27;OFFICIER D&#x27;ADMINISTRATION BOUDOT GREFFIER DU CONSEIL"
+                    HPOS="372"
+                    VPOS="3008"
+                    WIDTH="201"
+                    HEIGHT="1051"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_e13bf846"
-                    BASELINE="577 4796 560 4192" 
+                    BASELINE="577 4852 560 4192" 
                     HPOS="473"
                     VPOS="4185"
-                    WIDTH="261"
-                    HEIGHT="609">
-            <Shape><Polygon POINTS="558 4190 473 4190 483 4794 573 4794 734 4784 709 4185 558 4190"/></Shape>
+                    WIDTH="306"
+                    HEIGHT="664">
+            <Shape><Polygon POINTS="558 4190 473 4190 493 4849 573 4849 779 4839 779 4693 774 4688 774 4683 704 4542 704 4185 558 4190"/></Shape>
             <String CONTENT="+"
                     HPOS="473"
                     VPOS="4185"
-                    WIDTH="261"
-                    HEIGHT="609"
+                    WIDTH="306"
+                    HEIGHT="664"
                     WC="0.9999998807907104"></String>
           </TextLine>
           <TextLine ID="eSc_line_9b27508a"
-                    BASELINE="77 4835 110 3934 104 3274" 
+                    BASELINE="77 4891 110 3934 110 3193" 
                     HPOS="10"
-                    VPOS="3265"
-                    WIDTH="151"
-                    HEIGHT="1569">
-            <Shape><Polygon POINTS="130 4834 161 3270 100 3270 25 3265 10 4824 75 4834 130 4834"/></Shape>
-            <String CONTENT="Le présent jugement a commencé à recevoir son exécutio"
+                    VPOS="3184"
+                    WIDTH="166"
+                    HEIGHT="1705">
+            <Shape><Polygon POINTS="120 4889 176 3697 176 3692 150 3189 105 3189 25 3184 10 4879 75 4889 120 4889"/></Shape>
+            <String CONTENT="Le présent jugement a commencé à recevoir son exécution"
                     HPOS="10"
-                    VPOS="3265"
-                    WIDTH="151"
-                    HEIGHT="1569"
-                    WC="0.9649990457912971"></String>
+                    VPOS="3184"
+                    WIDTH="166"
+                    HEIGHT="1705"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_c9359095"
-                    BASELINE="467 4917 462 4351" 
-                    HPOS="372"
-                    VPOS="4341"
-                    WIDTH="146"
-                    HEIGHT="574">
-            <Shape><Polygon POINTS="457 4346 382 4346 372 4668 372 4673 377 4698 397 4799 372 4905 462 4915 518 4910 503 4341 457 4346"/></Shape>
-            <String CONTENT="a Commissaire Rapporter"
-                    HPOS="372"
-                    VPOS="4341"
-                    WIDTH="146"
-                    HEIGHT="574"
-                    WC="0.9514294266700745"></String>
+                    BASELINE="467 4973 462 4214" 
+                    HPOS="352"
+                    VPOS="4205"
+                    WIDTH="181"
+                    HEIGHT="765">
+            <Shape><Polygon POINTS="457 4210 372 4210 392 4804 352 4960 462 4970 533 4960 488 4205 457 4210"/></Shape>
+            <String CONTENT="Le Commissaire Rapporteur"
+                    HPOS="352"
+                    VPOS="4205"
+                    WIDTH="181"
+                    HEIGHT="765"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_cc9482d5"
-                    BASELINE="187 5016 214 3835 247 3214" 
-                    HPOS="110"
-                    VPOS="3204"
-                    WIDTH="181"
-                    HEIGHT="1811">
-            <Shape><Polygon POINTS="246 3209 166 3204 110 5000 186 5015 241 5015 241 4296 271 4069 271 4044 271 4039 271 4029 251 3939 281 3737 281 3722 281 3717 281 3707 261 3581 286 3441 286 3436 286 3431 266 3380 291 3209 246 3209"/></Shape>
-            <String CONTENT="223 août 1919 pour compter du 14 Juillet 1919"
-                    HPOS="110"
-                    VPOS="3204"
-                    WIDTH="181"
-                    HEIGHT="1811"
-                    WC="0.9594429705453955"></String>
+                    BASELINE="187 5072 214 3835 253 3133" 
+                    HPOS="120"
+                    VPOS="3124"
+                    WIDTH="161"
+                    HEIGHT="1947">
+            <Shape><Polygon POINTS="251 3129 171 3124 120 5055 186 5071 216 5071 246 5015 246 5010 246 5005 231 4708 281 3813 281 3808 271 3129 251 3129"/></Shape>
+            <String CONTENT="Le 23 août 1919 pour compter du 14 Juillet 1919"
+                    HPOS="120"
+                    VPOS="3124"
+                    WIDTH="161"
+                    HEIGHT="1947"
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

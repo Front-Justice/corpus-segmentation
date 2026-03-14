@@ -51,18 +51,18 @@
                     WC="0.9658825766232054"></String>
           </TextLine>
           <TextLine ID="eSc_line_c3364850"
-                    BASELINE="187 5625 438 5613" 
-                    HPOS="174"
+                    BASELINE="156 5621 438 5613" 
+                    HPOS="148"
                     VPOS="5520"
-                    WIDTH="267"
-                    HEIGHT="324">
-            <Shape><Polygon POINTS="380 5520 333 5520 174 5536 184 5623 200 5844 441 5772 436 5608 421 5520 380 5520"/></Shape>
-            <String CONTENT="+"
-                    HPOS="174"
+                    WIDTH="288"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="405 5520 354 5520 303 5520 297 5520 148 5536 154 5618 154 5664 282 5695 287 5695 292 5695 436 5654 436 5608 421 5520 405 5520"/></Shape>
+            <String CONTENT="Le greffier"
+                    HPOS="148"
                     VPOS="5520"
-                    WIDTH="267"
-                    HEIGHT="324"
-                    WC="0.8192651271820068"></String>
+                    WIDTH="288"
+                    HEIGHT="175"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_e6e79872"
                     BASELINE="993 5609 1993 5637" 
@@ -71,12 +71,26 @@
                     WIDTH="1002"
                     HEIGHT="159">
             <Shape><Polygon POINTS="991 5608 986 5690 1977 5695 1988 5633 1988 5541 991 5536 991 5608"/></Shape>
-            <String CONTENT="L retise missaire de gouveunement"
+            <String CONTENT="Le commissaire de gouvernement"
                     HPOS="986"
                     VPOS="5536"
                     WIDTH="1002"
                     HEIGHT="159"
-                    WC="0.8696377019990574"></String>
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e828aad5"
+                    BASELINE="176 5847 306 5769 500 5698 569 5723" 
+                    HPOS="133"
+                    VPOS="5608"
+                    WIDTH="447"
+                    HEIGHT="307">
+            <Shape><Polygon POINTS="174 5844 200 5915 580 5772 565 5720 518 5608 133 5731 174 5844"/></Shape>
+            <String CONTENT="+"
+                    HPOS="133"
+                    VPOS="5608"
+                    WIDTH="447"
+                    HEIGHT="307"
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

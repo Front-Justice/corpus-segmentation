@@ -29,12 +29,12 @@
                     WIDTH="1059"
                     HEIGHT="154">
             <Shape><Polygon POINTS="1367 5581 1367 5622 2375 5606 2380 5606 2385 5606 2421 5575 2421 5540 2411 5478 1912 5468 1907 5468 1732 5498 1670 5478 1665 5478 1660 5478 1655 5478 1650 5478 1650 5483 1645 5483 1629 5504 1516 5483 1511 5483 1362 5514 1367 5581"/></Shape>
-            <String CONTENT="approuve quatre vingt dis huit"
+            <String CONTENT="approuvé quatre vingt dix huit"
                     HPOS="1362"
                     VPOS="5468"
                     WIDTH="1059"
                     HEIGHT="154"
-                    WC="0.9762135088443756"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_d33f09b4"
                     TAGREFS="LT10974"
@@ -44,12 +44,12 @@
                     WIDTH="542"
                     HEIGHT="181">
             <Shape><Polygon POINTS="1392 5649 1392 5683 1512 5690 1515 5690 1519 5690 1543 5677 1553 5673 1570 5677 1618 5690 1622 5690 1625 5690 1714 5670 1735 5666 1748 5670 1790 5683 1793 5683 1796 5683 1927 5659 1930 5646 1923 5509 1745 5512 1742 5512 1738 5512 1738 5516 1704 5543 1673 5570 1601 5594 1388 5594 1392 5649"/></Shape>
-            <String CONTENT="msts raés sulfe"
+            <String CONTENT="mots rayés"
                     HPOS="1388"
                     VPOS="5509"
                     WIDTH="542"
                     HEIGHT="181"
-                    WC="0.8452543504536152"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_423d4981"
                     TAGREFS="LT10974"
@@ -59,12 +59,12 @@
                     WIDTH="494"
                     HEIGHT="216">
             <Shape><Polygon POINTS="1820 5637 1763 5632 1753 5632 1372 5755 1398 5827 1403 5848 1629 5838 1634 5838 1640 5838 1866 5699 1861 5673 1845 5637 1820 5637"/></Shape>
-            <String CONTENT="pii"
+            <String CONTENT="+"
                     HPOS="1372"
                     VPOS="5632"
                     WIDTH="494"
                     HEIGHT="216"
-                    WC="0.9985935886700948"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

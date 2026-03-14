@@ -30,12 +30,12 @@
                     WIDTH="182.0"
                     HEIGHT="378.0">
             <Shape><Polygon POINTS="640 3229 559 3234 559 3254 564 3254 564 3305 569 3355 569 3405 569 3456 574 3506 574 3557 574 3602 675 3602 716 3597 741 3496 741 3491 675 3224 640 3229"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le Greffier"
                     HPOS="559.0"
                     VPOS="3224.0"
                     WIDTH="182.0"
                     HEIGHT="378.0"
-                    ></String>
+                    WC="0.9528183720328591"></String>
           </TextLine>
           <TextLine ID="eSc_line_6b66d382"
                     BASELINE="860 3678 722 3239" 
@@ -44,12 +44,12 @@
                     WIDTH="313.0"
                     HEIGHT="524.0">
             <Shape><Polygon POINTS="721 3234 645 3249 706 3436 680 3536 680 3541 680 3546 680 3552 731 3708 857 3677 958 3642 867 3184 721 3234"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="645.0"
                     VPOS="3184.0"
                     WIDTH="313.0"
                     HEIGHT="524.0"
-                    ></String>
+                    WC="0.5602234601974487"></String>
           </TextLine>
           <TextLine ID="eSc_line_3666c127"
                     BASELINE="582 4462 570 4161" 
@@ -58,12 +58,12 @@
                     WIDTH="56.0"
                     HEIGHT="307.0">
             <Shape><Polygon POINTS="569 4156 539 4156 539 4207 544 4257 544 4307 549 4358 549 4408 554 4458 580 4458 595 4453 585 4151 569 4156"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Dnéveniv"
                     HPOS="539.0"
                     VPOS="4151.0"
                     WIDTH="56.0"
                     HEIGHT="307.0"
-                    ></String>
+                    WC="0.9980036243796349"></String>
           </TextLine>
           <TextLine ID="eSc_line_5bc19bed"
                     BASELINE="359 4724 331 3398" 
@@ -72,12 +72,12 @@
                     WIDTH="131.0"
                     HEIGHT="1330.0">
             <Shape><Polygon POINTS="327 3395 262 3395 277 4720 358 4720 393 4715 363 3390 327 3395"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Exécution du jugement suspendue"
                     HPOS="262.0"
                     VPOS="3390.0"
                     WIDTH="131.0"
                     HEIGHT="1330.0"
-                    ></String>
+                    WC="0.9826215294099623"></String>
           </TextLine>
           <TextLine ID="eSc_line_3f4184cd"
                     BASELINE="566 4757 501 3354" 
@@ -86,12 +86,12 @@
                     WIDTH="152.0"
                     HEIGHT="1411.0">
             <Shape><Polygon POINTS="569 4448 569 4418 519 3345 499 3350 433 3350 499 4756 564 4756 585 4746 569 4448 569 4448"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="appcication de l&#x27;art. 159 du Code miiitaire"
                     HPOS="433.0"
                     VPOS="3345.0"
                     WIDTH="152.0"
                     HEIGHT="1411.0"
-                    ></String>
+                    WC="0.9860199786895929"></String>
           </TextLine>
           <TextLine ID="eSc_line_e1784f8c"
                     BASELINE="635 4754 561 3248" 
@@ -100,12 +100,12 @@
                     WIDTH="176.0"
                     HEIGHT="1512.0">
             <Shape><Polygon POINTS="665 4040 665 3990 665 3985 595 3239 559 3244 489 3244 494 3385 504 3390 504 3441 509 3491 509 3541 514 3592 514 3642 519 3693 519 3743 524 3793 524 3844 529 3894 529 3945 529 3995 534 4045 534 4096 539 4146 574 4196 574 4247 574 4297 580 4348 580 4398 580 4448 554 4499 559 4549 559 4599 564 4650 564 4700 564 4751 630 4751 665 4746 665 4081 665 4040"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Detentle puble: du 21 mai 1918 au 4 Août 1918"
                     HPOS="489.0"
                     VPOS="3239.0"
                     WIDTH="176.0"
                     HEIGHT="1512.0"
-                    ></String>
+                    WC="0.9469423287444645"></String>
           </TextLine>
           <TextLine ID="eSc_line_38ce848e"
                     BASELINE="457 4780 421 3345" 
@@ -114,12 +114,12 @@
                     WIDTH="146.0"
                     HEIGHT="1441.0">
             <Shape><Polygon POINTS="418 3340 353 3340 378 4776 453 4776 484 4771 499 4166 499 4161 448 3335 418 3340"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="à la date du 4 Août 1918 par"
                     HPOS="353.0"
                     VPOS="3335.0"
                     WIDTH="146.0"
                     HEIGHT="1441.0"
-                    ></String>
+                    WC="0.9969892978668213"></String>
           </TextLine>
           <TextLine ID="eSc_line_26f8e016"
                     BASELINE="713 4789 674 3989" 
@@ -128,12 +128,12 @@
                     WIDTH="181.0"
                     HEIGHT="806.0">
             <Shape><Polygon POINTS="746 4327 741 4322 726 4186 726 4176 721 4146 701 3980 670 3985 595 3985 630 4136 640 4786 711 4786 741 4781 776 4720 776 4715 776 4710 766 4484 746 4327 746 4327"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Du a Cremempois. Rapporteur:"
                     HPOS="595.0"
                     VPOS="3980.0"
                     WIDTH="181.0"
                     HEIGHT="806.0"
-                    ></String>
+                    WC="0.8640620282718113"></String>
           </TextLine>
           <TextLine ID="eSc_line_e1e7b145"
                     BASELINE="823 4812 724 4083" 
@@ -142,12 +142,12 @@
                     WIDTH="192.0"
                     HEIGHT="741.0">
             <Shape><Polygon POINTS="721 4081 680 4086 680 4116 680 4166 685 4217 685 4267 685 4272 711 4423 696 4474 701 4519 701 4564 736 4650 726 4811 822 4811 852 4806 872 4695 872 4690 872 4685 872 4680 832 4610 832 4403 832 4398 756 4070 721 4081"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="++"
                     HPOS="680.0"
                     VPOS="4070.0"
                     WIDTH="192.0"
                     HEIGHT="741.0"
-                    ></String>
+                    WC="0.9999842643737793"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

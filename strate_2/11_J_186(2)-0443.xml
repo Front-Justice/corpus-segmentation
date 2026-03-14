@@ -31,12 +31,12 @@
                     WIDTH="1234.0"
                     HEIGHT="138.0">
             <Shape><Polygon POINTS="2314 1234 2314 1271 3414 1271 3414 1267 3545 1244 3545 1200 3535 1133 3334 1157 3310 1140 3307 1140 3303 1140 3300 1140 3069 1143 2945 1170 2854 1157 2851 1157 2847 1157 2790 1173 2763 1157 2760 1157 2757 1157 2753 1157 2750 1157 2663 1177 2361 1153 2358 1153 2354 1153 2311 1173 2314 1234"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Par Décret en date du 4 février 1920"
                     HPOS="2311.0"
                     VPOS="1133.0"
                     WIDTH="1234.0"
                     HEIGHT="138.0"
-                    ></String>
+                    WC="0.9743285022283855"></String>
           </TextLine>
           <TextLine ID="eSc_line_85e1347a"
                     TAGREFS="LT11707"
@@ -46,12 +46,12 @@
                     WIDTH="916.0"
                     HEIGHT="104.0">
             <Shape><Polygon POINTS="2280 1304 2280 1328 2344 1348 2347 1348 2351 1348 2592 1331 2690 1348 2693 1348 2696 1348 2700 1348 2723 1331 2740 1344 2743 1344 2747 1344 2750 1348 2955 1348 2955 1344 3122 1341 3126 1341 3193 1314 3193 1291 3183 1244 2277 1251 2280 1304"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="le condamné Watteaut"
                     HPOS="2277.0"
                     VPOS="1244.0"
                     WIDTH="916.0"
                     HEIGHT="104.0"
-                    ></String>
+                    WC="0.9966934621334076"></String>
           </TextLine>
           <TextLine ID="eSc_line_6ea4ae52"
                     TAGREFS="LT11707"
@@ -61,12 +61,12 @@
                     WIDTH="845.0"
                     HEIGHT="93.0">
             <Shape><Polygon POINTS="2304 1371 2304 1398 2844 1411 2847 1411 3146 1388 3146 1361 3136 1318 2301 1328 2304 1371"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="a obtenu reraice de sa polne"
                     HPOS="2301.0"
                     VPOS="1318.0"
                     WIDTH="845.0"
                     HEIGHT="93.0"
-                    ></String>
+                    WC="0.996210366487503"></String>
           </TextLine>
           <TextLine ID="eSc_line_4732e1b8"
                     TAGREFS="LT11707"
@@ -76,12 +76,12 @@
                     WIDTH="1133.0"
                     HEIGHT="186.0">
             <Shape><Polygon POINTS="2427 1458 2432 1534 3257 1479 3549 1489 3555 1413 3539 1348 2422 1393 2427 1458"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="LE MANS, le 25 février 1920"
                     HPOS="2422.0"
                     VPOS="1348.0"
                     WIDTH="1133.0"
                     HEIGHT="186.0"
-                    ></String>
+                    WC="0.9845290354319981"></String>
           </TextLine>
           <TextLine ID="eSc_line_63d16630"
                     TAGREFS="LT11707"
@@ -91,12 +91,12 @@
                     WIDTH="325.0"
                     HEIGHT="117.0">
             <Shape><Polygon POINTS="3008 1532 3012 1569 3327 1546 3327 1509 3320 1455 3002 1452 3008 1532"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le Greffier"
                     HPOS="3002.0"
                     VPOS="1452.0"
                     WIDTH="325.0"
                     HEIGHT="117.0"
-                    ></String>
+                    WC="0.9972953958944841"></String>
           </TextLine>
           <TextLine ID="eSc_line_01cf75a2"
                     TAGREFS="LT11707"
@@ -106,12 +106,12 @@
                     WIDTH="422.0"
                     HEIGHT="252.0">
             <Shape><Polygon POINTS="3045 1676 3059 1757 3444 1697 3431 1603 3404 1505 3189 1579 3126 1552 3122 1552 3119 1552 3022 1569 3045 1676"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="3022.0"
                     VPOS="1505.0"
                     WIDTH="422.0"
                     HEIGHT="252.0"
-                    ></String>
+                    WC="0.9999985694885254"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

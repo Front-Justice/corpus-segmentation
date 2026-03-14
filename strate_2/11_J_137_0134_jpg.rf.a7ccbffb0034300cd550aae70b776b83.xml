@@ -75,12 +75,12 @@
                     WIDTH="908"
                     HEIGHT="174">
             <Shape><Polygon POINTS="88 2742 98 2804 159 2763 186 2776 190 2776 193 2776 435 2746 475 2763 513 2780 516 2780 520 2780 523 2780 526 2780 557 2756 560 2753 560 2756 584 2773 588 2773 591 2773 594 2773 662 2770 666 2770 666 2770 751 2766 877 2756 880 2756 992 2708 992 2688 989 2640 860 2630 856 2630 853 2630 788 2651 785 2651 775 2651 635 2644 632 2644 84 2691 88 2742"/></Shape>
-            <String CONTENT="quinze Décembre mil nerfant quatorge"
+            <String CONTENT="quinze Décembre mil neuf cent quatorze"
                     HPOS="84"
                     VPOS="2630"
                     WIDTH="908"
                     HEIGHT="174"
-                    WC="0.9571272843592876"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_01c241dc"
                     TAGREFS="LT10974"
@@ -90,12 +90,12 @@
                     WIDTH="353"
                     HEIGHT="173">
             <Shape><Polygon POINTS="343 2827 346 2865 394 2861 397 2861 445 2895 448 2895 452 2895 455 2895 458 2895 686 2817 679 2773 669 2725 564 2722 560 2722 557 2722 513 2742 496 2753 482 2749 438 2732 435 2732 431 2732 428 2732 333 2766 343 2827"/></Shape>
-            <String CONTENT="Le Greffier:"
+            <String CONTENT="Le Greffier"
                     HPOS="333"
                     VPOS="2722"
                     WIDTH="353"
                     HEIGHT="173"
-                    WC="0.9008863170941671"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_aef6b14b"
                     BASELINE="191 3147 980 2758" 
@@ -104,12 +104,12 @@
                     WIDTH="862"
                     HEIGHT="485">
             <Shape><Polygon POINTS="928 2691 897 2691 576 2860 520 2860 402 2870 397 2870 392 2870 132 3033 188 3145 203 3176 346 3171 351 3171 356 3171 622 2982 775 2916 831 2921 836 2921 841 2921 846 2921 846 2916 851 2916 851 2911 882 2855 994 2788 979 2753 948 2691 928 2691"/></Shape>
-            <String CONTENT="+ogutin"
+            <String CONTENT="+"
                     HPOS="132"
                     VPOS="2691"
                     WIDTH="862"
                     HEIGHT="485"
-                    WC="0.9841230426515851"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_ba847bd1"
                     TAGREFS="LT10974"

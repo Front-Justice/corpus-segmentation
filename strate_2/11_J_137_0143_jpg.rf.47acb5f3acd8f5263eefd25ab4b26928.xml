@@ -55,12 +55,12 @@
                     WIDTH="279"
                     HEIGHT="392">
             <Shape><Polygon POINTS="228 1332 208 1378 183 1418 244 1459 335 1510 432 1383 432 1378 432 1372 432 1367 427 1286 422 1250 462 1184 422 1159 356 1118 239 1306 228 1332"/></Shape>
-            <String CONTENT="Le Grefier:"
+            <String CONTENT="Le Greffier"
                     HPOS="183"
                     VPOS="1118"
                     WIDTH="279"
                     HEIGHT="392"
-                    WC="0.891470421444286"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_0c414cf8"
                     BASELINE="25 1606 478 774" 
@@ -96,12 +96,12 @@
                     WIDTH="330"
                     HEIGHT="549">
             <Shape><Polygon POINTS="254 1174 228 1220 208 1266 183 1311 157 1352 132 1398 106 1444 86 1489 61 1530 35 1576 20 1591 0 1627 0 1672 45 1698 101 1718 330 1205 300 1189 259 1169 254 1174"/></Shape>
-            <String CONTENT="testrnt de sa peine."
+            <String CONTENT="restant de sa peine"
                     HPOS="0"
                     VPOS="1169"
                     WIDTH="330"
                     HEIGHT="549"
-                    WC="0.9797200292348862"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

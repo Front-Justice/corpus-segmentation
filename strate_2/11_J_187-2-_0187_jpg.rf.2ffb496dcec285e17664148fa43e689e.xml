@@ -43,12 +43,12 @@
                     WIDTH="917"
                     HEIGHT="163">
             <Shape><Polygon POINTS="2479 1367 2479 1408 3390 1393 3390 1347 3374 1245 2901 1281 2473 1266 2479 1367"/></Shape>
-            <String CONTENT="L01. du 24octioie"
+            <String CONTENT="LOI du 24 Oct 1919"
                     HPOS="2473"
                     VPOS="1245"
                     WIDTH="917"
                     HEIGHT="163"
-                    WC="0.9383676613078398"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_8dcccc47"
                     BASELINE="2830 1449 3407 1440" 
@@ -57,12 +57,12 @@
                     WIDTH="585"
                     HEIGHT="138">
             <Shape><Polygon POINTS="2871 1362 2820 1362 2825 1444 2830 1500 2916 1474 3049 1489 3145 1500 3150 1500 3400 1469 3405 1439 3395 1362 2921 1362 2871 1362"/></Shape>
-            <String CONTENT="Le Groitier"
+            <String CONTENT="Le Greffier"
                     HPOS="2820"
                     VPOS="1362"
                     WIDTH="585"
                     HEIGHT="138"
-                    WC="0.994638816876845"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_3d8d0665"
                     BASELINE="2917 1605 3485 1500" 

@@ -21,47 +21,6 @@
                   VPOS="0"
                   WIDTH="3852"
                   HEIGHT="6167">
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_92a86a4b"
-                    BASELINE="1477 5604 2370 5565" 
-                    HPOS="1477"
-                    VPOS="5565"
-                    WIDTH="893"
-                    HEIGHT="39">
-            <String CONTENT=""
-                    HPOS="1477"
-                    VPOS="5565"
-                    WIDTH="893"
-                    HEIGHT="39"
-                    ></String>
-          </TextLine>
-          <TextLine ID="eSc_line_31313ac8"
-                    BASELINE="1447 5697 2159 5670" 
-                    HPOS="1447"
-                    VPOS="5670"
-                    WIDTH="712"
-                    HEIGHT="27">
-            <String CONTENT=""
-                    HPOS="1447"
-                    VPOS="5670"
-                    WIDTH="712"
-                    HEIGHT="27"
-                    ></String>
-          </TextLine>
-          <TextLine ID="eSc_line_4605d909"
-                    BASELINE="1491 5934 1930 5719" 
-                    HPOS="1491"
-                    VPOS="5719"
-                    WIDTH="439"
-                    HEIGHT="215">
-            <String CONTENT=""
-                    HPOS="1491"
-                    VPOS="5719"
-                    WIDTH="439"
-                    HEIGHT="215"
-                    ></String>
-          </TextLine>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>

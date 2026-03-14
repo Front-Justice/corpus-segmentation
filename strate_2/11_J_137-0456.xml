@@ -31,12 +31,12 @@
                     WIDTH="1767.0"
                     HEIGHT="179.0">
             <Shape><Polygon POINTS="430 5479 425 5526 2182 5531 2192 5505 2187 5413 1711 5408 1670 5367 1670 5362 1664 5362 1659 5362 1521 5357 527 5352 522 5352 517 5352 430 5382 430 5479"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le présent jugment se Commencé a recevoir son exé́cusion"
                     HPOS="425.0"
                     VPOS="5352.0"
                     WIDTH="1767.0"
                     HEIGHT="179.0"
-                    ></String>
+                    WC="0.9475708823455008"></String>
           </TextLine>
           <TextLine ID="eSc_line_226b054a"
                     TAGREFS="LT11707"
@@ -46,12 +46,12 @@
                     WIDTH="2065.0"
                     HEIGHT="179.0">
             <Shape><Polygon POINTS="2161 5505 1854 5505 1803 5500 1075 5500 1055 5490 778 5490 727 5485 609 5485 537 5490 502 5485 471 5485 466 5474 322 5454 322 5556 317 5592 712 5592 778 5612 824 5612 855 5592 978 5612 1127 5612 1290 5592 1454 5612 1562 5612 1588 5592 1629 5612 1649 5612 1664 5628 1670 5628 1675 5633 2136 5633 2136 5628 2376 5592 2382 5556 2371 5464 2161 5485 2161 5505"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="le Vingt quatre septembre mil neuf cent quinze pour compter du"
                     HPOS="317.0"
                     VPOS="5454.0"
                     WIDTH="2065.0"
                     HEIGHT="179.0"
-                    ></String>
+                    WC="0.9756481801309893"></String>
           </TextLine>
           <TextLine ID="eSc_line_c0146bb5"
                     TAGREFS="LT11707"
@@ -61,12 +61,12 @@
                     WIDTH="1301.0"
                     HEIGHT="123.0">
             <Shape><Polygon POINTS="368 5623 368 5669 1419 5684 1424 5684 1429 5684 1480 5659 1500 5679 1541 5679 1547 5679 1659 5653 1664 5618 1649 5561 363 5561 368 5623"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="quatorzze septembre mil neuf cent quinze"
                     HPOS="363.0"
                     VPOS="5561.0"
                     WIDTH="1301.0"
                     HEIGHT="123.0"
-                    ></String>
+                    WC="0.9783078700304031"></String>
           </TextLine>
           <TextLine ID="eSc_line_337caa82"
                     TAGREFS="LT11707"
@@ -76,12 +76,12 @@
                     WIDTH="379.0"
                     HEIGHT="134.0">
             <Shape><Polygon POINTS="1654 5623 1603 5623 1552 5623 1516 5623 1398 5623 1403 5694 1403 5746 1777 5740 1777 5679 1762 5612 1654 5612 1654 5623"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le Greffier"
                     HPOS="1398.0"
                     VPOS="5612.0"
                     WIDTH="379.0"
                     HEIGHT="134.0"
-                    ></String>
+                    WC="0.9974052472548052"></String>
           </TextLine>
           <TextLine ID="eSc_line_3397e0b3"
                     TAGREFS="LT11707"
@@ -91,12 +91,12 @@
                     WIDTH="519.0"
                     HEIGHT="194.0">
             <Shape><Polygon POINTS="1344 5873 1348 5914 1853 5833 1853 5792 1846 5751 1737 5754 1682 5720 1679 5720 1676 5720 1672 5720 1669 5720 1665 5720 1665 5723 1662 5723 1652 5740 1536 5740 1532 5740 1529 5740 1525 5740 1525 5744 1471 5805 1334 5809 1344 5873"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="1334.0"
                     VPOS="5720.0"
                     WIDTH="519.0"
                     HEIGHT="194.0"
-                    ></String>
+                    WC="0.9999990463256836"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

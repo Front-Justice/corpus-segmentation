@@ -23,18 +23,32 @@
                   HEIGHT="6248">
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_67b3cca7"
-                    BASELINE="399 2895 442 2376" 
-                    HPOS="271"
-                    VPOS="2358"
-                    WIDTH="297"
-                    HEIGHT="542">
-            <Shape><Polygon POINTS="484 2900 542 2759 542 2754 542 2749 531 2624 521 2509 568 2384 437 2374 281 2358 271 2879 396 2894 484 2900"/></Shape>
-            <String CONTENT="+aux Juilet 191"
-                    HPOS="271"
-                    VPOS="2358"
-                    WIDTH="297"
-                    HEIGHT="542"
-                    WC="0.7957693994045257"></String>
+                    BASELINE="382 2963 450 2304" 
+                    HPOS="255"
+                    VPOS="2280"
+                    WIDTH="307"
+                    HEIGHT="687">
+            <Shape><Polygon POINTS="448 2301 286 2280 255 2941 380 2962 463 2967 474 2790 536 2671 536 2665 536 2660 516 2514 562 2410 562 2405 562 2400 562 2395 526 2306 448 2301"/></Shape>
+            <String CONTENT="le onze juillet 1919"
+                    HPOS="255"
+                    VPOS="2280"
+                    WIDTH="307"
+                    HEIGHT="687"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c4c0c303"
+                    BASELINE="998 3572 977 2855" 
+                    HPOS="807"
+                    VPOS="2848"
+                    WIDTH="506"
+                    HEIGHT="723">
+            <Shape><Polygon POINTS="974 2853 844 2853 807 3030 807 3035 860 3264 823 3436 823 3441 823 3446 823 3452 828 3452 870 3493 870 3571 995 3571 1313 3561 1313 3425 1308 3420 1308 3415 1224 3212 1261 3124 1261 3118 1261 3113 1261 3108 1261 3103 1256 3103 1131 2988 1125 2848 974 2853"/></Shape>
+            <String CONTENT="+"
+                    HPOS="807"
+                    VPOS="2848"
+                    WIDTH="506"
+                    HEIGHT="723"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_b4dfe2e6"
                     BASELINE="739 3812 752 2848" 
@@ -43,12 +57,12 @@
                     WIDTH="219"
                     HEIGHT="974">
             <Shape><Polygon POINTS="734 3811 839 3806 797 3623 828 3561 828 3556 828 3550 828 3545 828 3540 797 3498 833 3446 844 3436 844 3431 844 3425 849 3425 849 3186 844 3181 844 3176 828 3144 802 3087 818 2842 750 2842 667 2837 635 3155 635 3160 661 3290 661 3295 661 3316 630 3717 630 3722 630 3727 651 3806 734 3811"/></Shape>
-            <String CONTENT="NRRE DERREHREE GOUEEE ErmE L CJe)"
+            <String CONTENT="L&#x27;OFFICIER D&#x27;ADMINISTRATION BOUDOT GREFFIER DU CONSEIL"
                     HPOS="630"
                     VPOS="2837"
                     WIDTH="219"
                     HEIGHT="974"
-                    WC="0.6399935063990679"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_dfc21221"
                     BASELINE="480 4534 510 2971" 
@@ -79,18 +93,18 @@
                     WC="0.9663152159270594"></String>
           </TextLine>
           <TextLine ID="eSc_line_730e59b0"
-                    BASELINE="654 4619 607 4041" 
-                    HPOS="536"
-                    VPOS="4035"
-                    WIDTH="162"
-                    HEIGHT="583">
-            <Shape><Polygon POINTS="604 4040 536 4040 562 4618 651 4618 698 4607 651 4035 604 4040"/></Shape>
-            <String CONTENT="Le Commissaire Rapporteu"
-                    HPOS="536"
-                    VPOS="4035"
-                    WIDTH="162"
-                    HEIGHT="583"
-                    WC="0.9790008266766866"></String>
+                    BASELINE="641 4661 594 3934" 
+                    HPOS="521"
+                    VPOS="3925"
+                    WIDTH="167"
+                    HEIGHT="734">
+            <Shape><Polygon POINTS="589 3931 521 3931 573 4654 635 4659 677 4654 688 4253 688 4248 630 3925 589 3931"/></Shape>
+            <String CONTENT="Le Commissaire Rapporteur"
+                    HPOS="521"
+                    VPOS="3925"
+                    WIDTH="167"
+                    HEIGHT="734"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_4ea9ee00"
                     BASELINE="769 4674 807 3965" 

@@ -22,47 +22,19 @@
                   WIDTH="3261"
                   HEIGHT="6191">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_21692584"
-                    BASELINE="2824 1726 3251 1592" 
-                    HPOS="2796"
-                    VPOS="1501"
-                    WIDTH="459"
-                    HEIGHT="309">
-            <Shape><Polygon POINTS="2822 1723 2848 1810 3255 1656 3255 1619 3250 1589 3214 1501 2796 1645 2822 1723"/></Shape>
-            <String CONTENT="+"
-                    HPOS="2796"
-                    VPOS="1501"
-                    WIDTH="459"
-                    HEIGHT="309"
-                    WC="0.9999960660934448"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_d481fe0e"
-                    BASELINE="2695 2540 3233 2297" 
-                    HPOS="2641"
-                    VPOS="2208"
-                    WIDTH="614"
-                    HEIGHT="418">
-            <Shape><Polygon POINTS="2729 2626 3255 2373 3255 2357 3230 2295 3178 2208 2997 2316 2910 2316 2899 2316 2894 2316 2889 2316 2884 2316 2868 2326 2775 2399 2641 2419 2693 2538 2729 2626"/></Shape>
-            <String CONTENT="+"
-                    HPOS="2641"
-                    VPOS="2208"
-                    WIDTH="614"
-                    HEIGHT="418"
-                    WC="0.9999916553497314"></String>
-          </TextLine>
           <TextLine ID="eSc_line_ebe3d586"
-                    BASELINE="312 5428 1346 5436" 
-                    HPOS="304"
+                    BASELINE="249 5425 1411 5410" 
+                    HPOS="242"
                     VPOS="5277"
-                    WIDTH="1037"
-                    HEIGHT="212">
-            <Shape><Polygon POINTS="309 5427 304 5468 1331 5489 1341 5432 1336 5282 309 5277 309 5427"/></Shape>
-            <String CONTENT="Peine comptant du 28 8^bre 1916"
-                    HPOS="304"
+                    WIDTH="1166"
+                    HEIGHT="196">
+            <Shape><Polygon POINTS="247 5422 247 5473 1408 5458 1408 5406 1393 5277 242 5293 247 5422"/></Shape>
+            <String CONTENT="Peine comptant du 28 O^bre 1916"
+                    HPOS="242"
                     VPOS="5277"
-                    WIDTH="1037"
-                    HEIGHT="212"
-                    WC="0.9358071492564294"></String>
+                    WIDTH="1166"
+                    HEIGHT="196"
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

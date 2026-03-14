@@ -75,12 +75,12 @@
                     WIDTH="2851"
                     HEIGHT="212">
             <Shape><Polygon POINTS="955 8676 955 8739 1449 8778 1456 8778 1629 8747 1840 8700 2749 8700 2804 8754 2812 8754 2812 8762 2819 8762 2827 8762 2835 8762 2984 8754 3407 8723 3791 8754 3798 8668 3783 8566 947 8566 955 8676"/></Shape>
-            <String CONTENT="comptes du huit novembre mil neuf ent quatorze"
+            <String CONTENT="compter du huit novembre mil neuf ent quatorze"
                     HPOS="947"
                     VPOS="8566"
                     WIDTH="2851"
                     HEIGHT="212"
-                    WC="0.9650815349558125"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_28458ef4"
                     TAGREFS="LT10974"
@@ -90,12 +90,12 @@
                     WIDTH="713"
                     HEIGHT="267">
             <Shape><Polygon POINTS="3383 8692 3305 8692 3266 8684 2827 8700 2772 8660 2757 8801 2749 8864 3007 8927 3015 8927 3454 8903 3462 8809 3446 8692 3383 8692"/></Shape>
-            <String CONTENT=" Geffie"
+            <String CONTENT="Le Greffier"
                     HPOS="2749"
                     VPOS="8660"
                     WIDTH="713"
                     HEIGHT="267"
-                    WC="0.8451205492019653"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_74e30941"
                     BASELINE="2785 9124 3630 8904" 

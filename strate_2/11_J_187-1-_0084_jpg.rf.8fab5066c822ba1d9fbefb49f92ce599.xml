@@ -29,12 +29,12 @@
                     WIDTH="1653"
                     HEIGHT="226">
             <Shape><Polygon POINTS="230 5515 230 5546 1159 5541 1201 5556 1236 5572 1242 5572 1247 5577 1544 5577 1544 5572 1550 5572 1570 5561 1616 5536 1873 5561 1878 5489 1868 5387 1503 5351 1498 5351 225 5397 230 5515"/></Shape>
-            <String CONTENT="Détention préventine du  Janvier 1917"
+            <String CONTENT="Détention préventive du 7 Janvier 1919"
                     HPOS="225"
                     VPOS="5351"
                     WIDTH="1653"
                     HEIGHT="226"
-                    WC="0.9469596162820474"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_370f3980"
                     BASELINE="250 5578 1018 5571" 
@@ -65,18 +65,18 @@
                     WC="0.9748367233709856"></String>
           </TextLine>
           <TextLine ID="eSc_line_31f915b7"
-                    BASELINE="801 5670 1831 5651" 
-                    HPOS="795"
-                    VPOS="5551"
-                    WIDTH="1032"
-                    HEIGHT="195">
-            <Shape><Polygon POINTS="800 5669 800 5741 1303 5746 1308 5746 1313 5746 1406 5715 1431 5705 1827 5695 1827 5649 1816 5577 1693 5551 1688 5551 1555 5577 1519 5587 795 5587 800 5669"/></Shape>
-            <String CONTENT="Vance, en tigéié elt en Pesitie apparteur"
-                    HPOS="795"
-                    VPOS="5551"
-                    WIDTH="1032"
-                    HEIGHT="195"
-                    WC="0.8141658105129419"></String>
+                    BASELINE="799 5695 1829 5676" 
+                    HPOS="790"
+                    VPOS="5577"
+                    WIDTH="1037"
+                    HEIGHT="179">
+            <Shape><Polygon POINTS="795 5690 795 5756 1822 5705 1827 5674 1811 5577 790 5592 795 5690"/></Shape>
+            <String CONTENT="Le Commissaire Rapporteur"
+                    HPOS="790"
+                    VPOS="5577"
+                    WIDTH="1037"
+                    HEIGHT="179"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_f3d81c1f"
                     BASELINE="323 5931 629 5795" 

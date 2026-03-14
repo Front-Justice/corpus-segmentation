@@ -22,6 +22,106 @@
                   VPOS="0"
                   WIDTH="3837"
                   HEIGHT="6061">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_47c1911d"
+                    BASELINE="52 5381 1778 5411" 
+                    HPOS="45"
+                    VPOS="5247"
+                    WIDTH="1729"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="50 5379 45 5399 1764 5429 1774 5409 1764 5278 1708 5303 1233 5268 1228 5268 394 5283 369 5252 363 5252 363 5247 358 5247 353 5247 217 5247 212 5247 50 5273 50 5379"/></Shape>
+            <String CONTENT="Peine suspendue par décision du Général"
+                    HPOS="45"
+                    VPOS="5247"
+                    WIDTH="1729"
+                    HEIGHT="182"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5c83a8df"
+                    BASELINE="70 5456 2167 5463" 
+                    HPOS="60"
+                    VPOS="5384"
+                    WIDTH="2103"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1733 5409 1683 5409 1632 5409 1582 5409 1531 5409 1481 5404 1430 5404 1380 5404 1329 5404 1279 5404 1228 5404 1177 5399 1127 5399 1076 5399 1026 5399 975 5399 925 5399 874 5394 824 5394 773 5394 722 5394 672 5394 621 5389 571 5389 520 5389 470 5389 419 5389 369 5389 318 5384 267 5384 217 5384 166 5384 116 5384 65 5384 65 5454 60 5485 2158 5475 2163 5459 2163 5389 1733 5384 1733 5409"/></Shape>
+            <String CONTENT="Commandant la 10^e Armée, en date du 15 février 1919."
+                    HPOS="60"
+                    VPOS="5384"
+                    WIDTH="2103"
+                    HEIGHT="101"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_66e832c8"
+                    BASELINE="100 5507 2130 5544" 
+                    HPOS="90"
+                    VPOS="5459"
+                    WIDTH="2038"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="1410 5459 1359 5459 1309 5459 1258 5459 1208 5459 1157 5459 1107 5459 1056 5459 1006 5459 955 5459 904 5459 854 5459 803 5459 753 5459 702 5459 652 5459 601 5459 551 5459 500 5459 449 5459 399 5459 348 5459 298 5459 247 5459 197 5459 146 5459 96 5459 96 5505 90 5525 2118 5566 2128 5540 2123 5470 1445 5459 1410 5459"/></Shape>
+            <String CONTENT="Détention préventive du 30 avril 1918 au 20 février 1919"
+                    HPOS="90"
+                    VPOS="5459"
+                    WIDTH="2038"
+                    HEIGHT="107"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4d44d2a3"
+                    BASELINE="104 5600 559 5581" 
+                    HPOS="96"
+                    VPOS="5510"
+                    WIDTH="460"
+                    HEIGHT="136">
+            <Shape><Polygon POINTS="500 5515 449 5515 399 5515 379 5510 96 5515 101 5596 101 5616 429 5646 434 5646 439 5646 556 5596 556 5576 540 5515 500 5515"/></Shape>
+            <String CONTENT="Le Greffier"
+                    HPOS="96"
+                    VPOS="5510"
+                    WIDTH="460"
+                    HEIGHT="136"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_61a5fbce"
+                    BASELINE="681 5570 1737 5607" 
+                    HPOS="672"
+                    VPOS="5520"
+                    WIDTH="1061"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="1688 5535 1637 5535 1587 5535 1536 5530 1486 5530 1435 5530 1385 5530 1334 5530 1284 5530 1233 5525 1182 5525 1132 5525 1081 5525 1031 5525 980 5525 930 5520 879 5520 829 5520 778 5520 727 5520 677 5520 677 5566 672 5646 1728 5646 1733 5606 1728 5535 1688 5535"/></Shape>
+            <String CONTENT="Le Commissaire rapporteur."
+                    HPOS="672"
+                    VPOS="5520"
+                    WIDTH="1061"
+                    HEIGHT="126"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7e3d8656"
+                    BASELINE="100 5896 641 5622" 
+                    HPOS="50"
+                    VPOS="5535"
+                    WIDTH="617"
+                    HEIGHT="404">
+            <Shape><Polygon POINTS="96 5894 131 5939 156 5894 303 5843 308 5843 308 5838 369 5783 667 5687 636 5621 591 5535 176 5717 171 5717 50 5803 96 5894"/></Shape>
+            <String CONTENT="+"
+                    HPOS="50"
+                    VPOS="5535"
+                    WIDTH="617"
+                    HEIGHT="404"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_375857bf"
+                    BASELINE="822 5889 1989 5678" 
+                    HPOS="798"
+                    VPOS="5581"
+                    WIDTH="1193"
+                    HEIGHT="333">
+            <Shape><Polygon POINTS="818 5909 1091 5869 1253 5914 1258 5914 1263 5914 1991 5737 1986 5677 1971 5596 1941 5581 1936 5581 1931 5581 1926 5581 1708 5641 1617 5616 1612 5616 1607 5616 1602 5616 1597 5616 1541 5667 1354 5707 1273 5677 1268 5677 1263 5677 1061 5707 1056 5707 894 5788 798 5768 818 5884 818 5909"/></Shape>
+            <String CONTENT="+"
+                    HPOS="798"
+                    VPOS="5581"
+                    WIDTH="1193"
+                    HEIGHT="333"
+                    ></String>
+          </TextLine>
+        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>

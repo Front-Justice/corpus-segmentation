@@ -23,60 +23,60 @@
                   HEIGHT="6180">
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_bed8ac48"
-                    BASELINE="2804 1496 3165 1353" 
+                    BASELINE="2804 1496 3279 1286" 
                     HPOS="2763"
-                    VPOS="1246"
-                    WIDTH="413"
-                    HEIGHT="293">
-            <Shape><Polygon POINTS="2800 1493 2820 1539 3176 1400 3161 1349 3114 1246 3068 1297 2985 1308 2923 1318 2918 1318 2913 1318 2763 1411 2800 1493"/></Shape>
-            <String CONTENT="Amnistie"
+                    VPOS="1215"
+                    WIDTH="526"
+                    HEIGHT="324">
+            <Shape><Polygon POINTS="2800 1493 2820 1539 3202 1390 3207 1390 3289 1318 3274 1282 3238 1215 2934 1318 2928 1318 2763 1416 2800 1493"/></Shape>
+            <String CONTENT="Amnistié"
                     HPOS="2763"
-                    VPOS="1246"
-                    WIDTH="413"
-                    HEIGHT="293"
-                    WC="0.9473838731646538"></String>
+                    VPOS="1215"
+                    WIDTH="526"
+                    HEIGHT="324"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_62dbb90c"
-                    BASELINE="2636 1674 3476 1332" 
+                    BASELINE="2636 1674 3590 1265" 
                     HPOS="2593"
-                    VPOS="1241"
-                    WIDTH="898"
-                    HEIGHT="479">
-            <Shape><Polygon POINTS="2635 1673 2650 1720 3491 1380 3475 1328 3434 1241 2593 1581 2635 1673"/></Shape>
-            <String CONTENT="01 du 240011010"
+                    VPOS="1194"
+                    WIDTH="1011"
+                    HEIGHT="531">
+            <Shape><Polygon POINTS="2635 1673 2671 1725 2686 1694 2712 1704 2717 1704 2722 1704 2727 1704 3604 1302 3589 1261 3558 1194 2593 1586 2635 1673"/></Shape>
+            <String CONTENT="LOI du 24 Oct 1919"
                     HPOS="2593"
-                    VPOS="1241"
-                    WIDTH="898"
-                    HEIGHT="479"
-                    WC="0.945929753780365"></String>
+                    VPOS="1194"
+                    WIDTH="1011"
+                    HEIGHT="531"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_20746b0e"
-                    BASELINE="2964 1626 3513 1421" 
-                    HPOS="2934"
-                    VPOS="1349"
-                    WIDTH="582"
-                    HEIGHT="329">
-            <Shape><Polygon POINTS="2980 1534 2934 1555 2959 1622 2985 1678 3032 1632 3135 1617 3222 1596 3228 1596 3516 1447 3511 1416 3480 1349 3021 1514 2980 1534"/></Shape>
-            <String CONTENT="Le Groitigr"
-                    HPOS="2934"
-                    VPOS="1349"
-                    WIDTH="582"
-                    HEIGHT="329"
-                    WC="0.9929456602443348"></String>
+                    BASELINE="2964 1626 3627 1354" 
+                    HPOS="2928"
+                    VPOS="1287"
+                    WIDTH="707"
+                    HEIGHT="397">
+            <Shape><Polygon POINTS="2959 1622 2985 1684 3037 1632 3300 1560 3635 1375 3625 1349 3594 1287 2928 1550 2959 1622"/></Shape>
+            <String CONTENT="Le Greffier"
+                    HPOS="2928"
+                    VPOS="1287"
+                    WIDTH="707"
+                    HEIGHT="397"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_58bca584"
-                    BASELINE="3097 1820 3445 1540" 
+                    BASELINE="3097 1820 3559 1473" 
                     HPOS="3011"
-                    VPOS="1467"
-                    WIDTH="510"
-                    HEIGHT="417">
-            <Shape><Polygon POINTS="3351 1478 3341 1478 3264 1550 3233 1555 3130 1591 3124 1591 3124 1596 3119 1596 3011 1714 3093 1817 3145 1884 3521 1642 3444 1539 3382 1467 3351 1478"/></Shape>
-            <String CONTENT="+o"
+                    VPOS="1400"
+                    WIDTH="578"
+                    HEIGHT="479">
+            <Shape><Polygon POINTS="3491 1405 3444 1426 3434 1426 3269 1550 3135 1591 3130 1591 3130 1596 3011 1709 3093 1817 3140 1879 3454 1694 3454 1689 3460 1689 3460 1684 3511 1575 3589 1519 3558 1472 3496 1400 3491 1405"/></Shape>
+            <String CONTENT="+"
                     HPOS="3011"
-                    VPOS="1467"
-                    WIDTH="510"
-                    HEIGHT="417"
-                    WC="0.9999595880508423"></String>
+                    VPOS="1400"
+                    WIDTH="578"
+                    HEIGHT="479"
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

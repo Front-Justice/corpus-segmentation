@@ -21,50 +21,6 @@
                   VPOS="0"
                   WIDTH="3921"
                   HEIGHT="6087">
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_3071c37d"
-                    BASELINE="93 5167 577 5178" 
-                    HPOS="86"
-                    VPOS="5052"
-                    WIDTH="487"
-                    HEIGHT="157">
-            <Shape><Polygon POINTS="91 5163 86 5199 563 5209 573 5173 568 5067 91 5052 91 5163"/></Shape>
-            <String CONTENT="d coplicité"
-                    HPOS="86"
-                    VPOS="5052"
-                    WIDTH="487"
-                    HEIGHT="157"
-                    WC="0.9705061117808024"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_46fcb5a8"
-                    BASELINE="50 5245 606 5254" 
-                    HPOS="40"
-                    VPOS="5168"
-                    WIDTH="564"
-                    HEIGHT="112">
-            <Shape><Polygon POINTS="553 5173 502 5173 452 5173 401 5173 350 5173 340 5168 45 5173 45 5244 40 5275 594 5280 604 5250 594 5168 553 5168 553 5173"/></Shape>
-            <String CONTENT="Renvoi approuvé"
-                    HPOS="40"
-                    VPOS="5168"
-                    WIDTH="564"
-                    HEIGHT="112"
-                    WC="0.9705386273562908"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_a42ec083"
-                    BASELINE="91 5329 251 5317" 
-                    HPOS="81"
-                    VPOS="5250"
-                    WIDTH="167"
-                    HEIGHT="116">
-            <Shape><Polygon POINTS="233 5250 182 5250 177 5250 81 5255 86 5326 86 5366 243 5341 248 5315 233 5250 233 5250"/></Shape>
-            <String CONTENT="+"
-                    HPOS="81"
-                    VPOS="5250"
-                    WIDTH="167"
-                    HEIGHT="116"
-                    WC="0.9999979734420776"></String>
-          </TextLine>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>

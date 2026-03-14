@@ -21,64 +21,6 @@
                   VPOS="0"
                   WIDTH="3707"
                   HEIGHT="6175">
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_fc9047e0"
-                    BASELINE="59 4705 371 4687" 
-                    HPOS="46"
-                    VPOS="4533"
-                    WIDTH="324"
-                    HEIGHT="232">
-            <Shape><Polygon POINTS="56 4703 66 4765 133 4734 200 4744 283 4754 288 4754 293 4754 370 4713 370 4682 355 4548 149 4533 144 4533 139 4533 46 4564 56 4703"/></Shape>
-            <String CONTENT="t de Sapite"
-                    HPOS="46"
-                    VPOS="4533"
-                    WIDTH="324"
-                    HEIGHT="232"
-                    WC="0.7404169900850817"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_af0c479b"
-                    BASELINE="81 4829 444 4808" 
-                    HPOS="66"
-                    VPOS="4729"
-                    WIDTH="376"
-                    HEIGHT="118">
-            <Shape><Polygon POINTS="77 4826 77 4847 442 4837 442 4806 427 4729 66 4729 77 4826"/></Shape>
-            <String CONTENT="Reuvoi approuue"
-                    HPOS="66"
-                    VPOS="4729"
-                    WIDTH="376"
-                    HEIGHT="118"
-                    WC="0.8774807691574097"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_33e0046b"
-                    BASELINE="118 4915 333 4910" 
-                    HPOS="108"
-                    VPOS="4821"
-                    WIDTH="221"
-                    HEIGHT="175">
-            <Shape><Polygon POINTS="159 4826 108 4826 113 4914 113 4950 231 4996 236 4996 241 4996 247 4996 252 4996 329 4950 329 4909 319 4831 195 4821 159 4826"/></Shape>
-            <String CONTENT="le Greffier"
-                    HPOS="108"
-                    VPOS="4821"
-                    WIDTH="221"
-                    HEIGHT="175"
-                    WC="0.9613015489144758"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_68aa99f7"
-                    BASELINE="126 5141 341 4980" 
-                    HPOS="46"
-                    VPOS="4816"
-                    WIDTH="365"
-                    HEIGHT="407">
-            <Shape><Polygon POINTS="123 5140 180 5217 216 5223 221 5223 226 5223 231 5223 231 5217 236 5217 288 5150 324 5104 411 5078 339 4976 216 4816 149 4842 144 4842 144 4847 139 4847 139 4852 139 4857 118 4950 113 4986 46 5037 123 5140"/></Shape>
-            <String CONTENT="+"
-                    HPOS="46"
-                    VPOS="4816"
-                    WIDTH="365"
-                    HEIGHT="407"
-                    WC="0.9993996620178223"></String>
-          </TextLine>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>

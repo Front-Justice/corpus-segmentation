@@ -31,12 +31,12 @@
                     WIDTH="231.0"
                     HEIGHT="339.0">
             <Shape><Polygon POINTS="513 3557 431 3557 446 3891 523 3891 600 3885 657 3808 657 3803 657 3798 662 3798 662 3726 657 3721 657 3716 585 3552 513 3557"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le Greffier"
                     HPOS="431.0"
                     VPOS="3552.0"
                     WIDTH="231.0"
                     HEIGHT="339.0"
-                    ></String>
+                    WC="0.994044076312672"></String>
           </TextLine>
           <TextLine ID="eSc_line_c4f2fdc3"
                     BASELINE="614 4963 684 4223" 
@@ -45,12 +45,12 @@
                     WIDTH="344.0"
                     HEIGHT="765.0">
             <Shape><Polygon POINTS="508 4799 508 4804 508 4809 528 4943 611 4958 765 4969 837 4871 837 4866 837 4861 852 4681 852 4676 852 4671 852 4666 739 4501 754 4224 683 4219 564 4204 590 4337 539 4460 539 4466 539 4471 539 4476 570 4573 554 4758 513 4794 508 4794 508 4799"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="508.0"
                     VPOS="4204.0"
                     WIDTH="344.0"
                     HEIGHT="765.0"
-                    ></String>
+                    WC="0.9999940395355225"></String>
           </TextLine>
           <TextLine ID="eSc_line_515e3622"
                     TAGREFS="LT11707"
@@ -60,12 +60,12 @@
                     WIDTH="144.0"
                     HEIGHT="801.0">
             <Shape><Polygon POINTS="523 4178 446 4173 431 4963 503 4974 575 4969 570 4178 523 4178"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le Commissaire Rapporteur"
                     HPOS="431.0"
                     VPOS="4173.0"
                     WIDTH="144.0"
                     HEIGHT="801.0"
-                    ></String>
+                    WC="0.9631216406822205"></String>
           </TextLine>
           <TextLine ID="eSc_line_06cfe761"
                     TAGREFS="LT11707"
@@ -75,12 +75,12 @@
                     WIDTH="139.0"
                     HEIGHT="1699.0">
             <Shape><Polygon POINTS="333 4907 333 4958 333 5010 333 5061 333 5112 333 5159 405 5169 436 5169 467 5076 467 5071 467 5066 446 4815 467 3475 421 3475 349 3470 328 4856 333 4907"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="(détention préventive du Deuux Mars 1919 au Deue avril 1919"
                     HPOS="328.0"
                     VPOS="3470.0"
                     WIDTH="139.0"
                     HEIGHT="1699.0"
-                    ></String>
+                    WC="0.9677246554953153"></String>
           </TextLine>
           <TextLine ID="eSc_line_2dd7c47b"
                     TAGREFS="LT11707"
@@ -90,12 +90,12 @@
                     WIDTH="200.0"
                     HEIGHT="2161.0">
             <Shape><Polygon POINTS="308 3162 241 3162 200 3588 200 3593 205 3855 205 3860 205 3865 210 3865 256 3911 267 4029 272 4994 225 5117 225 5123 225 5128 225 5133 225 5138 251 5174 231 5200 231 5205 231 5210 231 5215 251 5318 333 5318 374 5313 400 4507 400 4501 400 4496 400 4491 374 4450 395 4045 395 4039 364 3885 390 3731 390 3726 359 3157 308 3162"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="le Dent Avril 1919 pour compter du Deux Mars 1919"
                     HPOS="200.0"
                     VPOS="3157.0"
                     WIDTH="200.0"
                     HEIGHT="2161.0"
-                    ></String>
+                    WC="0.9751411907526911"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

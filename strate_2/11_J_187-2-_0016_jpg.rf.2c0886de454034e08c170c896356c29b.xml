@@ -22,20 +22,6 @@
                   WIDTH="3893"
                   HEIGHT="6183">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_2a92bbaf"
-                    BASELINE="206 3006 206 2290" 
-                    HPOS="134"
-                    VPOS="2287"
-                    WIDTH="190"
-                    HEIGHT="716">
-            <Shape><Polygon POINTS="201 3003 283 2998 324 2730 324 2725 324 2720 324 2715 304 2679 278 2638 309 2560 314 2540 314 2535 314 2529 314 2524 309 2509 278 2426 314 2385 319 2380 324 2380 324 2375 324 2370 324 2364 319 2287 201 2287 134 2287 134 3003 201 3003"/></Shape>
-            <String CONTENT="le Oze juillet 1919"
-                    HPOS="134"
-                    VPOS="2287"
-                    WIDTH="190"
-                    HEIGHT="716"
-                    WC="0.9658902946271395"></String>
-          </TextLine>
           <TextLine ID="eSc_line_fafa8064"
                     BASELINE="497 3849 501 2892" 
                     HPOS="412"
@@ -43,12 +29,12 @@
                     WIDTH="186"
                     HEIGHT="963">
             <Shape><Polygon POINTS="412 2885 427 3843 495 3848 592 3838 551 3647 587 3596 592 3591 592 3586 592 3580 598 3580 598 3441 592 3436 592 3431 577 3400 531 3276 531 2972 562 2895 500 2890 412 2885"/></Shape>
-            <String CONTENT="METRUAE DEERAREEETEI GEUEETERUTRUE DE CNE"
+            <String CONTENT="L&#x27;OFFICIER D&#x27;ADMINISTRATION BOUDOT GREFFIER DU CONSEIL"
                     HPOS="412"
                     VPOS="2885"
                     WIDTH="186"
                     HEIGHT="963"
-                    WC="0.6490246958848906"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_53278571"
                     BASELINE="337 4620 299 3305" 
@@ -64,19 +50,19 @@
                     HEIGHT="1319"
                     WC="0.9786597736950579"></String>
           </TextLine>
-          <TextLine ID="eSc_line_7b940bc8"
-                    BASELINE="232 4649 223 3061" 
-                    HPOS="149"
-                    VPOS="3055"
-                    WIDTH="129"
-                    HEIGHT="1592">
-            <Shape><Polygon POINTS="221 3060 149 3060 154 4647 226 4647 278 4642 262 3055 221 3060"/></Shape>
-            <String CONTENT="Le présent jugement a commencé à recevoit son exécution"
-                    HPOS="149"
-                    VPOS="3055"
-                    WIDTH="129"
-                    HEIGHT="1592"
-                    WC="0.9883617465778932"></String>
+          <TextLine ID="eSc_line_15a5e267"
+                    BASELINE="232 4649 223 3061 206 3006 206 2290" 
+                    HPOS="134"
+                    VPOS="2282"
+                    WIDTH="170"
+                    HEIGHT="2365">
+            <Shape><Polygon POINTS="288 3436 262 3261 293 3215 293 3210 293 3204 293 3199 273 3024 299 2679 299 2674 299 2668 299 2663 268 2617 299 2555 299 2550 304 2550 304 2282 201 2287 134 2287 154 4647 226 4647 278 4637 262 3910 293 3859 293 3854 293 3848 293 3843 262 3627 288 3441 288 3436"/></Shape>
+            <String CONTENT="Le présent jugement a commencé à recevoir son exécution le onze juillet 1919"
+                    HPOS="134"
+                    VPOS="2282"
+                    WIDTH="170"
+                    HEIGHT="2365"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_b8942ad4"
                     BASELINE="518 4780 506 4186" 
@@ -91,20 +77,6 @@
                     WIDTH="129"
                     HEIGHT="598"
                     WC="0.9803784704208374"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_f83a4fcd"
-                    BASELINE="725 4780 716 4771" 
-                    HPOS="701"
-                    VPOS="4709"
-                    WIDTH="72"
-                    HEIGHT="72">
-            <Shape><Polygon POINTS="711 4766 701 4771 711 4781 721 4776 773 4719 768 4709 711 4766"/></Shape>
-            <String CONTENT="+"
-                    HPOS="701"
-                    VPOS="4709"
-                    WIDTH="72"
-                    HEIGHT="72"
-                    WC="0.9207477569580078"></String>
           </TextLine>
           <TextLine ID="eSc_line_83f9018c"
                     BASELINE="712 4788 666 4072" 

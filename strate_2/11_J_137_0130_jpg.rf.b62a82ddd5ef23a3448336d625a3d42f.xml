@@ -60,12 +60,12 @@
                     WIDTH="897"
                     HEIGHT="138">
             <Shape><Polygon POINTS="718 2595 713 2595 622 2595 617 2600 566 2605 515 2610 464 2615 413 2620 367 2625 316 2630 265 2635 214 2640 163 2646 112 2646 107 2620 56 2620 66 2712 66 2722 953 2686 953 2640 938 2584 718 2589 718 2595"/></Shape>
-            <String CONTENT="mil neuf cent qunze pour compter"
+            <String CONTENT="mil neuf cent quinze pour compter"
                     HPOS="56"
                     VPOS="2584"
                     WIDTH="897"
                     HEIGHT="138"
-                    WC="0.9589913170784712"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_c493451c"
                     TAGREFS="LT10974"
@@ -75,12 +75,12 @@
                     WIDTH="831"
                     HEIGHT="168">
             <Shape><Polygon POINTS="887 2651 836 2661 785 2666 739 2676 688 2681 637 2686 586 2686 535 2691 484 2691 433 2697 382 2697 331 2702 326 2702 76 2722 86 2804 86 2819 469 2783 489 2783 611 2798 617 2798 907 2737 907 2722 892 2651 887 2651"/></Shape>
-            <String CONTENT="du, trente et un Décembre mil"
+            <String CONTENT="du trente et un Décembre mil"
                     HPOS="76"
                     VPOS="2651"
                     WIDTH="831"
                     HEIGHT="168"
-                    WC="0.9932860016822815"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_37f5995b"
                     TAGREFS="LT10974"
@@ -105,12 +105,12 @@
                     WIDTH="459"
                     HEIGHT="189">
             <Shape><Polygon POINTS="183 2936 183 2972 316 2967 321 2967 397 3008 402 3008 407 3008 413 3008 632 2941 632 2895 617 2819 173 2855 183 2936"/></Shape>
-            <String CONTENT="Le Grifier:"
+            <String CONTENT="Le Greffier"
                     HPOS="173"
                     VPOS="2819"
                     WIDTH="459"
                     HEIGHT="189"
-                    WC="0.957861911166798"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_2428dd70"
                     TAGREFS="LT10974"
