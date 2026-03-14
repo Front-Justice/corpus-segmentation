@@ -43,12 +43,12 @@
                     WIDTH="1193"
                     HEIGHT="132">
             <Shape><Polygon POINTS="60 2850 60 2901 1242 2876 1248 2840 1232 2769 55 2774 60 2850"/></Shape>
-            <String CONTENT="suspendue par décision de M le Général"
+            <String CONTENT="suspendue par décision de M^ le Général"
                     HPOS="55"
                     VPOS="2769"
                     WIDTH="1193"
                     HEIGHT="132"
-                    WC="0.9608621321073393"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_b01a99f1"
                     BASELINE="63 2955 1155 2938" 
@@ -57,12 +57,12 @@
                     WIDTH="1096"
                     HEIGHT="116">
             <Shape><Polygon POINTS="60 2952 60 2982 1141 2992 1151 2936 1136 2876 55 2881 60 2952"/></Shape>
-            <String CONTENT="Comm^t le IV^e Arme, du 31 Mai 1917."
+            <String CONTENT="Commt^ la IVe Arme, du 31 Mai 1917"
                     HPOS="55"
                     VPOS="2876"
                     WIDTH="1096"
                     HEIGHT="116"
-                    WC="0.9602927093704542"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_f9a7a3a0"
                     BASELINE="40 3033 1281 3039" 
@@ -71,12 +71,12 @@
                     WIDTH="1248"
                     HEIGHT="127">
             <Shape><Polygon POINTS="35 3028 30 3058 1268 3089 1278 3038 1278 2972 35 2962 35 3028"/></Shape>
-            <String CONTENT="Détention préventive: du 13 Mars au 30 Mai 1917"
+            <String CONTENT="Détention préventive : du 13 Mars au 30 Mai 1917"
                     HPOS="30"
                     VPOS="2962"
                     WIDTH="1248"
                     HEIGHT="127"
-                    WC="0.9452052688112065"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_0290a8f3"
                     BASELINE="197 3129 560 3115" 
@@ -85,12 +85,12 @@
                     WIDTH="371"
                     HEIGHT="117">
             <Shape><Polygon POINTS="192 3124 192 3144 339 3165 344 3165 558 3129 558 3114 542 3048 187 3048 192 3124"/></Shape>
-            <String CONTENT="Le greffier."
+            <String CONTENT="Le greffier"
                     HPOS="187"
                     VPOS="3048"
                     WIDTH="371"
                     HEIGHT="117"
-                    WC="0.9709469626347224"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_9cb256ae"
                     BASELINE="124 3275 686 3149" 

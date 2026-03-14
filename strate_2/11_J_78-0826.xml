@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_78-0826.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT11711" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3496"
+          HEIGHT="6015"
+          PHYSICAL_IMG_NR="16"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3496"
+                  HEIGHT="6015">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_3954fb58"
+                    TAGREFS="LT11711"
+                    BASELINE="317 4702 281 3097" 
+                    HPOS="175"
+                    VPOS="3087"
+                    WIDTH="186"
+                    HEIGHT="1614">
+            <Shape><Polygon POINTS="280 3092 175 3092 230 3578 200 3644 200 3649 200 3654 200 3659 235 3784 200 3974 200 3979 245 4185 245 4416 220 4451 220 4456 220 4461 220 4466 220 4471 250 4591 210 4691 315 4701 361 4691 310 3087 280 3092"/></Shape>
+            <String CONTENT=""
+                    HPOS="175"
+                    VPOS="3087"
+                    WIDTH="186"
+                    HEIGHT="1614"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4b3f4d78"
+                    TAGREFS="LT11711"
+                    BASELINE="501 4664 464 3567" 
+                    HPOS="376"
+                    VPOS="3558"
+                    WIDTH="180"
+                    HEIGHT="1103">
+            <Shape><Polygon POINTS="461 3563 376 3563 421 4661 496 4661 556 4651 521 4305 531 3749 531 3744 486 3558 461 3563"/></Shape>
+            <String CONTENT=""
+                    HPOS="376"
+                    VPOS="3558"
+                    WIDTH="180"
+                    HEIGHT="1103"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2b438450"
+                    TAGREFS="LT11711"
+                    BASELINE="655 4120 654 3551" 
+                    HPOS="566"
+                    VPOS="3548"
+                    WIDTH="146"
+                    HEIGHT="567">
+            <Shape><Polygon POINTS="652 4115 712 4110 692 3548 652 3548 566 3548 566 4115 652 4115"/></Shape>
+            <String CONTENT=""
+                    HPOS="566"
+                    VPOS="3548"
+                    WIDTH="146"
+                    HEIGHT="567"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6335e47a"
+                    TAGREFS="LT11711"
+                    BASELINE="578 4517 528 3194" 
+                    HPOS="461"
+                    VPOS="3187"
+                    WIDTH="170"
+                    HEIGHT="1329">
+            <Shape><Polygon POINTS="526 3192 461 3192 506 4516 576 4516 631 4506 556 3187 526 3192"/></Shape>
+            <String CONTENT=""
+                    HPOS="461"
+                    VPOS="3187"
+                    WIDTH="170"
+                    HEIGHT="1329"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_71d572be"
+                    TAGREFS="LT11711"
+                    BASELINE="407 4674 348 2899" 
+                    HPOS="285"
+                    VPOS="2892"
+                    WIDTH="171"
+                    HEIGHT="1779">
+            <Shape><Polygon POINTS="346 2897 285 2897 331 4671 406 4671 446 4666 456 4110 456 4105 421 3924 446 3839 446 3834 446 3829 416 3689 436 3493 436 3488 391 2892 346 2897"/></Shape>
+            <String CONTENT=""
+                    HPOS="285"
+                    VPOS="2892"
+                    WIDTH="171"
+                    HEIGHT="1779"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -29,12 +29,12 @@
                     WIDTH="123"
                     HEIGHT="188">
             <Shape><Polygon POINTS="101 3533 96 3543 96 3681 168 3691 219 3686 219 3508 173 3508 101 3503 101 3533"/></Shape>
-            <String CONTENT="Lé"
+            <String CONTENT="Néant"
                     HPOS="96"
                     VPOS="3503"
                     WIDTH="123"
                     HEIGHT="188"
-                    WC="0.9841751853624979"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_31387738"
                     BASELINE="249 3718 251 3525" 
@@ -43,12 +43,12 @@
                     WIDTH="132"
                     HEIGHT="198">
             <Shape><Polygon POINTS="249 3523 178 3518 178 3701 244 3716 295 3711 310 3523 249 3523"/></Shape>
-            <String CONTENT="+én"
+            <String CONTENT="Néant"
                     HPOS="178"
                     VPOS="3518"
                     WIDTH="132"
                     HEIGHT="198"
-                    WC="0.865124985575676"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_a11346f1"
                     BASELINE="90 3784 111 3359 109 3359 102 3020" 
@@ -57,12 +57,12 @@
                     WIDTH="148"
                     HEIGHT="769">
             <Shape><Polygon POINTS="101 3019 25 3014 20 3772 86 3783 147 3778 168 3019 101 3019"/></Shape>
-            <String CONTENT="ondamnations antérieures"
+            <String CONTENT="Condamnations antérieures"
                     HPOS="20"
                     VPOS="3014"
                     WIDTH="148"
                     HEIGHT="769"
-                    WC="0.9881345915794373"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_ca97efac"
                     BASELINE="230 4054 237 3872" 
@@ -71,12 +71,12 @@
                     WIDTH="163"
                     HEIGHT="188">
             <Shape><Polygon POINTS="173 3895 173 3946 173 3996 173 4042 229 4052 336 4042 331 3869 234 3869 173 3864 173 3895"/></Shape>
-            <String CONTENT="Loya"
+            <String CONTENT="Loyan"
                     HPOS="173"
                     VPOS="3864"
                     WIDTH="163"
                     HEIGHT="188"
-                    WC="0.8923684060573578"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_b0f7bb8b"
                     BASELINE="170 4071 170 3843" 
@@ -85,12 +85,12 @@
                     WIDTH="148"
                     HEIGHT="229">
             <Shape><Polygon POINTS="168 4068 208 4063 214 3839 168 3839 66 3839 66 4068 168 4068"/></Shape>
-            <String CONTENT="Grergne"
+            <String CONTENT="Peignot"
                     HPOS="66"
                     VPOS="3839"
                     WIDTH="148"
                     HEIGHT="229"
-                    WC="0.9288547890526908"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

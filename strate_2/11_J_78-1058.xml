@@ -30,12 +30,12 @@
                     WIDTH="190.0"
                     HEIGHT="541.0">
             <Shape><Polygon POINTS="436 4350 546 4355 581 4355 626 4175 626 4170 591 3819 561 3819 491 3814 481 4045 441 4085 436 4085 436 4090 436 4095 436 4100 436 4300 436 4350"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="436.0"
                     VPOS="3814.0"
                     WIDTH="190.0"
                     HEIGHT="541.0"
-                    ></String>
+                    WC="1.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_cc84a8b2"
                     BASELINE="440 4463 415 3563" 
@@ -44,12 +44,12 @@
                     WIDTH="115.0"
                     HEIGHT="908.0">
             <Shape><Polygon POINTS="411 3558 346 3558 356 4461 436 4461 461 4451 436 3553 411 3558"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="L&#x27;Officier d&#x27;Administration greffier"
                     HPOS="346.0"
                     VPOS="3553.0"
                     WIDTH="115.0"
                     HEIGHT="908.0"
-                    ></String>
+                    WC="0.969148662355211"></String>
           </TextLine>
           <TextLine ID="eSc_line_334bf91c"
                     BASELINE="129 4606 109 3446" 
@@ -58,7 +58,7 @@
                     WIDTH="120.0"
                     HEIGHT="1163.0">
             <Shape><Polygon POINTS="105 3443 55 3443 55 3448 55 3498 55 3548 55 3598 55 3649 55 3699 55 3749 60 3799 60 3849 60 3899 60 3949 60 3999 60 4050 60 4100 60 4150 60 4200 65 4250 65 4300 65 4350 65 4400 65 4451 65 4501 65 4551 65 4596 125 4601 175 4596 135 3438 105 3443"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Par décision de Mr le Général Command^t"
                     HPOS="55.0"
                     VPOS="3438.0"
                     WIDTH="120.0"
@@ -72,7 +72,7 @@
                     WIDTH="125.0"
                     HEIGHT="1138.0">
             <Shape><Polygon POINTS="175 3483 110 3483 110 3513 110 3563 110 3614 110 3664 110 3714 115 3764 115 3814 115 3864 115 3914 115 3964 115 4015 120 4065 120 4115 120 4165 120 4215 120 4265 125 4315 125 4365 125 4416 125 4466 125 4516 125 4566 120 4566 125 4616 200 4616 235 4606 225 3478 175 3483"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="la IV^e Armée en date du 1^e Juin 1918"
                     HPOS="110.0"
                     VPOS="3478.0"
                     WIDTH="125.0"
@@ -86,7 +86,7 @@
                     WIDTH="135.0"
                     HEIGHT="1188.0">
             <Shape><Polygon POINTS="245 3438 180 3438 220 4621 285 4621 315 4611 275 3433 245 3438"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="l&#x27;exécution du jugement a été suspendue"
                     HPOS="180.0"
                     VPOS="3433.0"
                     WIDTH="135.0"
@@ -100,7 +100,7 @@
                     WIDTH="171.0"
                     HEIGHT="1223.0">
             <Shape><Polygon POINTS="310 3398 245 3398 245 3458 250 3463 250 3513 250 3563 255 3614 255 3664 255 3714 260 3764 260 3814 260 3864 265 3914 265 3964 265 4015 270 4065 270 4115 270 4165 275 4215 275 4265 275 4315 280 4365 280 4416 280 4466 285 4516 285 4566 285 4616 351 4616 386 4611 416 4486 416 4481 416 4476 386 4411 401 4015 401 4010 351 3393 310 3398"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Détention Préventive du 14 février au 3 Juin 1918"
                     HPOS="245.0"
                     VPOS="3393.0"
                     WIDTH="171.0"
@@ -114,7 +114,7 @@
                     WIDTH="160.0"
                     HEIGHT="1263.0">
             <Shape><Polygon POINTS="50 3373 5 3373 5 3378 5 3428 5 3478 5 3528 5 3578 5 3629 5 3679 5 3729 5 3779 5 3829 5 3879 5 3929 5 3979 5 4030 5 4080 5 4130 5 4180 5 4230 5 4280 5 4330 5 4380 5 4431 5 4481 5 4531 5 4581 5 4631 65 4631 160 4626 165 3508 165 3503 165 3498 125 3368 50 3373"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="jugement devenu définitif le trente et un mai 1918"
                     HPOS="5.0"
                     VPOS="3368.0"
                     WIDTH="160.0"

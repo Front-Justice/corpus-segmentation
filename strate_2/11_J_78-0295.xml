@@ -30,12 +30,12 @@
                     WIDTH="2196.0"
                     HEIGHT="1287.0">
             <Shape><Polygon POINTS="86 1433 420 1210 644 1149 644 1144 649 1144 699 1063 851 977 958 927 1034 937 1034 932 1090 876 1242 825 1440 658 1541 638 1541 633 1587 582 1703 572 1901 466 1906 466 1906 460 1911 460 1957 395 2226 278 2155 146 2043 172 2033 172 1719 379 1435 379 1267 460 1039 587 1034 587 1034 592 1029 592 968 744 846 780 846 785 841 785 841 790 801 861 654 896 644 896 644 901 638 901 552 1008 395 1053 395 1058 390 1058 319 1149 131 1185 131 1190 126 1190 45 1296 30 1291 50 1367 86 1433"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="mere du restant de la peine par déclet en date"
                     HPOS="30.0"
                     VPOS="146.0"
                     WIDTH="2196.0"
                     HEIGHT="1287.0"
-                    ></String>
+                    WC="0.9610360614631487"></String>
           </TextLine>
           <TextLine ID="eSc_line_063e92a2"
                     TAGREFS="LT11707"
@@ -45,12 +45,12 @@
                     WIDTH="527.0"
                     HEIGHT="355.0">
             <Shape><Polygon POINTS="395 1435 428 1506 672 1398 675 1398 675 1394 749 1330 891 1259 871 1212 841 1151 364 1371 395 1435"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le Greffier"
                     HPOS="364.0"
                     VPOS="1151.0"
                     WIDTH="527.0"
                     HEIGHT="355.0"
-                    ></String>
+                    WC="0.986407458782196"></String>
           </TextLine>
           <TextLine ID="eSc_line_92da01ea"
                     TAGREFS="LT11707"
@@ -60,12 +60,12 @@
                     WIDTH="270.0"
                     HEIGHT="277.0">
             <Shape><Polygon POINTS="773 1354 726 1306 567 1448 621 1506 702 1583 837 1418 773 1354"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="567.0"
                     VPOS="1306.0"
                     WIDTH="270.0"
                     HEIGHT="277.0"
-                    ></String>
+                    WC="0.9999969005584717"></String>
           </TextLine>
           <TextLine ID="eSc_line_2e573ee4"
                     BASELINE="46 1543 914 1045" 
@@ -74,12 +74,12 @@
                     WIDTH="933.0"
                     HEIGHT="729.0">
             <Shape><Polygon POINTS="0 1433 45 1540 81 1590 116 1540 339 1458 344 1458 344 1453 349 1453 395 1372 522 1301 791 1200 796 1200 933 1084 912 1043 806 861 765 861 760 861 755 861 750 861 542 1013 349 1099 344 1099 344 1104 339 1104 339 1109 283 1251 0 1413 0 1433"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="le 29 Juillet 1919"
                     HPOS="0.0"
                     VPOS="861.0"
                     WIDTH="933.0"
                     HEIGHT="729.0"
-                    ></String>
+                    WC="0.9825314713848962"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

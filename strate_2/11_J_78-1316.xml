@@ -31,12 +31,12 @@
                     WIDTH="175.0"
                     HEIGHT="1311.0">
             <Shape><Polygon POINTS="129 3359 44 3359 74 4665 159 4665 194 4660 219 4525 219 4520 189 4341 209 4236 209 4231 209 4226 209 4221 184 4181 199 3972 199 3967 159 3354 129 3359"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Jugement depenu définitif le 21 Juin 1918"
                     HPOS="44.0"
                     VPOS="3354.0"
                     WIDTH="175.0"
                     HEIGHT="1311.0"
-                    ></String>
+                    WC="0.9825915963876815"></String>
           </TextLine>
           <TextLine ID="eSc_line_cdc45182"
                     TAGREFS="LT11707"
@@ -46,12 +46,12 @@
                     WIDTH="126.0"
                     HEIGHT="176.0">
             <Shape><Polygon POINTS="518 3980 445 3974 442 4140 511 4150 545 4150 568 4053 568 4050 568 4047 548 3980 518 3980"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="442.0"
                     VPOS="3974.0"
                     WIDTH="126.0"
                     HEIGHT="176.0"
-                    ></String>
+                    WC="1.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_ca52fd30"
                     TAGREFS="LT11707"
@@ -61,12 +61,12 @@
                     WIDTH="170.0"
                     HEIGHT="1042.0">
             <Shape><Polygon POINTS="379 3483 299 3483 314 4017 319 4022 319 4072 319 4121 319 4171 319 4171 329 4520 404 4520 424 4515 469 4316 469 4311 469 4306 434 4236 419 3892 449 3583 449 3578 449 3573 409 3478 379 3483"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="L&#x27;officier d&#x27;administation reffier,"
                     HPOS="299.0"
                     VPOS="3478.0"
                     WIDTH="170.0"
                     HEIGHT="1042.0"
-                    ></String>
+                    WC="0.968182270867484"></String>
           </TextLine>
           <TextLine ID="eSc_line_5c9ef1d4"
                     TAGREFS="LT11707"
@@ -76,12 +76,12 @@
                     WIDTH="125.0"
                     HEIGHT="1316.0">
             <Shape><Polygon POINTS="209 3394 149 3394 149 4495 154 4505 154 4555 159 4605 159 4655 149 4655 154 4705 234 4705 259 4700 274 3922 274 3917 234 3389 209 3394"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Detention préventive du quatorze mars 1918"
                     HPOS="149.0"
                     VPOS="3389.0"
                     WIDTH="125.0"
                     HEIGHT="1316.0"
-                    ></String>
+                    WC="0.9542910234872685"></String>
           </TextLine>
           <TextLine ID="eSc_line_bd20eb46"
                     TAGREFS="LT11707"
@@ -91,12 +91,12 @@
                     WIDTH="135.0"
                     HEIGHT="713.0">
             <Shape><Polygon POINTS="314 3997 244 3997 254 4705 324 4705 349 4700 379 4356 379 4351 374 4072 374 4067 339 3992 314 3997"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="au Vingt quatre Juin 1918"
                     HPOS="244.0"
                     VPOS="3992.0"
                     WIDTH="135.0"
                     HEIGHT="713.0"
-                    ></String>
+                    WC="0.9608481633663177"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

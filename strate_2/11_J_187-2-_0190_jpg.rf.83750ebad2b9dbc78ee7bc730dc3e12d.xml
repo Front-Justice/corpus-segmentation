@@ -71,26 +71,26 @@
                     WIDTH="139"
                     HEIGHT="983">
             <Shape><Polygon POINTS="344 3627 267 3627 267 4605 344 4610 406 4605 406 3627 344 3627"/></Shape>
-            <String CONTENT="Le Commisire lapporteur"
+            <String CONTENT="Le Commisire Rapporteur"
                     HPOS="267"
                     VPOS="3627"
                     WIDTH="139"
                     HEIGHT="983"
-                    WC="0.9677371304968129"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_5eb7dfc0"
-                    BASELINE="248 4921 238 4134 213 3985 218 3346" 
+                    BASELINE="248 4921 238 4134 213 3985 218 3279" 
                     HPOS="133"
-                    VPOS="3339"
-                    WIDTH="165"
-                    HEIGHT="1580">
-            <Shape><Polygon POINTS="216 3344 133 3344 164 4919 247 4919 298 4909 272 4126 278 4101 293 4049 293 4044 293 4039 293 4034 293 4029 278 4013 267 3998 272 3931 288 3802 288 3797 267 3694 262 3653 267 3612 288 3427 288 3421 288 3416 257 3339 216 3344"/></Shape>
-            <String CONTENT="pour compter du 2 août 191"
+                    VPOS="3272"
+                    WIDTH="170"
+                    HEIGHT="1647">
+            <Shape><Polygon POINTS="216 3277 154 3277 133 3447 133 3452 164 3581 164 4919 247 4919 303 4914 278 4734 303 4224 303 4219 267 4044 293 3792 293 3787 267 3272 216 3277"/></Shape>
+            <String CONTENT="pour compter du 2 août 1919"
                     HPOS="133"
-                    VPOS="3339"
-                    WIDTH="165"
-                    HEIGHT="1580"
-                    WC="0.996996870747319"></String>
+                    VPOS="3272"
+                    WIDTH="170"
+                    HEIGHT="1647"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_4b189c60"
                     BASELINE="149 4946 119 3980 109 3341 104 2415" 
@@ -99,12 +99,12 @@
                     WIDTH="211"
                     HEIGHT="2537">
             <Shape><Polygon POINTS="205 3843 205 3838 185 3771 169 3730 180 3663 195 3576 195 3571 180 3473 154 3334 175 3298 205 3252 205 3247 205 3241 211 3241 211 3072 205 3066 169 2891 144 2747 144 2593 164 2542 195 2475 195 2470 195 2464 195 2459 169 2408 102 2413 10 2413 56 4945 144 4945 195 4934 185 4703 195 4687 216 4651 216 4646 216 4641 216 4636 216 4631 216 4626 195 4595 190 4590 195 4584 221 4512 221 4507 221 4502 190 4307 175 4204 185 4065 205 3849 205 3843"/></Shape>
-            <String CONTENT="Le présent jugement a commencé à recevoir son exécutier le 10 septembre 1919"
+            <String CONTENT="Le présent jugement a commencé à recevoir son exécution le 10 septembre 1919"
                     HPOS="10"
                     VPOS="2408"
                     WIDTH="211"
                     HEIGHT="2537"
-                    WC="0.9787412583827972"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

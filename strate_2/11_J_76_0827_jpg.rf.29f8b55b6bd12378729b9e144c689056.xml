@@ -45,12 +45,12 @@
                     WIDTH="821"
                     HEIGHT="167">
             <Shape><Polygon POINTS="2730 1887 2745 1937 2761 1917 3536 1927 3546 1882 3531 1801 3272 1801 3247 1796 3176 1770 3171 1770 3166 1770 2725 1785 2730 1887"/></Shape>
-            <String CONTENT="sa peine- Décier"
+            <String CONTENT="sa peine. Décret"
                     HPOS="2725"
                     VPOS="1770"
                     WIDTH="821"
                     HEIGHT="167"
-                    WC="0.9918857602512136"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_e21cb575"
                     TAGREFS="LT10974"
@@ -60,12 +60,12 @@
                     WIDTH="584"
                     HEIGHT="132">
             <Shape><Polygon POINTS="2727 1986 2727 2030 3308 2027 3308 1966 3301 1915 3088 1898 3085 1898 3082 1898 3078 1898 3051 1922 3011 1905 3007 1905 3004 1905 3001 1905 2957 1925 2886 1905 2882 1905 2879 1905 2876 1905 2872 1905 2842 1929 2768 1915 2764 1915 2761 1915 2724 1929 2727 1986"/></Shape>
-            <String CONTENT="du 20 aril 1921"
+            <String CONTENT="du 20 avril 1921"
                     HPOS="2724"
                     VPOS="1898"
                     WIDTH="584"
                     HEIGHT="132"
-                    WC="0.9922141234079996"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_5a47b9c1"
                     TAGREFS="LT10974"
@@ -75,12 +75,12 @@
                     WIDTH="487"
                     HEIGHT="177">
             <Shape><Polygon POINTS="2918 2089 2918 2134 3054 2160 3059 2160 3389 2089 3389 2048 3374 1983 2902 2003 2918 2089"/></Shape>
-            <String CONTENT="Le Greffier:"
+            <String CONTENT="Le Greffier"
                     HPOS="2902"
                     VPOS="1983"
                     WIDTH="487"
                     HEIGHT="177"
-                    WC="0.9953669110933939"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_84029177"
                     TAGREFS="LT10974"
