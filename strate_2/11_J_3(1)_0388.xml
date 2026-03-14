@@ -31,12 +31,12 @@
                     WIDTH="610"
                     HEIGHT="290">
             <Shape><Polygon POINTS="120 2282 125 2307 700 2127 695 2107 665 2017 430 2037 425 2037 90 2197 120 2282"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Laxécution de la pena"
                     HPOS="90"
                     VPOS="2017"
                     WIDTH="610"
                     HEIGHT="290"
-                    ></String>
+                    WC="0.9378295611767542"></String>
           </TextLine>
           <TextLine ID="eSc_line_d005aa49"
                     BASELINE="114 2368 869 2105" 
@@ -45,12 +45,12 @@
                     WIDTH="785"
                     HEIGHT="375">
             <Shape><Polygon POINTS="560 2142 510 2147 490 2147 85 2302 110 2367 120 2397 870 2127 865 2102 830 2022 555 2122 560 2142"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="a été suspendue par ordonnance"
                     HPOS="85"
                     VPOS="2022"
                     WIDTH="785"
                     HEIGHT="375"
-                    ></String>
+                    WC="0.9861777443438768"></String>
           </TextLine>
           <TextLine ID="eSc_line_d7fe8c8f"
                     BASELINE="113 2450 890 2155" 
@@ -59,12 +59,12 @@
                     WIDTH="811"
                     HEIGHT="380">
             <Shape><Polygon POINTS="840 2112 790 2132 745 2147 695 2162 650 2182 600 2197 555 2212 505 2232 460 2247 415 2262 365 2277 320 2297 270 2312 225 2327 175 2347 130 2362 125 2352 80 2367 110 2447 125 2482 891 2177 886 2152 860 2102 840 2112"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le M. le Géneral Commandant"
                     HPOS="80"
                     VPOS="2102"
                     WIDTH="811"
                     HEIGHT="380"
-                    ></String>
+                    WC="0.9423255494662693"></String>
           </TextLine>
           <TextLine ID="eSc_line_5e038b21"
                     BASELINE="105 2527 913 2202" 
@@ -73,12 +73,12 @@
                     WIDTH="846"
                     HEIGHT="425">
             <Shape><Polygon POINTS="870 2162 820 2177 775 2197 730 2212 680 2232 635 2247 590 2267 540 2282 495 2302 450 2322 400 2337 355 2357 310 2372 260 2392 255 2392 75 2462 100 2522 115 2562 921 2227 911 2197 886 2137 860 2142 870 2162"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="la I^e armée en date du deux"
                     HPOS="75"
                     VPOS="2137"
                     WIDTH="846"
                     HEIGHT="425"
-                    ></String>
+                    WC="0.9781753790789637"></String>
           </TextLine>
           <TextLine ID="eSc_line_0960cb98"
                     BASELINE="456 2516 839 2340" 
@@ -87,12 +87,12 @@
                     WIDTH="415"
                     HEIGHT="345">
             <Shape><Polygon POINTS="475 2442 430 2462 455 2512 505 2607 730 2417 845 2367 835 2337 795 2262 480 2412 475 2442"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le Greffier."
                     HPOS="430"
                     VPOS="2262"
                     WIDTH="415"
                     HEIGHT="345"
-                    ></String>
+                    WC="0.9701255112886429"></String>
           </TextLine>
           <TextLine ID="eSc_line_b8da148b"
                     BASELINE="122 2604 519 2427" 
@@ -101,12 +101,12 @@
                     WIDTH="450"
                     HEIGHT="295">
             <Shape><Polygon POINTS="120 2602 150 2657 320 2542 365 2552 370 2552 375 2552 380 2552 540 2487 515 2422 480 2362 90 2532 120 2602"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="septembre 1917,"
                     HPOS="90"
                     VPOS="2362"
                     WIDTH="450"
                     HEIGHT="295"
-                    ></String>
+                    WC="0.9460292418797811"></String>
           </TextLine>
           <TextLine ID="eSc_line_88e46162"
                     BASELINE="431 2763 594 2488" 
@@ -115,12 +115,12 @@
                     WIDTH="280"
                     HEIGHT="320">
             <Shape><Polygon POINTS="535 2477 480 2502 430 2497 400 2517 395 2517 395 2522 390 2522 390 2527 335 2702 430 2762 475 2787 560 2707 565 2707 565 2702 615 2502 590 2487 550 2467 535 2477"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="335"
                     VPOS="2467"
                     WIDTH="280"
                     HEIGHT="320"
-                    ></String>
+                    WC="0.9999939203262329"></String>
           </TextLine>
           <TextLine ID="eSc_line_53cb491f"
                     BASELINE="415 2889 1600 2870" 
@@ -129,12 +129,12 @@
                     WIDTH="1191"
                     HEIGHT="145">
             <Shape><Polygon POINTS="410 2887 410 2907 1596 2892 1596 2867 1586 2792 1406 2767 1401 2767 1186 2792 1086 2762 1081 2762 1076 2762 1071 2762 1006 2797 961 2772 956 2772 951 2772 795 2797 755 2767 750 2767 745 2767 740 2767 735 2767 730 2767 730 2772 725 2772 705 2797 670 2772 665 2772 660 2772 510 2772 505 2772 500 2772 405 2802 410 2887"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Détention du 6 Aout 1917."
                     HPOS="405"
                     VPOS="2762"
                     WIDTH="1191"
                     HEIGHT="145"
-                    ></String>
+                    WC="0.9926543373327988"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

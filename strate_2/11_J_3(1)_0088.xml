@@ -31,12 +31,12 @@
                     WIDTH="1046.0"
                     HEIGHT="186.0">
             <Shape><Polygon POINTS="135 2351 135 2371 231 2401 236 2401 241 2401 246 2401 366 2371 517 2391 522 2391 1176 2336 1176 2311 1161 2215 1040 2220 1035 2220 1030 2220 980 2255 814 2235 809 2235 804 2235 799 2235 769 2265 321 2280 271 2245 266 2245 261 2245 256 2245 130 2245 135 2351"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Peine suspendue sons réserve le"
                     HPOS="130.0"
                     VPOS="2215.0"
                     WIDTH="1046.0"
                     HEIGHT="186.0"
-                    ></String>
+                    WC="0.9913389161229134"></String>
           </TextLine>
           <TextLine ID="eSc_line_29891d50"
                     TAGREFS="LT11707"
@@ -46,12 +46,12 @@
                     WIDTH="1146.0"
                     HEIGHT="150.0">
             <Shape><Polygon POINTS="130 2431 130 2466 1271 2411 1271 2376 1256 2316 125 2356 130 2431"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="de suspenion de le condamnation"
                     HPOS="125.0"
                     VPOS="2316.0"
                     WIDTH="1146.0"
                     HEIGHT="150.0"
-                    ></String>
+                    WC="0.9819329688625951"></String>
           </TextLine>
           <TextLine ID="eSc_line_4042747a"
                     TAGREFS="LT11707"
@@ -61,12 +61,12 @@
                     WIDTH="1202.0"
                     HEIGHT="151.0">
             <Shape><Polygon POINTS="1261 2381 1211 2381 1161 2386 1111 2386 1060 2391 1010 2391 960 2391 909 2396 859 2396 809 2401 759 2401 708 2406 658 2406 608 2411 558 2411 507 2416 457 2416 407 2421 356 2421 306 2426 256 2426 206 2431 155 2431 150 2421 105 2421 110 2497 110 2522 1307 2466 1307 2441 1292 2371 1256 2371 1261 2381"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="antérieure (décision du général"
                     HPOS="105.0"
                     VPOS="2371.0"
                     WIDTH="1202.0"
                     HEIGHT="151.0"
-                    ></String>
+                    WC="0.9984167081969125"></String>
           </TextLine>
           <TextLine ID="eSc_line_b8e6eb3b"
                     TAGREFS="LT11707"
@@ -76,12 +76,12 @@
                     WIDTH="1076.0"
                     HEIGHT="141.0">
             <Shape><Polygon POINTS="125 2572 125 2597 1196 2537 1196 2517 1181 2456 120 2507 125 2572"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Com^t le 2 armée en date du"
                     HPOS="120.0"
                     VPOS="2456.0"
                     WIDTH="1076.0"
                     HEIGHT="141.0"
-                    ></String>
+                    WC="0.992702088185719"></String>
           </TextLine>
           <TextLine ID="eSc_line_9b7d0d59"
                     TAGREFS="LT11707"
@@ -91,12 +91,12 @@
                     WIDTH="468.0"
                     HEIGHT="226.0">
             <Shape><Polygon POINTS="563 2552 512 2557 462 2557 412 2562 392 2562 110 2582 120 2662 130 2778 356 2733 578 2733 578 2692 578 2687 578 2612 568 2552 563 2552"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="2 Juin 1917"
                     HPOS="110.0"
                     VPOS="2552.0"
                     WIDTH="468.0"
                     HEIGHT="226.0"
-                    ></String>
+                    WC="0.9606543345884844"></String>
           </TextLine>
           <TextLine ID="eSc_line_4ceceb20"
                     TAGREFS="LT11707"
@@ -106,12 +106,12 @@
                     WIDTH="379.0"
                     HEIGHT="160.0">
             <Shape><Polygon POINTS="563 2709 569 2749 673 2709 740 2733 744 2733 747 2733 834 2719 837 2719 928 2666 925 2636 911 2589 797 2605 767 2592 764 2592 760 2592 757 2592 754 2592 754 2595 733 2612 677 2605 673 2605 670 2605 549 2639 563 2709"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+ le Greffier"
                     HPOS="549.0"
                     VPOS="2589.0"
                     WIDTH="379.0"
                     HEIGHT="160.0"
-                    ></String>
+                    WC="0.9640988340744605"></String>
           </TextLine>
           <TextLine ID="eSc_line_5ff3c8a5"
                     TAGREFS="LT11707"
@@ -121,12 +121,12 @@
                     WIDTH="458.0"
                     HEIGHT="241.0">
             <Shape><Polygon POINTS="558 2818 568 2868 703 2853 708 2853 713 2853 814 2788 904 2798 909 2798 914 2798 919 2798 990 2738 980 2703 950 2627 532 2743 558 2818"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="532.0"
                     VPOS="2627.0"
                     WIDTH="458.0"
                     HEIGHT="241.0"
-                    ></String>
+                    WC="0.9999319314956665"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

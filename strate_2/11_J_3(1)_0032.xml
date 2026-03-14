@@ -30,12 +30,12 @@
                     WIDTH="451.0"
                     HEIGHT="362.0">
             <Shape><Polygon POINTS="0 2235 44 2325 54 2344 94 2349 99 2349 104 2349 109 2349 451 2136 441 2111 372 1987 0 2225 0 2235"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Eexécution de la"
                     HPOS="0.0"
                     VPOS="1987.0"
                     WIDTH="451.0"
                     HEIGHT="362.0"
-                    ></String>
+                    WC="0.8812124654650688"></String>
           </TextLine>
           <TextLine ID="eSc_line_d5f02626"
                     BASELINE="33 2408 521 2126" 
@@ -44,12 +44,12 @@
                     WIDTH="530.0"
                     HEIGHT="387.0">
             <Shape><Polygon POINTS="0 2349 29 2404 39 2424 158 2389 158 2389 183 2374 198 2359 530 2146 520 2121 471 2037 406 2072 342 2062 337 2062 332 2062 327 2062 327 2067 267 2131 119 2156 114 2156 109 2156 44 2196 44 2201 39 2201 39 2206 0 2280 0 2349"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="ed endue"
                     HPOS="0.0"
                     VPOS="2037.0"
                     WIDTH="530.0"
                     HEIGHT="387.0"
-                    ></String>
+                    WC="0.5720537696033716"></String>
           </TextLine>
           <TextLine ID="eSc_line_f44b6cab"
                     BASELINE="31 2482 704 2081" 
@@ -58,12 +58,12 @@
                     WIDTH="714.0"
                     HEIGHT="565.0">
             <Shape><Polygon POINTS="4 2334 0 2399 29 2478 54 2523 128 2473 138 2468 148 2458 714 2101 699 2077 625 1958 525 2002 401 1992 396 1992 391 1992 386 1992 386 1997 381 1997 307 2111 128 2151 124 2151 119 2151 49 2196 49 2201 44 2201 44 2206 4 2305 4 2334"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="0.0"
                     VPOS="1958.0"
                     WIDTH="714.0"
                     HEIGHT="565.0"
-                    ></String>
+                    WC="0.9467768669128418"></String>
           </TextLine>
           <TextLine ID="eSc_line_887300b8"
                     BASELINE="35 2548 690 2153" 
@@ -72,12 +72,12 @@
                     WIDTH="704.0"
                     HEIGHT="486.0">
             <Shape><Polygon POINTS="644 2111 600 2136 560 2161 515 2191 471 2216 431 2240 386 2265 347 2290 302 2315 257 2339 218 2369 173 2394 133 2419 89 2444 49 2468 0 2483 34 2543 64 2587 704 2181 689 2151 654 2101 644 2111"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Commandant la II^e Armée"
                     HPOS="0.0"
                     VPOS="2101.0"
                     WIDTH="704.0"
                     HEIGHT="486.0"
-                    ></String>
+                    WC="0.9753508186340332"></String>
           </TextLine>
           <TextLine ID="eSc_line_4532f647"
                     BASELINE="251 2581 605 2363" 
@@ -86,12 +86,12 @@
                     WIDTH="407.0"
                     HEIGHT="287.0">
             <Shape><Polygon POINTS="555 2320 510 2344 466 2369 426 2394 381 2419 337 2444 297 2468 282 2473 208 2518 248 2577 262 2597 327 2597 332 2597 337 2597 337 2592 342 2592 342 2587 362 2553 560 2463 565 2463 565 2458 570 2458 615 2384 600 2359 565 2310 555 2320"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le Greffier"
                     HPOS="208.0"
                     VPOS="2310.0"
                     WIDTH="407.0"
                     HEIGHT="287.0"
-                    ></String>
+                    WC="0.985639897259799"></String>
           </TextLine>
           <TextLine ID="eSc_line_00c95a58"
                     BASELINE="39 2620 681 2246" 
@@ -100,12 +100,12 @@
                     WIDTH="690.0"
                     HEIGHT="476.0">
             <Shape><Polygon POINTS="34 2617 64 2662 501 2384 649 2330 654 2330 654 2325 659 2325 694 2270 679 2245 639 2186 4 2563 34 2617"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="en date du 9 Juillet 1917"
                     HPOS="4.0"
                     VPOS="2186.0"
                     WIDTH="690.0"
                     HEIGHT="476.0"
-                    ></String>
+                    WC="0.9944514513015748"></String>
           </TextLine>
           <TextLine ID="eSc_line_005e2353"
                     BASELINE="317 2692 953 2365" 
@@ -114,12 +114,12 @@
                     WIDTH="700.0"
                     HEIGHT="476.0">
             <Shape><Polygon POINTS="342 2518 342 2523 337 2523 267 2607 312 2691 327 2721 456 2711 461 2711 466 2711 466 2706 471 2706 471 2701 486 2667 669 2597 674 2597 674 2592 679 2592 709 2548 853 2508 858 2508 863 2508 863 2503 967 2394 952 2364 887 2245 734 2290 729 2290 729 2295 724 2295 724 2300 669 2414 486 2503 352 2518 347 2518 342 2518 342 2518"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="267.0"
                     VPOS="2245.0"
                     WIDTH="700.0"
                     HEIGHT="476.0"
-                    ></String>
+                    WC="0.9999998807907104"></String>
           </TextLine>
           <TextLine ID="eSc_line_30a04262"
                     TAGREFS="LT11707"
@@ -129,12 +129,12 @@
                     WIDTH="1334.0"
                     HEIGHT="183.0">
             <Shape><Polygon POINTS="99 2791 99 2835 486 2820 525 2845 530 2845 535 2845 540 2845 545 2845 639 2820 719 2850 724 2850 729 2850 734 2850 739 2850 793 2815 1026 2855 1031 2855 1036 2855 1111 2815 1150 2850 1155 2850 1160 2850 1165 2850 1428 2820 1428 2756 1408 2677 1344 2706 1235 2672 1230 2672 1225 2672 1220 2672 1111 2706 788 2691 783 2691 778 2691 709 2716 94 2686 99 2791"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Detention du 20 mai 1917"
                     HPOS="94.0"
                     VPOS="2672.0"
                     WIDTH="1334.0"
                     HEIGHT="183.0"
-                    ></String>
+                    WC="0.9960795566439629"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

@@ -30,12 +30,12 @@
                     WIDTH="1273"
                     HEIGHT="212">
             <Shape><Polygon POINTS="58 4465 49 4536 935 4586 939 4586 1172 4569 1197 4590 1197 4594 1201 4594 1205 4594 1209 4594 1317 4569 1322 4507 1317 4440 1039 4415 1035 4415 1031 4415 960 4449 507 4440 332 4386 328 4386 324 4386 320 4386 216 4420 153 4382 149 4382 145 4382 141 4382 137 4382 58 4411 58 4465"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Dené motifie au condamné Chary."
                     HPOS="49"
                     VPOS="4382"
                     WIDTH="1273"
                     HEIGHT="212"
-                    ></String>
+                    WC="0.9273641157534814"></String>
           </TextLine>
           <TextLine ID="eSc_line_3e13c027"
                     BASELINE="45 4586 778 4629" 
@@ -44,12 +44,12 @@
                     WIDTH="744"
                     HEIGHT="211">
             <Shape><Polygon POINTS="41 4582 33 4636 74 4656 78 4656 83 4656 87 4656 91 4656 137 4623 236 4623 424 4690 428 4690 432 4690 436 4690 557 4656 631 4710 636 4710 640 4710 765 4714 777 4627 773 4565 45 4503 41 4582"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="le 6 Aotembre 1917"
                     HPOS="33"
                     VPOS="4503"
                     WIDTH="744"
                     HEIGHT="211"
-                    ></String>
+                    WC="0.9748649696509043"></String>
           </TextLine>
           <TextLine ID="eSc_line_637e29f3"
                     BASELINE="18 4685 418 4702" 
@@ -58,12 +58,12 @@
                     WIDTH="403"
                     HEIGHT="142">
             <Shape><Polygon POINTS="16 4681 12 4744 411 4744 415 4698 415 4636 16 4602 16 4681"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le Grefffier"
                     HPOS="12"
                     VPOS="4602"
                     WIDTH="403"
                     HEIGHT="142"
-                    ></String>
+                    WC="0.9895729273557663"></String>
           </TextLine>
           <TextLine ID="eSc_line_fa84062d"
                     BASELINE="662 4697 1171 4685" 
@@ -72,12 +72,12 @@
                     WIDTH="512"
                     HEIGHT="145">
             <Shape><Polygon POINTS="740 4627 698 4623 665 4623 656 4627 661 4694 661 4735 1168 4731 1168 4681 1159 4623 889 4590 885 4590 752 4590 740 4627"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le Condamnie,"
                     HPOS="656"
                     VPOS="4590"
                     WIDTH="512"
                     HEIGHT="145"
-                    ></String>
+                    WC="0.9623938019459064"></String>
           </TextLine>
           <TextLine ID="eSc_line_355e6d2e"
                     BASELINE="91 4934 237 4745" 
@@ -86,12 +86,12 @@
                     WIDTH="291"
                     HEIGHT="278">
             <Shape><Polygon POINTS="162 4690 0 4852 0 4856 87 4930 133 4968 291 4789 236 4744 170 4690 162 4690"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="0"
                     VPOS="4690"
                     WIDTH="291"
                     HEIGHT="278"
-                    ></String>
+                    WC="0.9999294281005859"></String>
           </TextLine>
           <TextLine ID="eSc_line_2a9b5434"
                     BASELINE="707 4899 1040 4750" 
@@ -100,12 +100,12 @@
                     WIDTH="395"
                     HEIGHT="254">
             <Shape><Polygon POINTS="977 4690 968 4690 781 4731 777 4731 773 4731 773 4735 669 4822 706 4897 723 4939 1064 4814 1039 4748 1010 4685 977 4690"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="C"
                     HPOS="669"
                     VPOS="4685"
                     WIDTH="395"
                     HEIGHT="254"
-                    ></String>
+                    WC="0.9998812675476074"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
