@@ -45,12 +45,12 @@
                     WIDTH="3432"
                     HEIGHT="235">
             <Shape><Polygon POINTS="2233 8535 2154 8535 2092 8535 2068 8535 1997 8543 1919 8543 1841 8543 1762 8551 1684 8551 1606 8551 1527 8559 1449 8559 1371 8559 1292 8559 1214 8566 1136 8566 1057 8566 979 8574 901 8574 822 8574 814 8543 744 8543 752 8684 752 8747 1833 8739 1841 8739 1864 8731 1927 8700 2350 8707 2389 8707 2468 8700 2546 8700 2546 8715 2922 8723 2938 8723 2938 8723 3251 8731 3259 8731 3267 8731 3275 8731 3314 8700 3322 8692 3400 8700 3831 8731 3839 8731 4176 8676 4176 8637 4152 8512 2248 8527 2233 8535"/></Shape>
-            <String CONTENT="le dixhuit novembre mil neuf cent quatorze pour comptes des"
+            <String CONTENT="le dix-huit novembre mil neuf cent quatorze pour compter du"
                     HPOS="744"
                     VPOS="8512"
                     WIDTH="3432"
                     HEIGHT="235"
-                    WC="0.9788311144052926"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_a96ca723"
                     TAGREFS="LT10974"
@@ -60,12 +60,12 @@
                     WIDTH="2805"
                     HEIGHT="227">
             <Shape><Polygon POINTS="744 8684 744 8817 736 8848 830 8903 838 8903 846 8903 854 8903 1261 8848 1331 8841 1903 8841 1927 8864 1966 8895 1966 8903 1974 8903 1982 8903 1990 8911 2671 8911 2671 8903 2679 8903 2687 8903 2710 8887 2773 8848 3525 8903 3541 8786 3533 8684 814 8684 744 8684"/></Shape>
-            <String CONTENT="douze novembre mil neel erte e en raeors"
+            <String CONTENT="douze novembre mil neuf quatorze"
                     HPOS="736"
                     VPOS="8684"
                     WIDTH="2805"
                     HEIGHT="227"
-                    WC="0.8317304506897927"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_4b7c1aeb"
                     TAGREFS="LT10974"
@@ -75,12 +75,12 @@
                     WIDTH="1010"
                     HEIGHT="259">
             <Shape><Polygon POINTS="2475 9013 2475 9036 2789 9068 2797 9068 3470 8981 3470 8942 3455 8817 2899 8809 2891 8809 2460 8872 2475 9013"/></Shape>
-            <String CONTENT="Le greffie"
+            <String CONTENT="Le greffier"
                     HPOS="2460"
                     VPOS="8809"
                     WIDTH="1010"
                     HEIGHT="259"
-                    WC="0.9888885140419006"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_da11d2d6"
                     BASELINE="2493 9266 3722 9068" 

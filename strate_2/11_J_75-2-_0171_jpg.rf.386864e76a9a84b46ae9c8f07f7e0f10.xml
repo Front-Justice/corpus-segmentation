@@ -45,12 +45,12 @@
                     WIDTH="950"
                     HEIGHT="183">
             <Shape><Polygon POINTS="210 2474 213 2508 1153 2413 1153 2373 1143 2325 502 2373 498 2373 440 2400 437 2400 386 2386 383 2386 379 2386 203 2423 210 2474"/></Shape>
-            <String CONTENT="suspendue, par décisior de M le"
+            <String CONTENT="suspendue, par décision de M^ le"
                     HPOS="203"
                     VPOS="2325"
                     WIDTH="950"
                     HEIGHT="183"
-                    WC="0.9496757434681058"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_7a212445"
                     TAGREFS="LT10974"
@@ -105,12 +105,12 @@
                     WIDTH="444"
                     HEIGHT="261">
             <Shape><Polygon POINTS="413 2922 420 2939 596 2898 600 2898 827 2786 817 2752 776 2678 729 2715 705 2712 675 2705 671 2705 668 2705 664 2705 664 2708 634 2742 610 2766 563 2773 451 2789 447 2789 444 2789 444 2793 440 2793 440 2796 427 2830 383 2847 413 2922"/></Shape>
-            <String CONTENT="AMattinl"
+            <String CONTENT="+"
                     HPOS="383"
                     VPOS="2678"
                     WIDTH="444"
                     HEIGHT="261"
-                    WC="0.9225893467664719"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

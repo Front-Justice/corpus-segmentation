@@ -23,74 +23,60 @@
                   HEIGHT="6196">
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_378e4c22"
-                    BASELINE="2368 1394 3464 1421" 
-                    HPOS="2362"
-                    VPOS="1290"
-                    WIDTH="1101"
-                    HEIGHT="166">
-            <Shape><Polygon POINTS="2362 1440 3453 1456 3463 1419 3453 1311 3256 1337 3220 1306 3215 1306 3210 1306 3055 1301 3050 1301 3045 1301 3039 1301 2926 1332 2677 1295 2631 1290 2626 1290 2584 1295 2424 1316 2372 1290 2367 1388 2362 1440"/></Shape>
-            <String CONTENT="Par Danret en date du 31 mais 1820"
-                    HPOS="2362"
-                    VPOS="1290"
-                    WIDTH="1101"
-                    HEIGHT="166"
-                    WC="0.9602009022937101"></String>
+                    BASELINE="2294 1394 3506 1421" 
+                    HPOS="2285"
+                    VPOS="1285"
+                    WIDTH="1220"
+                    HEIGHT="165">
+            <Shape><Polygon POINTS="2285 1419 3494 1450 3505 1419 3505 1342 3355 1311 3350 1311 3344 1311 3251 1337 3117 1301 3112 1301 3107 1301 3101 1301 2993 1332 2719 1332 2662 1290 2657 1290 2652 1290 2646 1290 2393 1316 2295 1285 2290 1388 2285 1419"/></Shape>
+            <String CONTENT="Par Décret en date du 31 mai 1920"
+                    HPOS="2285"
+                    VPOS="1285"
+                    WIDTH="1220"
+                    HEIGHT="165"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_ec78a12b"
-                    BASELINE="2282 1468 3200 1503" 
-                    HPOS="2274"
+                    BASELINE="2208 1468 3256 1508" 
+                    HPOS="2202"
                     VPOS="1394"
-                    WIDTH="920"
+                    WIDTH="1049"
                     HEIGHT="134">
-            <Shape><Polygon POINTS="2279 1466 2274 1502 3184 1528 3194 1502 3189 1440 2279 1394 2279 1466"/></Shape>
-            <String CONTENT="le conuline Bogé Pierre"
-                    HPOS="2274"
+            <Shape><Polygon POINTS="2207 1466 2202 1487 3241 1528 3251 1507 3251 1430 2207 1394 2207 1466"/></Shape>
+            <String CONTENT="le condamné Bogé Pierre"
+                    HPOS="2202"
                     VPOS="1394"
-                    WIDTH="920"
+                    WIDTH="1049"
                     HEIGHT="134"
-                    WC="0.9416997581720352"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_e34cd364"
-                    BASELINE="2275 1542 3527 1573" 
-                    HPOS="2269"
-                    VPOS="1471"
-                    WIDTH="1256"
-                    HEIGHT="160">
-            <Shape><Polygon POINTS="3153 1502 3101 1502 3050 1497 2998 1497 2946 1497 2895 1492 2843 1492 2791 1487 2739 1487 2688 1487 2636 1481 2626 1481 2584 1481 2564 1476 2450 1476 2429 1476 2419 1471 2274 1471 2274 1538 2269 1585 2331 1616 2336 1616 2341 1616 2347 1616 2471 1585 2481 1585 2507 1585 2900 1631 2905 1631 2910 1631 3039 1595 3055 1595 3515 1605 3525 1569 3520 1507 3153 1492 3153 1502"/></Shape>
-            <String CONTENT="dobtenu revise de s peine de deux ans"
-                    HPOS="2269"
-                    VPOS="1471"
-                    WIDTH="1256"
-                    HEIGHT="160"
-                    WC="0.9497323092576619"></String>
+                    BASELINE="2201 1542 3527 1573" 
+                    HPOS="2191"
+                    VPOS="1450"
+                    WIDTH="1334"
+                    HEIGHT="176">
+            <Shape><Polygon POINTS="3231 1507 3179 1507 3127 1507 3076 1502 3024 1502 2972 1497 2920 1497 2869 1497 2817 1492 2765 1492 2714 1487 2662 1487 2610 1487 2559 1481 2507 1481 2455 1476 2403 1476 2352 1476 2254 1476 2207 1450 2197 1538 2191 1569 2331 1610 2336 1610 2341 1610 2347 1610 2403 1585 2750 1585 2853 1626 2858 1626 2864 1626 3215 1590 3515 1605 3525 1569 3525 1507 3319 1476 3313 1476 3246 1476 3231 1507"/></Shape>
+            <String CONTENT="a obtenu remise de ⟦sa⟧ peine de deux ans"
+                    HPOS="2191"
+                    VPOS="1450"
+                    WIDTH="1334"
+                    HEIGHT="176"
+                    ></String>
           </TextLine>
-          <TextLine ID="eSc_line_2f4cff81"
-                    BASELINE="2426 1639 2815 1655" 
-                    HPOS="2419"
-                    VPOS="1543"
-                    WIDTH="393"
-                    HEIGHT="155">
-            <Shape><Polygon POINTS="2424 1636 2419 1678 2802 1698 2812 1652 2807 1569 2424 1543 2424 1636"/></Shape>
-            <String CONTENT="RE MANS, le"
-                    HPOS="2419"
-                    VPOS="1543"
-                    WIDTH="393"
-                    HEIGHT="155"
-                    WC="0.9283631173047152"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_3385e2d5"
-                    BASELINE="2912 1643 3515 1647" 
-                    HPOS="2910"
+          <TextLine ID="eSc_line_fce38db1"
+                    BASELINE="2352 1639 2852 1655 2912 1643 3557 1647" 
+                    HPOS="2341"
                     VPOS="1564"
-                    WIDTH="600"
-                    HEIGHT="119">
-            <Shape><Polygon POINTS="2910 1641 2910 1683 3510 1672 3510 1641 3510 1574 2910 1564 2910 1641"/></Shape>
-            <String CONTENT="6 avril 1920"
-                    HPOS="2910"
+                    WIDTH="1215"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="3479 1569 3427 1569 3375 1569 3324 1569 3313 1564 2347 1564 2347 1636 2341 1662 2579 1698 2584 1698 2977 1672 3391 1703 3396 1703 3551 1672 3556 1641 3551 1569 3479 1564 3479 1569"/></Shape>
+            <String CONTENT="LE MANS, le 30 avril 1920"
+                    HPOS="2341"
                     VPOS="1564"
-                    WIDTH="600"
-                    HEIGHT="119"
-                    WC="0.9987135529518127"></String>
+                    WIDTH="1215"
+                    HEIGHT="139"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_5d90d693"
                     BASELINE="3013 1732 3251 1728" 
@@ -113,12 +99,12 @@
                     WIDTH="460"
                     HEIGHT="197">
             <Shape><Polygon POINTS="2988 1869 2988 1900 3432 1858 3432 1817 3412 1703 3225 1760 2972 1760 2988 1869"/></Shape>
-            <String CONTENT="+o"
+            <String CONTENT="+"
                     HPOS="2972"
                     VPOS="1703"
                     WIDTH="460"
                     HEIGHT="197"
-                    WC="0.9999909400939941"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

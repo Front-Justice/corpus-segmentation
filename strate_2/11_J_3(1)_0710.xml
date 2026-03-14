@@ -30,12 +30,12 @@
                     WIDTH="1226"
                     HEIGHT="198">
             <Shape><Polygon POINTS="202 2934 202 3000 1418 2939 1423 2903 1413 2833 1240 2802 1235 2802 1230 2802 1225 2802 1169 2838 972 2812 967 2812 790 2843 754 2817 749 2817 744 2817 739 2817 734 2817 729 2817 729 2823 698 2848 430 2833 425 2833 420 2833 319 2858 197 2828 202 2934"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Detantion du 20 septembre 1917"
                     HPOS="197"
                     VPOS="2802"
                     WIDTH="1226"
                     HEIGHT="198"
-                    ></String>
+                    WC="0.9953926046689351"></String>
           </TextLine>
           <TextLine ID="eSc_line_c009eeee"
                     TAGREFS="LT11707"
@@ -45,12 +45,12 @@
                     WIDTH="162"
                     HEIGHT="248">
             <Shape><Polygon POINTS="511 3576 440 3581 460 3814 547 3809 602 3794 552 3566 511 3576"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="440"
                     VPOS="3566"
                     WIDTH="162"
                     HEIGHT="248"
-                    ></String>
+                    WC="0.9999686479568481"></String>
           </TextLine>
           <TextLine ID="eSc_line_915e68c9"
                     TAGREFS="LT11707"
@@ -60,12 +60,12 @@
                     WIDTH="192"
                     HEIGHT="435">
             <Shape><Polygon POINTS="572 3981 471 3981 501 4199 471 4239 471 4244 471 4249 471 4254 481 4411 597 4411 663 4406 663 4062 658 4057 658 4052 622 3976 572 3981"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="471"
                     VPOS="3976"
                     WIDTH="192"
                     HEIGHT="435"
-                    ></String>
+                    WC="0.9999997615814209"></String>
           </TextLine>
           <TextLine ID="eSc_line_88b9e8ca"
                     TAGREFS="LT11707"
@@ -75,12 +75,12 @@
                     WIDTH="178"
                     HEIGHT="1866">
             <Shape><Polygon POINTS="207 3000 121 2995 75 4846 141 4861 172 4856 217 4431 217 4426 217 4421 197 4366 227 4320 227 4315 227 4310 227 4305 227 4300 202 4224 232 4188 232 4183 232 4178 253 3000 207 3000"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Jugement devenu exécutoire, le Prénifie du sursis ayant été"
                     HPOS="75"
                     VPOS="2995"
                     WIDTH="178"
                     HEIGHT="1866"
-                    ></String>
+                    WC="0.9659342150839548"></String>
           </TextLine>
           <TextLine ID="eSc_line_e53b1d4e"
                     TAGREFS="LT11707"
@@ -90,12 +90,12 @@
                     WIDTH="197"
                     HEIGHT="1103">
             <Shape><Polygon POINTS="359 4335 354 4386 354 4436 354 4487 349 4538 349 4588 344 4608 354 4892 410 4897 491 4892 476 4608 531 4194 531 4188 511 4006 536 3976 541 3976 541 3971 541 3966 541 3961 516 3799 465 3799 395 3794 359 4300 359 4335"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="guerre du 2.G. de la 2^e Armée"
                     HPOS="344"
                     VPOS="3794"
                     WIDTH="197"
                     HEIGHT="1103"
-                    ></String>
+                    WC="0.9661304036776225"></String>
           </TextLine>
           <TextLine ID="eSc_line_89cca1a5"
                     TAGREFS="LT11707"
@@ -105,12 +105,12 @@
                     WIDTH="202"
                     HEIGHT="1862">
             <Shape><Polygon POINTS="410 3050 344 3045 263 4897 334 4907 400 4902 384 4654 465 3050 410 3050"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="prononcée le 11 Juillet 1918, pour désertion, par le Conseiel de"
                     HPOS="263"
                     VPOS="3045"
                     WIDTH="202"
                     HEIGHT="1862"
-                    ></String>
+                    WC="0.9820103853037863"></String>
           </TextLine>
           <TextLine ID="eSc_line_e2feeebe"
                     TAGREFS="LT11707"
@@ -120,12 +120,12 @@
                     WIDTH="197"
                     HEIGHT="1907">
             <Shape><Polygon POINTS="319 3020 227 3010 157 4902 243 4917 283 4917 354 3020 319 3020"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="perdu par site de la condamntion à Deux ans de prison"
                     HPOS="157"
                     VPOS="3010"
                     WIDTH="197"
                     HEIGHT="1907"
-                    ></String>
+                    WC="0.9519549243979983"></String>
           </TextLine>
           <TextLine ID="eSc_line_20e4bc44"
                     TAGREFS="LT11707"
@@ -135,12 +135,12 @@
                     WIDTH="1662"
                     HEIGHT="131">
             <Shape><Polygon POINTS="65 5408 65 5443 1722 5463 1727 5408 1727 5342 65 5332 65 5408"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le présent jugement a commencé a recevoir son"
                     HPOS="65"
                     VPOS="5332"
                     WIDTH="1662"
                     HEIGHT="131"
-                    ></String>
+                    WC="0.9826203914398842"></String>
           </TextLine>
           <TextLine ID="eSc_line_8f789381"
                     TAGREFS="LT11707"
@@ -150,12 +150,12 @@
                     WIDTH="1697"
                     HEIGHT="126">
             <Shape><Polygon POINTS="622 5413 567 5413 521 5413 471 5413 420 5413 369 5413 314 5413 268 5413 217 5413 167 5413 116 5413 65 5413 65 5479 65 5509 1033 5539 1038 5539 1762 5509 1762 5479 1762 5423 628 5413 622 5413"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="exécution le 8 Novembre 1917 pour compter"
                     HPOS="65"
                     VPOS="5413"
                     WIDTH="1697"
                     HEIGHT="126"
-                    ></String>
+                    WC="0.972434884025937"></String>
           </TextLine>
           <TextLine ID="eSc_line_5284186e"
                     TAGREFS="LT11707"
@@ -165,12 +165,12 @@
                     WIDTH="876"
                     HEIGHT="242">
             <Shape><Polygon POINTS="86 5549 86 5610 405 5620 521 5726 526 5726 531 5726 536 5726 957 5696 957 5544 947 5489 81 5484 86 5549"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="du 20 sevt da"
                     HPOS="81"
                     VPOS="5484"
                     WIDTH="876"
                     HEIGHT="242"
-                    ></String>
+                    WC="0.7286856701740851"></String>
           </TextLine>
           <TextLine ID="eSc_line_c8aa8f12"
                     TAGREFS="LT11707"
@@ -180,12 +180,12 @@
                     WIDTH="613"
                     HEIGHT="177">
             <Shape><Polygon POINTS="1139 5585 1139 5646 1387 5666 1392 5666 1397 5666 1402 5666 1504 5595 1747 5580 1747 5560 1742 5489 1134 5489 1139 5585"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="a Tuitte pese"
                     HPOS="1134"
                     VPOS="5489"
                     WIDTH="613"
                     HEIGHT="177"
-                    ></String>
+                    WC="0.8370620287381686"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

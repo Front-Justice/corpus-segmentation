@@ -22,6 +22,78 @@
                   VPOS="0"
                   WIDTH="3542"
                   HEIGHT="6000">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_69afabb2"
+                    BASELINE="2489 1371 3467 1306" 
+                    HPOS="2476"
+                    VPOS="1210"
+                    WIDTH="990"
+                    HEIGHT="190">
+            <Shape><Polygon POINTS="2486 1370 2486 1400 3466 1355 3466 1305 3451 1230 3231 1240 3161 1210 3156 1210 3151 1210 3146 1210 3026 1255 2971 1235 2966 1235 2961 1235 2956 1235 2836 1265 2661 1240 2656 1240 2651 1240 2476 1290 2486 1370"/></Shape>
+            <String CONTENT="Remise du restant de"
+                    HPOS="2476"
+                    VPOS="1210"
+                    WIDTH="990"
+                    HEIGHT="190"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_429a6100"
+                    BASELINE="2376 1463 3436 1395" 
+                    HPOS="2366"
+                    VPOS="1325"
+                    WIDTH="1065"
+                    HEIGHT="190">
+            <Shape><Polygon POINTS="2371 1460 2371 1500 2531 1515 2536 1515 2716 1470 3136 1450 3166 1475 3171 1475 3176 1475 3181 1475 3431 1435 3431 1395 3416 1325 2366 1385 2371 1460"/></Shape>
+            <String CONTENT="la peine par decret du"
+                    HPOS="2366"
+                    VPOS="1325"
+                    WIDTH="1065"
+                    HEIGHT="190"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6d883374"
+                    BASELINE="2585 1528 3272 1480" 
+                    HPOS="2576"
+                    VPOS="1420"
+                    WIDTH="695"
+                    HEIGHT="170">
+            <Shape><Polygon POINTS="2581 1525 2581 1560 2646 1590 2651 1590 2656 1590 2991 1535 3026 1565 3031 1565 3036 1565 3041 1565 3271 1515 3271 1480 3256 1420 2576 1455 2581 1525"/></Shape>
+            <String CONTENT="23 avril 1920"
+                    HPOS="2576"
+                    VPOS="1420"
+                    WIDTH="695"
+                    HEIGHT="170"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3943c94f"
+                    BASELINE="2585 1634 3118 1593" 
+                    HPOS="2571"
+                    VPOS="1505"
+                    WIDTH="545"
+                    HEIGHT="195">
+            <Shape><Polygon POINTS="2911 1505 2876 1540 2776 1515 2771 1515 2751 1515 2686 1560 2571 1560 2581 1630 2581 1650 2656 1650 2771 1700 2776 1700 2781 1700 3111 1620 3116 1590 3106 1515 2931 1505 2926 1505 2921 1505 2911 1505"/></Shape>
+            <String CONTENT="Le Greffier"
+                    HPOS="2571"
+                    VPOS="1505"
+                    WIDTH="545"
+                    HEIGHT="195"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ce5d0a30"
+                    BASELINE="2643 1822 3354 1621" 
+                    HPOS="2611"
+                    VPOS="1545"
+                    WIDTH="745"
+                    HEIGHT="335">
+            <Shape><Polygon POINTS="2641 1820 2656 1880 2796 1810 2916 1815 2921 1815 2926 1815 3356 1650 3351 1620 3321 1545 2611 1720 2641 1820"/></Shape>
+            <String CONTENT="+"
+                    HPOS="2611"
+                    VPOS="1545"
+                    WIDTH="745"
+                    HEIGHT="335"
+                    ></String>
+          </TextLine>
+        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>

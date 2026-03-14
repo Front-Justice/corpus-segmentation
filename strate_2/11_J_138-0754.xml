@@ -31,12 +31,12 @@
                     WIDTH="1894.0"
                     HEIGHT="205.0">
             <Shape><Polygon POINTS="503 5572 497 5593 615 5623 621 5623 1036 5603 1534 5634 1539 5634 1940 5613 1991 5639 1996 5639 2001 5639 2386 5613 2391 5588 2381 5444 2114 5454 2109 5454 2104 5454 2104 5459 2063 5490 1745 5490 1699 5444 1699 5439 1693 5439 1688 5439 1683 5439 1139 5459 1077 5434 1072 5434 600 5434 595 5434 590 5434 503 5470 503 5572"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le présent jugement a commencé a recevoir son exécutiur"
                     HPOS="497.0"
                     VPOS="5434.0"
                     WIDTH="1894.0"
                     HEIGHT="205.0"
-                    ></String>
+                    WC="0.9433577278895038"></String>
           </TextLine>
           <TextLine ID="eSc_line_d7f3bef2"
                     TAGREFS="LT11707"
@@ -46,12 +46,12 @@
                     WIDTH="1843.0"
                     HEIGHT="139.0">
             <Shape><Polygon POINTS="513 5577 508 5572 461 5572 461 5654 456 5705 2289 5711 2299 5664 2294 5593 549 5572 513 5577"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="le dix huit Aout pour compter du douze juillet 1916"
                     HPOS="456.0"
                     VPOS="5572.0"
                     WIDTH="1843.0"
                     HEIGHT="139.0"
-                    ></String>
+                    WC="0.9899769402017781"></String>
           </TextLine>
           <TextLine ID="eSc_line_202507e6"
                     TAGREFS="LT11707"
@@ -61,12 +61,12 @@
                     WIDTH="411.0"
                     HEIGHT="143.0">
             <Shape><Polygon POINTS="1490 5776 1494 5820 1627 5796 1685 5823 1688 5823 1692 5823 1894 5789 1894 5755 1883 5700 1818 5704 1764 5680 1760 5680 1757 5680 1753 5680 1678 5711 1658 5690 1658 5687 1654 5687 1651 5687 1647 5687 1548 5690 1545 5690 1483 5714 1490 5776"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le Greffier"
                     HPOS="1483.0"
                     VPOS="5680.0"
                     WIDTH="411.0"
                     HEIGHT="143.0"
-                    ></String>
+                    WC="0.9998688860373064"></String>
           </TextLine>
           <TextLine ID="eSc_line_229ebd7d"
                     TAGREFS="LT11707"
@@ -76,12 +76,12 @@
                     WIDTH="468.0"
                     HEIGHT="222.0">
             <Shape><Polygon POINTS="1552 5950 1559 5987 1675 5987 1808 5957 1812 5957 1815 5957 1815 5953 1818 5953 1835 5929 1996 5909 1986 5854 1969 5779 1890 5765 1887 5765 1883 5765 1880 5765 1880 5769 1853 5793 1798 5782 1794 5782 1791 5782 1788 5782 1788 5786 1743 5830 1582 5830 1579 5830 1576 5830 1528 5851 1552 5950"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="1528.0"
                     VPOS="5765.0"
                     WIDTH="468.0"
                     HEIGHT="222.0"
-                    ></String>
+                    WC="1.0"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

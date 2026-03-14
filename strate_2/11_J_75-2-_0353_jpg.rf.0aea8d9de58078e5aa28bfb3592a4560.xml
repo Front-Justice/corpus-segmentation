@@ -29,12 +29,12 @@
                     WIDTH="1010"
                     HEIGHT="179">
             <Shape><Polygon POINTS="199 2727 199 2753 630 2773 635 2773 640 2773 707 2737 738 2768 743 2768 748 2768 753 2768 866 2763 1204 2706 1204 2681 1194 2614 979 2594 974 2594 969 2594 912 2619 902 2624 871 2624 722 2609 717 2609 712 2609 630 2629 615 2635 589 2609 584 2609 579 2609 574 2609 194 2645 199 2727"/></Shape>
-            <String CONTENT="L&#x27;ommibeneuf cent quinze."
+            <String CONTENT="L&#x27;an mil neuf cent quinze"
                     HPOS="194"
                     VPOS="2594"
                     WIDTH="1010"
                     HEIGHT="179"
-                    WC="0.9594645261764526"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_9d94fa1a"
                     BASELINE="188 2835 1267 2782" 
@@ -43,12 +43,12 @@
                     WIDTH="1087"
                     HEIGHT="164">
             <Shape><Polygon POINTS="184 2829 184 2860 523 2850 538 2855 605 2876 610 2876 615 2876 743 2850 820 2876 825 2876 830 2876 1266 2829 1266 2778 1251 2712 179 2742 184 2829"/></Shape>
-            <String CONTENT="le dix neuf Mars, à quntirge heurer"
+            <String CONTENT="le dix neuf Mars, à"
                     HPOS="179"
                     VPOS="2712"
                     WIDTH="1087"
                     HEIGHT="164"
-                    WC="0.915781299273173"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_315d13d1"
                     BASELINE="130 2919 597 2902" 
@@ -57,12 +57,12 @@
                     WIDTH="471"
                     HEIGHT="139">
             <Shape><Polygon POINTS="128 2917 128 2937 240 2958 246 2958 251 2958 282 2942 297 2932 307 2942 338 2968 343 2968 348 2968 353 2968 589 2942 594 2901 579 2829 123 2829 128 2917"/></Shape>
-            <String CONTENT="seizecheures."
+            <String CONTENT="seize heures."
                     HPOS="123"
                     VPOS="2829"
                     WIDTH="471"
                     HEIGHT="139"
-                    WC="0.9259100487599006"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_87b1fbbc"
                     BASELINE="188 3017 1259 2968" 
@@ -113,12 +113,12 @@
                     WIDTH="390"
                     HEIGHT="128">
             <Shape><Polygon POINTS="153 3311 153 3347 538 3342 538 3296 523 3219 148 3245 153 3311"/></Shape>
-            <String CONTENT="prénonamé"
+            <String CONTENT="prénommé"
                     HPOS="148"
                     VPOS="3219"
                     WIDTH="390"
                     HEIGHT="128"
-                    WC="0.9566611214117571"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_eb9fa27c"
                     BASELINE="179 3417 797 3350" 
@@ -141,12 +141,12 @@
                     WIDTH="610"
                     HEIGHT="154">
             <Shape><Polygon POINTS="599 3373 548 3378 497 3383 446 3388 394 3393 343 3398 292 3404 240 3409 194 3414 189 3404 143 3414 148 3491 148 3522 753 3496 753 3450 738 3368 610 3368 599 3373"/></Shape>
-            <String CONTENT="part aurecu son"
+            <String CONTENT="part à reçu son"
                     HPOS="143"
                     VPOS="3368"
                     WIDTH="610"
                     HEIGHT="154"
-                    WC="0.9943186481793721"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_66ebc743"
                     BASELINE="179 3568 765 3555" 
@@ -155,12 +155,12 @@
                     WIDTH="595"
                     HEIGHT="133">
             <Shape><Polygon POINTS="220 3491 169 3491 174 3563 174 3598 764 3578 764 3552 748 3465 261 3486 220 3491"/></Shape>
-            <String CONTENT="lexécution conformé"
+            <String CONTENT="exécution conformé-"
                     HPOS="169"
                     VPOS="3465"
                     WIDTH="595"
                     HEIGHT="133"
-                    WC="0.9514159531820388"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_a1090bce"
                     BASELINE="198 3669 703 3640" 
@@ -211,12 +211,12 @@
                     WIDTH="334"
                     HEIGHT="118">
             <Shape><Polygon POINTS="405 3829 353 3829 312 3829 199 3850 205 3916 205 3942 533 3942 533 3906 523 3845 430 3824 405 3829"/></Shape>
-            <String CONTENT="anoexé,"
+            <String CONTENT="annexé"
                     HPOS="199"
                     VPOS="3824"
                     WIDTH="334"
                     HEIGHT="118"
-                    WC="0.9987877905368805"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_e8ee9fa3"
                     BASELINE="242 3999 752 3982" 
@@ -267,12 +267,12 @@
                     WIDTH="548"
                     HEIGHT="138">
             <Shape><Polygon POINTS="210 4255 210 4311 748 4280 753 4244 738 4173 205 4173 210 4255"/></Shape>
-            <String CONTENT="sur la minuté de"
+            <String CONTENT="sur la minute de"
                     HPOS="205"
                     VPOS="4173"
                     WIDTH="548"
                     HEIGHT="138"
-                    WC="0.992353148320142"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_33f8304e"
                     BASELINE="215 4347 813 4335" 
@@ -281,12 +281,12 @@
                     WIDTH="605"
                     HEIGHT="113">
             <Shape><Polygon POINTS="210 4342 210 4383 805 4383 810 4332 794 4270 205 4275 210 4342"/></Shape>
-            <String CONTENT="l&#x27;ovvret, en exécution"
+            <String CONTENT="l&#x27;arrêt, en exécution"
                     HPOS="205"
                     VPOS="4270"
                     WIDTH="605"
                     HEIGHT="113"
-                    WC="0.9650686538737753"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_4decc4c8"
                     BASELINE="191 4408 766 4406" 
@@ -338,12 +338,12 @@
                     WIDTH="664"
                     HEIGHT="161">
             <Shape><Polygon POINTS="181 4706 181 4743 280 4740 290 4743 324 4771 328 4771 331 4771 335 4771 338 4771 413 4740 434 4733 461 4737 543 4754 547 4754 550 4754 598 4733 605 4730 615 4733 670 4757 673 4757 677 4757 841 4723 841 4678 827 4610 748 4637 690 4624 687 4624 683 4624 680 4624 677 4624 677 4627 673 4627 663 4644 372 4651 318 4641 266 4631 263 4631 177 4648 181 4706"/></Shape>
-            <String CONTENT="L&#x27;officier d&#x27;adm^oen Greffier"
+            <String CONTENT="L&#x27;officier d&#x27;adm^ Greffier"
                     HPOS="177"
                     VPOS="4610"
                     WIDTH="664"
                     HEIGHT="161"
-                    WC="0.9241404060659737"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_349dc90a"
                     TAGREFS="LT10974"
@@ -353,12 +353,12 @@
                     WIDTH="861"
                     HEIGHT="144">
             <Shape><Polygon POINTS="251 4793 251 4849 646 4860 651 4860 656 4860 738 4834 810 4860 815 4860 820 4860 825 4860 907 4819 912 4813 1107 4808 1107 4778 1092 4716 246 4726 251 4793"/></Shape>
-            <String CONTENT="approuvé deux motserages nels:"
+            <String CONTENT="approuvé deux mots rougés nuls"
                     HPOS="246"
                     VPOS="4716"
                     WIDTH="861"
                     HEIGHT="144"
-                    WC="0.9117235618252908"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_e4fab3db"
                     TAGREFS="LT10974"
