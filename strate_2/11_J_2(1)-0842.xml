@@ -30,12 +30,12 @@
                     WIDTH="164.0"
                     HEIGHT="329.0">
             <Shape><Polygon POINTS="418 3573 324 3573 349 3837 319 3882 423 3897 458 3892 483 3698 483 3693 453 3568 418 3573"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Legreffier"
                     HPOS="319.0"
                     VPOS="3568.0"
                     WIDTH="164.0"
                     HEIGHT="329.0"
-                    ></String>
+                    WC="0.9449998378753662"></String>
           </TextLine>
           <TextLine ID="eSc_line_7a5cec23"
                     BASELINE="518 3821 498 3608" 
@@ -44,12 +44,12 @@
                     WIDTH="150.0"
                     HEIGHT="224.0">
             <Shape><Polygon POINTS="493 3603 423 3608 423 3623 423 3653 438 3817 513 3817 573 3807 548 3593 493 3603"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="423.0"
                     VPOS="3593.0"
                     WIDTH="150.0"
                     HEIGHT="224.0"
-                    ></String>
+                    WC="0.9999998807907104"></String>
           </TextLine>
           <TextLine ID="eSc_line_bcd2da22"
                     TAGREFS="LT11707"
@@ -59,12 +59,12 @@
                     WIDTH="144.0"
                     HEIGHT="902.0">
             <Shape><Polygon POINTS="334 4784 368 4754 373 4754 373 4749 373 4744 373 4739 368 3887 324 3887 259 3882 229 4774 294 4784 334 4784"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="restant de sa peine"
                     HPOS="229.0"
                     VPOS="3882.0"
                     WIDTH="144.0"
                     HEIGHT="902.0"
-                    ></String>
+                    WC="0.998893894647297"></String>
           </TextLine>
           <TextLine ID="eSc_line_f83cd477"
                     TAGREFS="LT11707"
@@ -74,12 +74,12 @@
                     WIDTH="170.0"
                     HEIGHT="1540.0">
             <Shape><Polygon POINTS="109 4804 154 4799 184 4540 184 4535 159 4376 184 4176 184 4171 159 3264 109 3264 14 3264 29 4804 109 4804"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Par décret en date du 1 Janvier 1918"
                     HPOS="14.0"
                     VPOS="3264.0"
                     WIDTH="170.0"
                     HEIGHT="1540.0"
-                    ></String>
+                    WC="0.9743414102373896"></String>
           </TextLine>
           <TextLine ID="eSc_line_7f900606"
                     TAGREFS="LT11707"
@@ -89,12 +89,12 @@
                     WIDTH="155.0"
                     HEIGHT="1435.0">
             <Shape><Polygon POINTS="249 4809 279 4744 279 4739 279 4734 259 4425 284 4396 284 4391 284 4386 289 4007 289 4002 289 3997 289 3992 264 3952 284 3379 224 3379 154 3374 134 4799 199 4809 249 4809"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Dinot a bénéficié de le remise du"
                     HPOS="134.0"
                     VPOS="3374.0"
                     WIDTH="155.0"
                     HEIGHT="1435.0"
-                    ></String>
+                    WC="0.9922387991632734"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

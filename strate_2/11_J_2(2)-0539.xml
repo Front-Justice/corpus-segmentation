@@ -5,7 +5,7 @@
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
-      <fileName>11_J_246-0951.jpg</fileName>
+      <fileName>11_J_2(2)-0539.jpg</fileName>
     </sourceImageInformation>
   </Description>
   <Tags>
@@ -13,14 +13,30 @@
     <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT11711" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
-    <Page WIDTH="4183"
-          HEIGHT="6286"
-          PHYSICAL_IMG_NR="384"
+    <Page WIDTH="3561"
+          HEIGHT="6110"
+          PHYSICAL_IMG_NR="126"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
-                  WIDTH="4183"
-                  HEIGHT="6286">
+                  WIDTH="3561"
+                  HEIGHT="6110">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_dc6fc2f0"
+                    BASELINE="130 2968 1620 2935" 
+                    HPOS="122"
+                    VPOS="2825"
+                    WIDTH="1492"
+                    HEIGHT="189">
+            <Shape><Polygon POINTS="127 2963 127 2983 290 3014 295 3014 489 2983 534 3014 540 3014 545 3014 550 3014 932 2978 1069 3004 1074 3004 1080 3004 1161 2968 1609 2978 1614 2932 1609 2861 1513 2825 1507 2825 1502 2825 1217 2866 1146 2830 1141 2830 1136 2830 1130 2830 1003 2871 876 2846 871 2846 866 2846 860 2846 820 2881 708 2881 652 2841 646 2841 641 2841 636 2841 631 2841 626 2841 580 2881 519 2851 514 2851 509 2851 504 2851 407 2881 351 2846 346 2846 341 2846 336 2846 122 2886 127 2963"/></Shape>
+            <String CONTENT=""
+                    HPOS="122"
+                    VPOS="2825"
+                    WIDTH="1492"
+                    HEIGHT="189"
+                    ></String>
+          </TextLine>
+        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>

@@ -121,6 +121,20 @@
                     HEIGHT="851.0"
                     ></String>
           </TextLine>
+          <TextLine ID="eSc_line_e707e0af"
+                    BASELINE="522 4856 752 4515" 
+                    HPOS="398"
+                    VPOS="4420"
+                    WIDTH="393"
+                    HEIGHT="464">
+            <Shape><Polygon POINTS="520 4853 566 4884 627 4848 627 4843 632 4843 632 4838 791 4537 750 4512 617 4420 433 4659 433 4664 398 4766 520 4853"/></Shape>
+            <String CONTENT=""
+                    HPOS="398"
+                    VPOS="4420"
+                    WIDTH="393"
+                    HEIGHT="464"
+                    ></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>
