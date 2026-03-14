@@ -50,20 +50,6 @@
                     HEIGHT="375"
                     WC="0.919584946198897"></String>
           </TextLine>
-          <TextLine ID="eSc_line_a66317b5"
-                    BASELINE="148 4191 190 3561 194 2608" 
-                    HPOS="56"
-                    VPOS="2598"
-                    WIDTH="237"
-                    HEIGHT="1590">
-            <Shape><Polygon POINTS="206 4188 257 4044 257 4039 257 4034 257 4029 221 3921 262 3843 262 3838 262 3833 262 3828 231 3735 226 3715 226 3504 247 3411 278 3257 278 3252 262 3092 242 2830 283 2737 288 2727 288 2722 293 2722 293 2603 190 2603 118 2598 82 3082 82 3087 82 3092 97 3154 108 3200 92 3221 77 3241 77 3247 77 3252 77 3257 77 3262 92 3303 103 3334 87 3360 77 3385 77 3391 77 3396 77 3401 77 3406 82 3406 87 3411 103 3432 97 3905 56 4178 144 4188 206 4188"/></Shape>
-            <String CONTENT="le cinq septembre smil neuf cent dix ney"
-                    HPOS="56"
-                    VPOS="2598"
-                    WIDTH="237"
-                    HEIGHT="1590"
-                    WC="0.9571824699640274"></String>
-          </TextLine>
           <TextLine ID="eSc_line_3374b0d8"
                     BASELINE="356 4806 361 4209" 
                     HPOS="278"
@@ -71,12 +57,12 @@
                     WIDTH="180"
                     HEIGHT="602">
             <Shape><Polygon POINTS="443 4337 437 4286 458 4281 458 4204 360 4204 278 4199 278 4790 355 4801 427 4795 453 4682 453 4677 453 4672 453 4667 437 4646 412 4605 412 4384 443 4343 443 4337"/></Shape>
-            <String CONTENT="Lu Commissaire Rapporien"
+            <String CONTENT="Le Commissaire Rapporteur"
                     HPOS="278"
                     VPOS="4199"
                     WIDTH="180"
                     HEIGHT="602"
-                    WC="0.934929721057415"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_06c4a3ba"
                     BASELINE="250 4825 264 4108 282 3876" 
@@ -99,26 +85,26 @@
                     WIDTH="201"
                     HEIGHT="581">
             <Shape><Polygon POINTS="437 4245 365 4250 458 4821 530 4816 566 4806 463 4240 437 4245"/></Shape>
-            <String CONTENT="buanasseur"
+            <String CONTENT="+"
                     HPOS="365"
                     VPOS="4240"
                     WIDTH="201"
                     HEIGHT="581"
-                    WC="0.9986647605895996"></String>
+                    ></String>
           </TextLine>
-          <TextLine ID="eSc_line_00248769"
-                    BASELINE="74 5834 106 4644 139 4242" 
-                    HPOS="0"
-                    VPOS="4235"
-                    WIDTH="180"
-                    HEIGHT="1595">
-            <Shape><Polygon POINTS="5 5001 5 5053 5 5104 5 5156 5 5207 5 5259 5 5310 5 5361 5 5413 5 5464 5 5516 5 5567 5 5619 5 5670 5 5722 5 5773 0 5773 5 5825 72 5830 139 5830 180 4240 133 4240 46 4235 5 4970 5 5001"/></Shape>
-            <String CONTENT=", présent jugement a commencé a recevoir son exéuuue"
-                    HPOS="0"
-                    VPOS="4235"
-                    WIDTH="180"
-                    HEIGHT="1595"
-                    WC="0.9478856877847152"></String>
+          <TextLine ID="eSc_line_b1a91683"
+                    BASELINE="74 5834 106 4644 139 4242 148 4191 190 3561 194 2608" 
+                    HPOS="5"
+                    VPOS="2598"
+                    WIDTH="262"
+                    HEIGHT="3232">
+            <Shape><Polygon POINTS="190 2603 118 2598 118 2763 82 2814 82 2835 108 2933 77 3092 77 3108 103 3144 72 3391 77 3977 36 4126 66 4301 30 4348 30 4363 51 4497 15 4811 5 5819 72 5830 159 5814 133 5773 170 5495 170 5485 144 5408 149 5001 159 4754 206 4698 206 4677 170 4584 206 4379 206 4368 185 4291 221 4240 257 3154 231 2917 267 2603 190 2603"/></Shape>
+            <String CONTENT="Le présent jugement a commencé a recevoir son exécution le cinq septembre Mil neuf cent dix neuf"
+                    HPOS="5"
+                    VPOS="2598"
+                    WIDTH="262"
+                    HEIGHT="3232"
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

@@ -45,12 +45,12 @@
                     WIDTH="932"
                     HEIGHT="251">
             <Shape><Polygon POINTS="247 2528 251 2556 1166 2403 1163 2373 1143 2305 1041 2342 939 2342 929 2342 926 2342 922 2342 915 2345 841 2373 814 2362 810 2362 807 2362 803 2362 234 2464 247 2528"/></Shape>
-            <String CONTENT="suspendu par décision de M^i le"
+            <String CONTENT="suspendue par décision de M^ le"
                     HPOS="234"
                     VPOS="2305"
                     WIDTH="932"
                     HEIGHT="251"
-                    WC="0.9577142372727394"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_df3eb7b6"
                     TAGREFS="LT10974"
@@ -105,12 +105,12 @@
                     WIDTH="424"
                     HEIGHT="305">
             <Shape><Polygon POINTS="461 2966 474 3000 518 3006 522 3006 525 3006 529 3006 529 3003 532 3003 566 2956 685 2952 688 2952 691 2952 854 2820 841 2786 797 2701 661 2796 613 2803 529 2820 525 2820 522 2820 522 2823 518 2823 518 2827 495 2867 491 2874 430 2901 461 2966"/></Shape>
-            <String CONTENT="+.M"
+            <String CONTENT="+"
                     HPOS="430"
                     VPOS="2701"
                     WIDTH="424"
                     HEIGHT="305"
-                    WC="0.9211627244949341"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

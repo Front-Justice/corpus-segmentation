@@ -87,12 +87,12 @@
                     WIDTH="1331"
                     HEIGHT="127">
             <Shape><Polygon POINTS="2220 1433 2220 1456 3548 1420 3548 1373 3538 1329 2217 1373 2220 1433"/></Shape>
-            <String CONTENT="M. le s/ secrétaire l Etat de la Justice Militaire"
+            <String CONTENT="M^. le s/^ secrétaire d&#x27;Etat de la Justice Militaire"
                     HPOS="2217"
                     VPOS="1329"
                     WIDTH="1331"
                     HEIGHT="127"
-                    WC="0.9629206002927294"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_f9ad5ca0"
                     TAGREFS="LT10974"
@@ -160,12 +160,12 @@
                     WIDTH="481"
                     HEIGHT="150">
             <Shape><Polygon POINTS="2648 1640 2652 1667 2845 1647 2862 1650 2922 1670 2926 1670 2929 1670 3036 1654 3039 1654 3043 1654 3043 1650 3063 1630 3073 1620 3116 1624 3113 1567 3100 1520 2635 1573 2648 1640"/></Shape>
-            <String CONTENT="Andrisonnez"
+            <String CONTENT="+"
                     HPOS="2635"
                     VPOS="1520"
                     WIDTH="481"
                     HEIGHT="150"
-                    WC="0.9634918516332452"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

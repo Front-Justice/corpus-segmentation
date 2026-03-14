@@ -22,74 +22,33 @@
                   WIDTH="3824"
                   HEIGHT="6087">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_f6df985a"
-                    BASELINE="3 3175 352 3172" 
-                    HPOS="3"
-                    VPOS="3172"
-                    WIDTH="349"
-                    HEIGHT="3">
-            <String CONTENT=""
-                    HPOS="3"
-                    VPOS="3172"
-                    WIDTH="349"
-                    HEIGHT="3"
+          <TextLine ID="eSc_line_f10e91d8"
+                    BASELINE="809 5490 1545 5452" 
+                    HPOS="802"
+                    VPOS="5371"
+                    WIDTH="741"
+                    HEIGHT="158">
+            <Shape><Polygon POINTS="807 5488 807 5529 990 5498 1543 5493 1543 5447 1528 5371 1015 5407 837 5392 832 5392 827 5392 822 5392 802 5407 807 5488"/></Shape>
+            <String CONTENT="Renvoi approuvé"
+                    HPOS="802"
+                    VPOS="5371"
+                    WIDTH="741"
+                    HEIGHT="158"
                     ></String>
           </TextLine>
-          <TextLine ID="eSc_line_26ad2b52"
-                    BASELINE="98 3284 315 3263" 
-                    HPOS="86"
-                    VPOS="3185"
-                    WIDTH="228"
-                    HEIGHT="137">
-            <Shape><Polygon POINTS="96 3281 96 3322 314 3297 314 3261 299 3185 86 3190 96 3281"/></Shape>
-            <String CONTENT="Le Greffier"
-                    HPOS="86"
-                    VPOS="3185"
-                    WIDTH="228"
-                    HEIGHT="137"
-                    WC="0.9324482083320618"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_af5b7432"
-                    BASELINE="139 3396 325 3314" 
-                    HPOS="96"
-                    VPOS="3266"
-                    WIDTH="234"
-                    HEIGHT="178">
-            <Shape><Polygon POINTS="248 3271 198 3271 96 3307 137 3393 162 3444 330 3342 319 3312 294 3266 248 3271"/></Shape>
-            <String CONTENT="+"
-                    HPOS="96"
-                    VPOS="3266"
-                    WIDTH="234"
-                    HEIGHT="178"
-                    WC="0.9999933242797852"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_f10e91d8"
-                    BASELINE="870 5493 1545 5452" 
-                    HPOS="858"
-                    VPOS="5351"
-                    WIDTH="685"
-                    HEIGHT="167">
-            <Shape><Polygon POINTS="868 5488 868 5518 1543 5493 1543 5447 1528 5351 1360 5392 858 5392 868 5488"/></Shape>
-            <String CONTENT="Renvoi approux"
-                    HPOS="858"
-                    VPOS="5351"
-                    WIDTH="685"
-                    HEIGHT="167"
-                    WC="0.9898855856486729"></String>
-          </TextLine>
           <TextLine ID="eSc_line_66e67dfb"
-                    BASELINE="986 5547 1470 5544" 
-                    HPOS="980"
+                    BASELINE="925 5544 1470 5544" 
+                    HPOS="924"
                     VPOS="5458"
-                    WIDTH="487"
+                    WIDTH="543"
                     HEIGHT="157">
-            <Shape><Polygon POINTS="1335 5463 1284 5468 1234 5468 1183 5473 1132 5473 1081 5478 1030 5483 980 5483 985 5544 985 5615 1173 5584 1457 5589 1467 5539 1452 5458 1350 5458 1335 5463"/></Shape>
-            <String CONTENT="le Griffier: Reu"
-                    HPOS="980"
+            <Shape><Polygon POINTS="1330 5463 1279 5463 1274 5463 1228 5468 1178 5468 1127 5473 1076 5478 1025 5478 975 5483 924 5483 924 5539 924 5615 1467 5589 1467 5539 1462 5458 1345 5458 1330 5463"/></Shape>
+            <String CONTENT="le Greffier +"
+                    HPOS="924"
                     VPOS="5458"
-                    WIDTH="487"
+                    WIDTH="543"
                     HEIGHT="157"
-                    WC="0.9440199956297874"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

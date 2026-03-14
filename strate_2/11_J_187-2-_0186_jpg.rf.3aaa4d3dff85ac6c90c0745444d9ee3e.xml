@@ -23,46 +23,46 @@
                   HEIGHT="6175">
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_c6164e25"
-                    BASELINE="557 2810 503 2498" 
-                    HPOS="391"
-                    VPOS="2475"
+                    BASELINE="557 2810 503 2384" 
+                    HPOS="396"
+                    VPOS="2372"
                     WIDTH="294"
-                    HEIGHT="344">
-            <Shape><Polygon POINTS="499 2495 391 2511 391 2706 391 2711 391 2717 453 2819 556 2809 685 2778 680 2655 680 2650 680 2644 638 2588 613 2557 602 2475 499 2495"/></Shape>
+                    HEIGHT="447">
+            <Shape><Polygon POINTS="499 2382 396 2392 427 2588 407 2737 407 2742 407 2747 407 2753 458 2819 556 2809 690 2789 674 2644 674 2639 674 2634 613 2562 623 2552 623 2547 623 2542 623 2536 623 2531 546 2372 499 2382"/></Shape>
             <String CONTENT="+"
-                    HPOS="391"
-                    VPOS="2475"
+                    HPOS="396"
+                    VPOS="2372"
                     WIDTH="294"
-                    HEIGHT="344"
+                    HEIGHT="447"
                     WC="0.9999839067459106"></String>
           </TextLine>
           <TextLine ID="eSc_line_6acce578"
-                    BASELINE="372 3031 389 2652" 
+                    BASELINE="372 3031 389 2538" 
                     HPOS="288"
-                    VPOS="2639"
-                    WIDTH="211"
-                    HEIGHT="391">
-            <Shape><Polygon POINTS="288 3020 370 3030 494 3030 499 2871 499 2866 499 2861 499 2855 468 2809 453 2789 443 2650 386 2650 309 2639 288 2989 288 3020"/></Shape>
+                    VPOS="2531"
+                    WIDTH="206"
+                    HEIGHT="499">
+            <Shape><Polygon POINTS="293 2974 293 3020 370 3030 484 3030 494 2861 494 2855 494 2850 417 2701 417 2536 386 2536 314 2531 288 2958 293 2974"/></Shape>
             <String CONTENT="Le greffier"
                     HPOS="288"
-                    VPOS="2639"
-                    WIDTH="211"
-                    HEIGHT="391"
+                    VPOS="2531"
+                    WIDTH="206"
+                    HEIGHT="499"
                     WC="0.9756349270994013"></String>
           </TextLine>
           <TextLine ID="eSc_line_d743a41f"
-                    BASELINE="154 4514 164 3558 131 2518" 
-                    HPOS="41"
-                    VPOS="2511"
-                    WIDTH="185"
-                    HEIGHT="2001">
-            <Shape><Polygon POINTS="128 2516 41 2521 66 2603 46 2825 46 2830 46 2835 46 2840 77 2871 51 2933 51 2938 51 2943 87 3607 61 3890 61 3895 92 4080 61 4502 149 4512 216 4507 226 3252 226 3247 195 2948 221 2876 221 2871 221 2866 221 2861 195 2804 221 2763 221 2758 221 2753 221 2747 221 2742 190 2655 216 2552 216 2547 216 2542 216 2536 216 2531 211 2531 190 2511 128 2516"/></Shape>
-            <String CONTENT="le ccinq septembre mil neuf cent dix neuf pour"
-                    HPOS="41"
-                    VPOS="2511"
-                    WIDTH="185"
-                    HEIGHT="2001"
-                    WC="0.9588331528331923"></String>
+                    BASELINE="154 4514 164 3558 131 2404" 
+                    HPOS="46"
+                    VPOS="2397"
+                    WIDTH="180"
+                    HEIGHT="2115">
+            <Shape><Polygon POINTS="128 2403 72 2403 46 2717 46 2722 77 2871 51 3133 51 3138 51 3144 82 3226 61 3890 61 3895 92 4229 66 4502 149 4512 216 4507 226 3252 226 3247 190 2958 221 2876 221 2871 221 2866 221 2861 221 2855 190 2809 221 2763 221 2758 221 2753 221 2747 221 2742 221 2737 185 2686 216 2624 216 2619 216 2614 180 2397 128 2403"/></Shape>
+            <String CONTENT="le cinq septembre mil neuf cent dix neuf pour"
+                    HPOS="46"
+                    VPOS="2397"
+                    WIDTH="180"
+                    HEIGHT="2115"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_4e139560"
                     BASELINE="557 4668 435 4007" 
@@ -79,32 +79,32 @@
                     WC="0.9999998807907104"></String>
           </TextLine>
           <TextLine ID="eSc_line_763a91f8"
-                    BASELINE="399 4808 390 4201" 
-                    HPOS="303"
-                    VPOS="4199"
-                    WIDTH="145"
-                    HEIGHT="607">
-            <Shape><Polygon POINTS="303 4199 303 4801 396 4806 432 4801 448 4199 386 4199 303 4199"/></Shape>
-            <String CONTENT="Le Commissaire Rapporteu"
-                    HPOS="303"
-                    VPOS="4199"
-                    WIDTH="145"
-                    HEIGHT="607"
-                    WC="0.9467176546653112"></String>
+                    BASELINE="399 4808 390 4159" 
+                    HPOS="298"
+                    VPOS="4157"
+                    WIDTH="139"
+                    HEIGHT="649">
+            <Shape><Polygon POINTS="298 4157 298 4183 319 4307 303 4801 396 4806 432 4801 437 4157 386 4157 298 4157"/></Shape>
+            <String CONTENT="Le Commissaire Rapporteur"
+                    HPOS="298"
+                    VPOS="4157"
+                    WIDTH="139"
+                    HEIGHT="649"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_ef8fd9d5"
-                    BASELINE="288 4890 299 4111 302 3340 275 2461" 
+                    BASELINE="288 4890 299 4111 302 3340 275 2347" 
                     HPOS="190"
-                    VPOS="2454"
+                    VPOS="2341"
                     WIDTH="186"
-                    HEIGHT="2434">
-            <Shape><Polygon POINTS="273 2459 200 2459 216 3751 195 3813 190 3828 190 3833 190 3838 190 3843 190 3849 195 3849 195 3854 216 3869 195 3921 195 3926 195 3931 195 3946 221 4157 195 4224 195 4229 195 4235 195 4240 221 4425 195 4497 195 4502 195 4507 195 4512 221 4559 195 4584 195 4590 195 4595 195 4600 195 4883 283 4888 329 4883 365 4775 365 4770 365 4765 365 4759 334 4687 334 4142 340 4116 376 3977 376 3972 376 3967 376 3962 345 3843 340 3823 345 3689 370 3123 370 3118 370 3113 350 3051 324 2958 350 2454 273 2459"/></Shape>
-            <String CONTENT="compter du 30 Mai 1919. (trente mai mil neuf cent dix ney"
+                    HEIGHT="2547">
+            <Shape><Polygon POINTS="273 2346 190 2346 216 3751 190 3828 190 3833 190 3838 221 4054 195 4188 195 4193 221 4451 195 4487 195 4492 195 4497 195 4502 195 4883 283 4888 334 4883 365 4770 365 4765 365 4759 340 4440 376 4358 376 4353 376 4348 376 4343 340 4265 370 3972 370 3967 370 3962 340 3828 365 3108 365 3102 365 3097 329 3015 345 2341 273 2346"/></Shape>
+            <String CONTENT="compter du 30 Mai 1919 (trente mai mil neuf cent dix neuf."
                     HPOS="190"
-                    VPOS="2454"
+                    VPOS="2341"
                     WIDTH="186"
-                    HEIGHT="2434"
-                    WC="0.9605247880283155"></String>
+                    HEIGHT="2547"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_6913c579"
                     BASELINE="145 6037 95 5356 95 4441" 
@@ -113,12 +113,12 @@
                     WIDTH="268"
                     HEIGHT="1601">
             <Shape><Polygon POINTS="144 4492 144 4440 144 4435 92 4440 5 4512 5 4543 5 4595 5 4646 5 4698 5 4749 5 4801 5 4852 5 4903 5 4955 5 5006 5 5058 5 5109 5 5161 5 5212 5 5264 5 5315 5 5367 5 5418 5 5470 5 5521 5 5572 5 5624 5 5675 5 5727 5 5778 5 5830 5 5881 5 5933 5 5984 5 6036 144 6036 195 6030 200 5943 273 5861 273 5855 273 5850 273 5845 262 5464 262 5459 211 5356 211 5279 211 5274 211 5269 211 5264 206 5264 175 5228 159 5207 170 5058 185 4847 185 4842 154 4492 144 4492"/></Shape>
-            <String CONTENT="le présent juisenent a cogmence a recevoit son exécitiges"
+            <String CONTENT="Le présent jugement a commencé à recevoir son exécution"
                     HPOS="5"
                     VPOS="4435"
                     WIDTH="268"
                     HEIGHT="1601"
-                    WC="0.8411565124988556"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

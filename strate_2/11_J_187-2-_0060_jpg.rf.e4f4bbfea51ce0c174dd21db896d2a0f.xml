@@ -23,18 +23,18 @@
                   HEIGHT="6183">
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_2ad51be6"
-                    BASELINE="374 3631 365 2671" 
-                    HPOS="288"
-                    VPOS="2663"
-                    WIDTH="144"
-                    HEIGHT="964">
-            <Shape><Polygon POINTS="360 2668 288 2668 304 3627 371 3627 432 3622 422 2663 360 2668"/></Shape>
-            <String CONTENT="L&#x27;OTEIEER DEMMMSIRAION GOUDOI GEEEIEN DU CONSE."
-                    HPOS="288"
-                    VPOS="2663"
-                    WIDTH="144"
-                    HEIGHT="964"
-                    WC="0.9350386528258628"></String>
+                    BASELINE="374 3631 365 2571" 
+                    HPOS="267"
+                    VPOS="2560"
+                    WIDTH="165"
+                    HEIGHT="1067">
+            <Shape><Polygon POINTS="360 2565 267 2571 293 2638 273 3086 273 3091 273 3096 273 3101 278 3101 304 3127 304 3627 371 3627 432 3617 422 2560 360 2565"/></Shape>
+            <String CONTENT="L&#x27;OFFICIER D&#x27;ADMINISTRATION BOUDOT GREFFIER DU CONSEIL"
+                    HPOS="267"
+                    VPOS="2560"
+                    WIDTH="165"
+                    HEIGHT="1067"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_4fbed6a1"
                     BASELINE="679 4532 416 3987" 
@@ -51,46 +51,46 @@
                     WC="0.999998927116394"></String>
           </TextLine>
           <TextLine ID="eSc_line_829e75b4"
-                    BASELINE="397 4897 328 3936" 
-                    HPOS="257"
-                    VPOS="3926"
-                    WIDTH="186"
-                    HEIGHT="968">
-            <Shape><Polygon POINTS="324 3931 257 3931 319 4894 396 4894 443 4884 401 4369 401 4338 417 4070 417 4065 417 4060 365 3926 324 3931"/></Shape>
-            <String CONTENT="Le Commisaire Rapparteur"
-                    HPOS="257"
-                    VPOS="3926"
-                    WIDTH="186"
-                    HEIGHT="968"
-                    WC="0.9970718224843343"></String>
+                    BASELINE="397 5042 328 3872" 
+                    HPOS="237"
+                    VPOS="3864"
+                    WIDTH="226"
+                    HEIGHT="1175">
+            <Shape><Polygon POINTS="324 3869 237 3874 262 3957 242 4080 242 4085 242 4091 242 4096 273 4132 252 4271 252 4276 252 4281 288 4379 267 4523 267 4529 267 4534 267 4539 298 4575 273 4606 273 4611 273 4616 273 4621 273 4626 314 4796 304 5033 396 5039 438 5033 463 4920 463 4915 463 4910 427 4776 448 4657 448 4652 407 4451 427 4410 427 4405 427 4400 427 4395 427 4389 401 4353 401 3864 324 3869"/></Shape>
+            <String CONTENT="Le Commisaire Rapporteur"
+                    HPOS="237"
+                    VPOS="3864"
+                    WIDTH="226"
+                    HEIGHT="1175"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_803129f2"
-                    BASELINE="159 5063 130 3768 155 2690 163 1746" 
+                    BASELINE="159 5154 130 3768 155 2590 163 1646" 
                     HPOS="72"
-                    VPOS="1741"
-                    WIDTH="134"
-                    HEIGHT="3318">
-            <Shape><Polygon POINTS="72 1741 72 5059 154 5059 195 5049 180 3050 206 2936 206 2921 206 2916 206 2911 206 2906 180 2875 180 2426 206 1741 159 1741 72 1741"/></Shape>
-            <String CONTENT="e présent jugement a commencé à recevoir son exécision le trete Juyllet l neuf cent dix neuf"
+                    VPOS="1638"
+                    WIDTH="139"
+                    HEIGHT="3514">
+            <Shape><Polygon POINTS="159 1643 72 1643 82 5152 154 5152 195 5142 180 3240 206 3173 206 3168 206 3163 206 3158 180 3045 206 2921 206 2916 206 2911 206 2906 180 2875 180 2421 206 2318 206 2313 211 2313 211 1710 206 1705 206 1700 175 1638 159 1643"/></Shape>
+            <String CONTENT="Le présent jugement a commencé à recevoir son exécution le trente Juillet Mil neuf cent dix neuf"
                     HPOS="72"
-                    VPOS="1741"
-                    WIDTH="134"
-                    HEIGHT="3318"
-                    WC="0.9587011896073818"></String>
+                    VPOS="1638"
+                    WIDTH="139"
+                    HEIGHT="3514"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_856352c3"
-                    BASELINE="238 5267 213 4398 230 3559 234 2155" 
-                    HPOS="144"
-                    VPOS="2148"
-                    WIDTH="165"
-                    HEIGHT="3117">
-            <Shape><Polygon POINTS="231 2153 159 2153 159 2174 159 2225 159 2277 159 2328 159 2380 159 2431 159 2483 159 2535 159 2586 159 2638 154 2689 154 2741 154 2792 154 2844 154 2895 149 2916 144 4513 149 4544 149 4596 149 4647 149 4699 149 4750 154 4802 154 4853 154 4905 154 4956 154 5008 154 5059 144 5059 144 5260 237 5265 293 5260 262 4729 298 4642 298 4637 298 4632 298 4626 298 4621 298 4616 262 4580 262 4420 298 4317 304 4302 304 4297 304 4292 304 4286 304 4281 298 4281 298 4276 262 4235 262 4024 298 3874 304 3859 304 3854 304 3848 304 3843 298 3833 262 3761 262 3477 304 3410 304 3405 304 3400 309 3400 309 3204 304 3199 304 3194 304 3189 262 3127 298 2998 298 2993 298 2988 298 2983 278 2926 304 2689 304 2674 304 2668 304 2663 304 2658 262 2596 262 2452 304 2359 304 2354 309 2354 309 2148 231 2153"/></Shape>
-            <String CONTENT="our de la parade pour compterdu treize juin Ml neuf cent dix neuf"
-                    HPOS="144"
-                    VPOS="2148"
-                    WIDTH="165"
-                    HEIGHT="3117"
-                    WC="0.9668196439743042"></String>
+                    BASELINE="238 5358 213 4398 230 3559 234 2055" 
+                    HPOS="164"
+                    VPOS="2045"
+                    WIDTH="145"
+                    HEIGHT="3308">
+            <Shape><Polygon POINTS="231 2050 164 2050 164 5353 237 5353 304 5348 267 5167 304 4900 304 4894 304 4889 262 4796 288 4534 288 4529 288 4523 262 4420 304 4328 304 4322 304 4317 304 4312 262 4235 267 3951 304 3910 304 3905 304 3900 304 3895 304 3890 262 3756 288 3570 288 3565 288 3560 262 3472 304 3410 304 3405 304 3400 304 3395 304 3390 262 3261 304 2802 309 2802 309 2643 304 2638 304 2632 304 2627 273 2591 304 2158 304 2153 304 2148 262 2045 231 2050"/></Shape>
+            <String CONTENT="jour de la parade pour compter du treize juin Mil neuf cent dix neuf"
+                    HPOS="164"
+                    VPOS="2045"
+                    WIDTH="145"
+                    HEIGHT="3308"
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

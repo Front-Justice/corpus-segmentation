@@ -135,12 +135,12 @@
                     WIDTH="925"
                     HEIGHT="203">
             <Shape><Polygon POINTS="2880 2086 2830 2091 2781 2096 2731 2096 2682 2101 2632 2101 2622 2061 2578 2081 2588 2160 2588 2200 3503 2145 3503 2081 3479 1997 3296 2041 3211 2022 3192 2022 3187 2022 3132 2032 2969 2071 2929 2071 2929 2086"/></Shape>
-            <String CONTENT="Terqué à la Sen 6 l"
+            <String CONTENT="Ecroué à la M^on C^le"
                     HPOS="2578"
                     VPOS="1997"
                     WIDTH="925"
                     HEIGHT="203"
-                    WC="0.9033696736608233"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_80e363a1"
                     TAGREFS="LT10974"
@@ -150,12 +150,12 @@
                     WIDTH="980"
                     HEIGHT="203">
             <Shape><Polygon POINTS="2563 2284 2563 2299 3137 2274 3142 2274 3167 2264 3261 2229 3301 2259 3305 2259 3310 2259 3315 2259 3533 2239 3528 2180 3513 2096 2553 2200 2563 2284"/></Shape>
-            <String CONTENT="de thonar le 22 Ma"
+            <String CONTENT="de Thuais le 22 Mai"
                     HPOS="2553"
                     VPOS="2096"
                     WIDTH="980"
                     HEIGHT="203"
-                    WC="0.9460619621806674"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_847f9d98"
                     TAGREFS="LT10974"

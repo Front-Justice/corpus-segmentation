@@ -31,12 +31,12 @@
                     WIDTH="1309.0"
                     HEIGHT="217.0">
             <Shape><Polygon POINTS="1203 5556 1203 5607 1360 5637 1365 5637 2341 5607 2346 5607 2351 5607 2396 5571 2507 5571 2507 5516 2487 5420 2376 5450 2088 5430 2083 5430 2078 5430 2073 5430 2027 5460 1774 5440 1769 5440 1430 5481 1274 5455 1269 5455 1264 5455 1198 5481 1203 5556"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Peine comptant du 16 Août 1916"
                     HPOS="1198.0"
                     VPOS="5420.0"
                     WIDTH="1309.0"
                     HEIGHT="217.0"
-                    ></String>
+                    WC="0.974314022064209"></String>
           </TextLine>
           <TextLine ID="eSc_line_0345c881"
                     TAGREFS="LT11707"
@@ -46,12 +46,12 @@
                     WIDTH="475.0"
                     HEIGHT="202.0">
             <Shape><Polygon POINTS="2103 5662 2103 5688 2356 5733 2361 5733 2366 5733 2568 5647 2568 5617 2558 5541 2432 5531 2427 5531 2422 5531 2300 5571 2174 5556 2169 5556 2164 5556 2093 5587 2103 5662"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le Greffier"
                     HPOS="2093.0"
                     VPOS="5531.0"
                     WIDTH="475.0"
                     HEIGHT="202.0"
-                    ></String>
+                    WC="0.9736065864562988"></String>
           </TextLine>
           <TextLine ID="eSc_line_9f22fdfe"
                     TAGREFS="LT11707"
@@ -61,12 +61,12 @@
                     WIDTH="496.0"
                     HEIGHT="354.0">
             <Shape><Polygon POINTS="2563 5622 2513 5627 2492 5627 2123 5753 2148 5829 2184 5966 2619 5809 2598 5708 2558 5612 2563 5622"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="2123.0"
                     VPOS="5612.0"
                     WIDTH="496.0"
                     HEIGHT="354.0"
-                    ></String>
+                    WC="0.9999998807907104"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

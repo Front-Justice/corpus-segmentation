@@ -30,12 +30,12 @@
                     WIDTH="144"
                     HEIGHT="1130">
             <Shape><Polygon POINTS="322 3569 252 3569 282 4684 342 4694 396 4689 342 3564 322 3569"/></Shape>
-            <String CONTENT="pour compier il 29 Juin 1918"
+            <String CONTENT="pour compter du 29 Juin 1918"
                     HPOS="252"
                     VPOS="3564"
                     WIDTH="144"
                     HEIGHT="1130"
-                    WC="0.9846128246613911"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_92b21ac9"
                     TAGREFS="LT10974"
@@ -45,12 +45,12 @@
                     WIDTH="193"
                     HEIGHT="610">
             <Shape><Polygon POINTS="570 3658 456 3658 480 3747 456 3851 451 3886 451 3891 466 4263 555 4268 644 4263 629 3658 570 3658"/></Shape>
-            <String CONTENT=":"
+            <String CONTENT="+"
                     HPOS="451"
                     VPOS="3658"
                     WIDTH="193"
                     HEIGHT="610"
-                    WC="0.9998819828033447"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_26b83ece"
                     TAGREFS="LT10974"
@@ -75,12 +75,12 @@
                     WIDTH="139"
                     HEIGHT="1527">
             <Shape><Polygon POINTS="153 3172 79 3177 109 4694 178 4694 218 4684 203 3167 153 3172"/></Shape>
-            <String CONTENT="Leprévent jugement à commencé à recevoirson"
+            <String CONTENT="Le présent jugement à commencé à recevoir son"
                     HPOS="79"
                     VPOS="3167"
                     WIDTH="139"
                     HEIGHT="1527"
-                    WC="0.9738174803713535"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_0932e968"
                     TAGREFS="LT10974"
