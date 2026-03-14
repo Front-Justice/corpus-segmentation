@@ -31,12 +31,12 @@
                     WIDTH="503.0"
                     HEIGHT="443.0">
             <Shape><Polygon POINTS="392 1433 427 1479 543 1373 588 1373 593 1373 598 1373 603 1373 709 1297 709 1292 845 1141 825 1116 764 1036 342 1363 392 1433"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le Greffier."
                     HPOS="342.0"
                     VPOS="1036.0"
                     WIDTH="503.0"
                     HEIGHT="443.0"
-                    ></String>
+                    WC="0.9892880618572235"></String>
           </TextLine>
           <TextLine ID="eSc_line_9953c6c8"
                     TAGREFS="LT11707"
@@ -46,12 +46,12 @@
                     WIDTH="1499.0"
                     HEIGHT="1213.0">
             <Shape><Polygon POINTS="85 1469 1499 407 1469 362 1388 256 1187 377 1187 382 1182 382 1076 558 996 563 991 563 986 563 986 568 981 568 895 699 659 830 654 830 654 835 427 1051 271 1071 266 1071 261 1071 261 1076 256 1076 256 1081 196 1197 0 1353 50 1423"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Lehabilitation par Arret de la Coue d&#x27;Appel"
                     HPOS="0.0"
                     VPOS="256.0"
                     WIDTH="1499.0"
                     HEIGHT="1213.0"
-                    ></String>
+                    WC="0.9764222128446712"></String>
           </TextLine>
           <TextLine ID="eSc_line_818aef3e"
                     TAGREFS="LT11707"
@@ -61,12 +61,12 @@
                     WIDTH="1338.0"
                     HEIGHT="1066.0">
             <Shape><Polygon POINTS="639 1167 991 940 991 935 1122 804 1288 709 1293 709 1293 704 1298 704 1358 618 1338 588 1283 523 20 1474 75 1549 105 1589"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le Rennes en date duu 27 Juine 1919"
                     HPOS="20.0"
                     VPOS="523.0"
                     WIDTH="1338.0"
                     HEIGHT="1066.0"
-                    ></String>
+                    WC="0.9593241248811994"></String>
           </TextLine>
           <TextLine ID="eSc_line_84806dbb"
                     BASELINE="571 1630 895 1177" 
@@ -75,12 +75,12 @@
                     WIDTH="489.0"
                     HEIGHT="664.0">
             <Shape><Polygon POINTS="815 1126 810 1126 764 1212 679 1257 674 1257 674 1262 669 1262 669 1267 588 1458 467 1549 568 1629 795 1785 895 1624 895 1619 895 1614 895 1609 890 1318 956 1217 890 1172 820 1121 815 1126"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="467.0"
                     VPOS="1121.0"
                     WIDTH="489.0"
                     HEIGHT="664.0"
-                    ></String>
+                    WC="0.9996155500411987"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

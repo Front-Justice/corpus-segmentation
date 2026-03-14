@@ -30,12 +30,12 @@
                     WIDTH="1026.0"
                     HEIGHT="132.0">
             <Shape><Polygon POINTS="50 1262 50 1298 1071 1262 1071 1232 1055 1166 45 1171 50 1262"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Fait remise du restant dela peine"
                     HPOS="45.0"
                     VPOS="1166.0"
                     WIDTH="1026.0"
                     HEIGHT="132.0"
-                    ></String>
+                    WC="0.9857247038321062"></String>
           </TextLine>
           <TextLine ID="eSc_line_03189649"
                     BASELINE="5 1347 1132 1317" 
@@ -57,12 +57,12 @@
                     WIDTH="793.0"
                     HEIGHT="152.0">
             <Shape><Polygon POINTS="15 1449 15 1495 298 1470 798 1475 803 1419 793 1343 10 1379 15 1449"/></Shape>
-            <String CONTENT=""
+            <String CONTENT=" date au 31 Janvier 1919."
                     HPOS="10.0"
                     VPOS="1343.0"
                     WIDTH="793.0"
                     HEIGHT="152.0"
-                    ></String>
+                    WC="0.9962511491775513"></String>
           </TextLine>
           <TextLine ID="eSc_line_43ad4927"
                     BASELINE="266 1501 614 1488" 
@@ -71,12 +71,12 @@
                     WIDTH="354.0"
                     HEIGHT="96.0">
             <Shape><Polygon POINTS="560 1424 510 1424 459 1424 424 1424 262 1429 257 1434 262 1500 262 1520 550 1520 565 1515 606 1495 611 1485 596 1424 560 1424"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le Gufur"
                     HPOS="257.0"
                     VPOS="1424.0"
                     WIDTH="354.0"
                     HEIGHT="96.0"
-                    ></String>
+                    WC="0.9998447448015213"></String>
           </TextLine>
           <TextLine ID="eSc_line_a71d6458"
                     BASELINE="2472 1567 3241 1266" 
@@ -85,12 +85,12 @@
                     WIDTH="838.0"
                     HEIGHT="424.0">
             <Shape><Polygon POINTS="2470 1566 2490 1621 2798 1500 2899 1525 2904 1525 2909 1525 2915 1525 3278 1369 3238 1262 3208 1197 3031 1237 3026 1237 2440 1495 2470 1566"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Rétuabilite a it"
                     HPOS="2440.0"
                     VPOS="1197.0"
                     WIDTH="838.0"
                     HEIGHT="424.0"
-                    ></String>
+                    WC="0.9266761576428133"></String>
           </TextLine>
           <TextLine ID="eSc_line_cb890db2"
                     BASELINE="333 1655 614 1502" 
@@ -99,12 +99,12 @@
                     WIDTH="349.0"
                     HEIGHT="192.0">
             <Shape><Polygon POINTS="586 1490 525 1490 469 1495 444 1495 282 1566 328 1651 343 1682 449 1672 454 1672 459 1672 631 1545 611 1500 601 1490 586 1490"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="282.0"
                     VPOS="1490.0"
                     WIDTH="349.0"
                     HEIGHT="192.0"
-                    ></String>
+                    WC="0.9999918937683105"></String>
           </TextLine>
           <TextLine ID="eSc_line_690076d7"
                     BASELINE="2415 1700 3225 1352" 
@@ -113,12 +113,12 @@
                     WIDTH="854.0"
                     HEIGHT="434.0">
             <Shape><Polygon POINTS="2414 1697 2424 1722 3238 1394 3223 1348 3192 1288 2384 1626 2414 1697"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="de la cour d&#x27;Apperde"
                     HPOS="2384.0"
                     VPOS="1288.0"
                     WIDTH="854.0"
                     HEIGHT="434.0"
-                    ></String>
+                    WC="0.9993092119693756"></String>
           </TextLine>
           <TextLine ID="eSc_line_35df1d77"
                     BASELINE="2450 1786 2985 1535 3406 1389" 
@@ -127,12 +127,12 @@
                     WIDTH="1021.0"
                     HEIGHT="545.0">
             <Shape><Polygon POINTS="2778 1540 2733 1560 2687 1581 2642 1601 2596 1621 2546 1641 2500 1661 2455 1682 2450 1667 2404 1687 2445 1783 2475 1848 2611 1732 2682 1742 2687 1742 2692 1742 2697 1742 2697 1737 2702 1737 2763 1667 2844 1672 2849 1672 2854 1672 2859 1672 2859 1667 2864 1667 2909 1601 3005 1560 3112 1560 3117 1560 3122 1560 3127 1560 3127 1555 3182 1505 3243 1520 3248 1520 3253 1520 3258 1520 3425 1449 3405 1384 3364 1303 2803 1525 2778 1540"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Bodesn le date du 2 fénie 1919"
                     HPOS="2404.0"
                     VPOS="1303.0"
                     WIDTH="1021.0"
                     HEIGHT="545.0"
-                    ></String>
+                    WC="0.9128617644309998"></String>
           </TextLine>
           <TextLine ID="eSc_line_0fdd29c0"
                     TAGREFS="LT11707"
@@ -142,12 +142,12 @@
                     WIDTH="357.0"
                     HEIGHT="262.0">
             <Shape><Polygon POINTS="2714 1754 2738 1811 2822 1774 2825 1774 2825 1771 2829 1771 2852 1734 2906 1744 2909 1744 2913 1744 2916 1744 2916 1741 2920 1741 2960 1687 3048 1660 3034 1619 3000 1549 2691 1700 2714 1754"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le greffier"
                     HPOS="2691.0"
                     VPOS="1549.0"
                     WIDTH="357.0"
                     HEIGHT="262.0"
-                    ></String>
+                    WC="0.9867774519053373"></String>
           </TextLine>
           <TextLine ID="eSc_line_838c4a82"
                     BASELINE="2747 1904 3095 1677" 
@@ -156,12 +156,12 @@
                     WIDTH="414.0"
                     HEIGHT="343.0">
             <Shape><Polygon POINTS="2743 1899 2778 1949 2920 1823 3061 1783 3066 1783 3066 1778 3071 1778 3071 1773 3106 1697 3091 1672 3046 1606 2692 1823 2743 1899"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="2692.0"
                     VPOS="1606.0"
                     WIDTH="414.0"
                     HEIGHT="343.0"
-                    ></String>
+                    WC="1.0"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

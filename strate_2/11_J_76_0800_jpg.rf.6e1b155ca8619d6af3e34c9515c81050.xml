@@ -58,12 +58,12 @@
                     WIDTH="1193"
                     HEIGHT="137">
             <Shape><Polygon POINTS="45 2800 45 2845 598 2825 685 2835 807 2850 812 2850 817 2850 898 2830 944 2820 989 2825 1162 2855 1167 2855 1172 2855 1233 2820 1233 2789 1218 2718 40 2723 45 2800"/></Shape>
-            <String CONTENT="Détention présantion: du 21 avril au 23 Mai 1917"
+            <String CONTENT="Détention préventive : du 21 avril au 23 Mai 1917"
                     HPOS="40"
                     VPOS="2718"
                     WIDTH="1193"
                     HEIGHT="137"
-                    WC="0.9553688025474548"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_47afecc3"
                     BASELINE="239 2900 588 2916" 
@@ -72,12 +72,12 @@
                     WIDTH="350"
                     HEIGHT="152">
             <Shape><Polygon POINTS="441 2800 431 2800 395 2820 390 2820 365 2800 340 2800 294 2800 238 2810 238 2896 233 2921 573 2952 583 2911 583 2825 472 2800 441 2800"/></Shape>
-            <String CONTENT="Le greffier,"
+            <String CONTENT="Le greffier"
                     HPOS="233"
                     VPOS="2800"
                     WIDTH="350"
                     HEIGHT="152"
-                    WC="0.9572316110134125"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_36151d4d"
                     TAGREFS="LT10974"
@@ -87,12 +87,12 @@
                     WIDTH="680"
                     HEIGHT="264">
             <Shape><Polygon POINTS="553 2911 497 2911 446 2906 395 2906 101 2992 121 3084 121 3099 639 3033 644 3033 781 2977 781 2952 751 2835 609 2896 553 2896 553 2911"/></Shape>
-            <String CONTENT="M Thibanz"
+            <String CONTENT="+"
                     HPOS="101"
                     VPOS="2835"
                     WIDTH="680"
                     HEIGHT="264"
-                    WC="0.9990500277943082"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

@@ -45,12 +45,12 @@
                     WIDTH="902"
                     HEIGHT="194">
             <Shape><Polygon POINTS="254 2515 254 2539 987 2457 990 2457 993 2457 993 2454 997 2454 1010 2430 1017 2423 1146 2410 1146 2389 1132 2345 244 2457 254 2515"/></Shape>
-            <String CONTENT="suspendue, par décision de M^e le"
+            <String CONTENT="suspendue, par décision de M^ le"
                     HPOS="244"
                     VPOS="2345"
                     WIDTH="902"
                     HEIGHT="194"
-                    WC="0.9767831634072697"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_18d5fb52"
                     TAGREFS="LT10974"
@@ -75,12 +75,12 @@
                     WIDTH="746"
                     HEIGHT="187">
             <Shape><Polygon POINTS="251 2640 254 2688 990 2600 987 2552 973 2501 244 2589 251 2640"/></Shape>
-            <String CONTENT="en date du 5 Fevrier 1915."
+            <String CONTENT="en date du 5 Fevrier 1915"
                     HPOS="244"
                     VPOS="2501"
                     WIDTH="746"
                     HEIGHT="187"
-                    WC="0.9804942882977999"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_fee3fcbc"
                     TAGREFS="LT10974"
@@ -105,12 +105,12 @@
                     WIDTH="468"
                     HEIGHT="254">
             <Shape><Polygon POINTS="424 2942 430 2962 563 2928 590 2942 593 2942 596 2942 600 2942 603 2942 695 2878 729 2854 861 2820 848 2769 820 2708 644 2752 641 2752 393 2864 424 2942"/></Shape>
-            <String CONTENT="et Mattiu"
+            <String CONTENT="+"
                     HPOS="393"
                     VPOS="2708"
                     WIDTH="468"
                     HEIGHT="254"
-                    WC="0.7942805373006396"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

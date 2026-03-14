@@ -29,12 +29,12 @@
                     WIDTH="859"
                     HEIGHT="628">
             <Shape><Polygon POINTS="2763 1552 2783 1582 3045 1401 3055 1401 3135 1416 3140 1416 3145 1416 3150 1416 3577 1055 3562 1024 3512 954 2919 1361 2904 1366 2798 1406 2793 1406 2793 1411 2718 1487 2763 1552"/></Shape>
-            <String CONTENT="Austre par la loi"
+            <String CONTENT="Amnistie par la loi"
                     HPOS="2718"
                     VPOS="954"
                     WIDTH="859"
                     HEIGHT="628"
-                    WC="0.9280004992204554"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_50653666"
                     BASELINE="2708 1655 3431 1241" 
@@ -43,12 +43,12 @@
                     WIDTH="784"
                     HEIGHT="513">
             <Shape><Polygon POINTS="2974 1416 2929 1441 2889 1472 2844 1502 2804 1527 2763 1552 2753 1532 2663 1582 2703 1652 2723 1688 3447 1281 3427 1240 3386 1175 3010 1386 2974 1416"/></Shape>
-            <String CONTENT="au 24 Octobre 1919-"
+            <String CONTENT="du 24 Octobre 1919"
                     HPOS="2663"
                     VPOS="1175"
                     WIDTH="784"
                     HEIGHT="513"
-                    WC="0.9799227651796842"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_ec38e0d8"
                     BASELINE="2968 1585 3453 1342" 
@@ -57,12 +57,12 @@
                     WIDTH="528"
                     HEIGHT="326">
             <Shape><Polygon POINTS="2979 1497 2934 1522 2964 1582 2974 1602 3231 1517 3236 1517 3462 1361 3452 1341 3417 1276 2979 1492 2979 1497"/></Shape>
-            <String CONTENT="Le greffier:"
+            <String CONTENT="Le greffier"
                     HPOS="2934"
                     VPOS="1276"
                     WIDTH="528"
                     HEIGHT="326"
-                    WC="0.9812756528457006"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_c4b91c75"
                     BASELINE="3025 1704 3656 1311" 
@@ -71,12 +71,12 @@
                     WIDTH="709"
                     HEIGHT="578">
             <Shape><Polygon POINTS="3447 1346 3401 1366 3391 1366 3316 1431 3195 1467 3175 1482 3165 1482 3165 1487 3160 1487 3155 1487 3095 1567 2964 1612 3020 1703 3075 1793 3200 1718 3200 1713 3206 1713 3206 1708 3216 1688 3251 1617 3407 1547 3542 1477 3547 1477 3547 1472 3552 1472 3552 1467 3577 1411 3587 1391 3673 1341 3653 1306 3592 1215 3442 1331 3447 1346"/></Shape>
-            <String CONTENT="+au"
+            <String CONTENT="+"
                     HPOS="2964"
                     VPOS="1215"
                     WIDTH="709"
                     HEIGHT="578"
-                    WC="0.9999434550603231"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_3a38b9c1"
                     TAGREFS="LT10974"
@@ -86,12 +86,12 @@
                     WIDTH="799"
                     HEIGHT="166">
             <Shape><Polygon POINTS="2889 2979 2889 3024 3683 3024 3683 2969 3673 2883 2884 2858 2889 2979"/></Shape>
-            <String CONTENT="Gémaire, sergentrédeuiste"
+            <String CONTENT="Lemaire, sergent réserviste"
                     HPOS="2884"
                     VPOS="2858"
                     WIDTH="799"
                     HEIGHT="166"
-                    WC="0.964256642041383"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_c3413c34"
                     TAGREFS="LT10974"
@@ -101,12 +101,12 @@
                     WIDTH="573"
                     HEIGHT="105">
             <Shape><Polygon POINTS="2989 3064 2989 3104 3040 3104 3090 3104 3140 3104 3190 3104 3231 3104 3552 3084 3557 3054 3547 2999 2984 2999 2989 3064"/></Shape>
-            <String CONTENT="Commis Greffier"
+            <String CONTENT="Commis-Greffier"
                     HPOS="2984"
                     VPOS="2999"
                     WIDTH="573"
                     HEIGHT="105"
-                    WC="0.9933860739072163"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_a712634e"
                     TAGREFS="LT10974"
@@ -116,12 +116,12 @@
                     WIDTH="543"
                     HEIGHT="116">
             <Shape><Polygon POINTS="3487 3059 3437 3059 3386 3059 3336 3059 3286 3059 3236 3064 3185 3064 3135 3064 3085 3064 3035 3064 2984 3064 2989 3114 2989 3145 3417 3170 3442 3170 3442 3170 3462 3175 3467 3175 3472 3175 3477 3175 3527 3140 3527 3109 3512 3059 3487 3059"/></Shape>
-            <String CONTENT="Le Commes Greffier"
+            <String CONTENT="Le Commis Greffier"
                     HPOS="2984"
                     VPOS="3059"
                     WIDTH="543"
                     HEIGHT="116"
-                    WC="0.9911145501666598"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_7e7fc434"
                     TAGREFS="LT10974"
@@ -131,12 +131,12 @@
                     WIDTH="437"
                     HEIGHT="227">
             <Shape><Polygon POINTS="3457 3114 3407 3114 3361 3114 3055 3125 3065 3195 3070 3336 3341 3341 3346 3341 3351 3341 3356 3341 3417 3290 3422 3280 3492 3275 3487 3170 3467 3114 3457 3114"/></Shape>
-            <String CONTENT="Eure "
+            <String CONTENT="+"
                     HPOS="3055"
                     VPOS="3114"
                     WIDTH="437"
                     HEIGHT="227"
-                    WC="0.6231950998306275"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

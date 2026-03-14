@@ -22,21 +22,6 @@
                   WIDTH="3755"
                   HEIGHT="6102">
         <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_378e2cb9"
-                    TAGREFS="LT10974"
-                    BASELINE="23 244 54 210" 
-                    HPOS="0"
-                    VPOS="162"
-                    WIDTH="78"
-                    HEIGHT="115">
-            <Shape><Polygon POINTS="3 176 0 220 23 244 67 277 78 230 54 210 3 162 3 176"/></Shape>
-            <String CONTENT="+"
-                    HPOS="0"
-                    VPOS="162"
-                    WIDTH="78"
-                    HEIGHT="115"
-                    WC="0.9998824596405029"></String>
-          </TextLine>
           <TextLine ID="eSc_line_213e3f09"
                     TAGREFS="LT10974"
                     BASELINE="369 2457 1115 2308" 
@@ -60,12 +45,12 @@
                     WIDTH="953"
                     HEIGHT="305">
             <Shape><Polygon POINTS="291 2573 298 2606 1231 2393 1224 2349 1210 2301 278 2522 291 2573"/></Shape>
-            <String CONTENT="suspendu, par decisson de M le"
+            <String CONTENT="suspendue, par décision de M le"
                     HPOS="278"
                     VPOS="2301"
                     WIDTH="953"
                     HEIGHT="305"
-                    WC="0.9785282810529073"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_e1541a8f"
                     TAGREFS="LT10974"
@@ -120,12 +105,12 @@
                     WIDTH="481"
                     HEIGHT="316">
             <Shape><Polygon POINTS="644 3017 763 2959 769 2959 844 2956 848 2956 851 2956 1088 2806 1078 2783 1031 2701 993 2749 868 2813 824 2813 776 2817 773 2817 685 2857 681 2857 681 2861 678 2861 678 2864 658 2901 658 2908 607 2932 634 2993 644 3017"/></Shape>
-            <String CONTENT="A.Matteml"
+            <String CONTENT="+"
                     HPOS="607"
                     VPOS="2701"
                     WIDTH="481"
                     HEIGHT="316"
-                    WC="0.9648772544331021"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

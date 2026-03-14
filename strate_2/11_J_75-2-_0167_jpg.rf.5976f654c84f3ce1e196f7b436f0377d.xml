@@ -45,12 +45,12 @@
                     WIDTH="956"
                     HEIGHT="203">
             <Shape><Polygon POINTS="172 2515 176 2542 284 2552 288 2552 291 2552 295 2552 329 2525 332 2522 352 2522 502 2525 505 2525 508 2525 566 2495 912 2474 915 2474 980 2444 997 2434 1122 2423 1122 2396 1112 2349 166 2464 172 2515"/></Shape>
-            <String CONTENT="suspendue, par décision de Mle"
+            <String CONTENT="suspendue, par décision de M^ le"
                     HPOS="166"
                     VPOS="2349"
                     WIDTH="956"
                     HEIGHT="203"
-                    WC="0.9902916358363244"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_b3153386"
                     TAGREFS="LT10974"
@@ -75,12 +75,12 @@
                     WIDTH="790"
                     HEIGHT="180">
             <Shape><Polygon POINTS="183 2657 186 2698 966 2620 963 2559 949 2518 176 2603 183 2657"/></Shape>
-            <String CONTENT="en date du 5 Fevrier 1915."
+            <String CONTENT="en date du 5 Fevrier 1915"
                     HPOS="176"
                     VPOS="2518"
                     WIDTH="790"
                     HEIGHT="180"
-                    WC="0.9892609394513644"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_80cb9935"
                     TAGREFS="LT10974"
@@ -105,12 +105,12 @@
                     WIDTH="590"
                     HEIGHT="331">
             <Shape><Polygon POINTS="778 2679 767 2679 589 2791 518 2791 437 2786 432 2786 427 2786 422 2786 422 2791 417 2791 386 2847 376 2862 264 2898 289 2974 300 3005 559 2969 564 2969 854 2847 839 2781 788 2674 778 2679"/></Shape>
-            <String CONTENT="e.Matee"
+            <String CONTENT="+"
                     HPOS="264"
                     VPOS="2674"
                     WIDTH="590"
                     HEIGHT="331"
-                    WC="0.8425585542406354"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

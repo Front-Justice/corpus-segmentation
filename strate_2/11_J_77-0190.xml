@@ -30,12 +30,12 @@
                     WIDTH="345.0"
                     HEIGHT="561.0">
             <Shape><Polygon POINTS="318 3733 308 3733 308 3794 308 3839 546 4239 607 4209 653 4178 592 4032 592 4027 587 4027 501 3936 506 3890 506 3885 506 3880 506 3875 501 3875 501 3870 445 3834 455 3779 455 3774 455 3769 455 3764 404 3678 318 3733"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="308.0"
                     VPOS="3678.0"
                     WIDTH="345.0"
                     HEIGHT="561.0"
-                    ></String>
+                    WC="1.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_bce5fc09"
                     BASELINE="325 4712 305 3492" 
@@ -44,12 +44,12 @@
                     WIDTH="197.0"
                     HEIGHT="1225.0">
             <Shape><Polygon POINTS="379 3844 349 3794 318 3743 349 3738 349 3678 389 3627 389 3622 389 3617 389 3612 364 3485 303 3490 217 3490 202 3738 202 3738 232 3748 232 3799 232 3799 248 3829 248 4143 237 4153 242 4204 242 4254 242 4305 242 4355 248 4406 248 4457 248 4507 248 4558 248 4608 253 4659 253 4710 323 4710 364 4705 364 4452 399 4345 399 4340 399 4335 399 4330 369 4234 394 3875 394 3870 379 3844"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Rfsaire"
                     HPOS="202.0"
                     VPOS="3485.0"
                     WIDTH="197.0"
                     HEIGHT="1225.0"
-                    ></String>
+                    WC="0.8876055010727474"></String>
           </TextLine>
           <TextLine ID="eSc_line_0c58bc1f"
                     BASELINE="158 4837 121 3747" 
@@ -58,12 +58,12 @@
                     WIDTH="197.0"
                     HEIGHT="1098.0">
             <Shape><Polygon POINTS="116 3743 5 3743 10 4153 10 4158 10 4163 65 4224 86 4836 156 4836 182 4831 202 4447 202 4441 167 4269 167 3738 116 3743"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="enteie leu 31 Juillet 1917"
                     HPOS="5.0"
                     VPOS="3738.0"
                     WIDTH="197.0"
                     HEIGHT="1098.0"
-                    ></String>
+                    WC="0.908872338441702"></String>
           </TextLine>
           <TextLine ID="eSc_line_3575f0d1"
                     BASELINE="254 4840 228 3737" 
@@ -72,12 +72,12 @@
                     WIDTH="147.0"
                     HEIGHT="1108.0">
             <Shape><Polygon POINTS="227 3733 136 3733 136 4325 141 4330 141 4350 141 4355 167 4452 146 4543 146 4568 172 4649 156 4785 156 4831 253 4836 278 4831 283 3956 283 3951 248 3728 227 3733"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="pour 26 Juin 19117"
                     HPOS="136.0"
                     VPOS="3728.0"
                     WIDTH="147.0"
                     HEIGHT="1108.0"
-                    ></String>
+                    WC="0.9728337857458327"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

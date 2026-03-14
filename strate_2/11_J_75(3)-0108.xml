@@ -31,12 +31,12 @@
                     WIDTH="848.0"
                     HEIGHT="245.0">
             <Shape><Polygon POINTS="298 2439 305 2479 1129 2328 1122 2281 1109 2234 787 2295 757 2285 754 2285 750 2285 747 2285 744 2285 744 2288 740 2288 724 2308 656 2305 653 2305 650 2305 509 2352 455 2335 452 2335 449 2335 281 2365 298 2439"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Exécution du jugement suspendue"
                     HPOS="281.0"
                     VPOS="2234.0"
                     WIDTH="848.0"
                     HEIGHT="245.0"
-                    ></String>
+                    WC="0.9941730909049511"></String>
           </TextLine>
           <TextLine ID="eSc_line_f1b5be89"
                     TAGREFS="LT11707"
@@ -46,12 +46,12 @@
                     WIDTH="962.0"
                     HEIGHT="285.0">
             <Shape><Polygon POINTS="254 2546 258 2566 1203 2385 1196 2345 1179 2281 241 2482 254 2546"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="par décision de M^ le Général Com^t l&#x27;Armée"
                     HPOS="241.0"
                     VPOS="2281.0"
                     WIDTH="962.0"
                     HEIGHT="285.0"
-                    ></String>
+                    WC="0.9785405473506197"></String>
           </TextLine>
           <TextLine ID="eSc_line_2cf50215"
                     BASELINE="262 2620 1280 2412" 
@@ -60,12 +60,12 @@
                     WIDTH="1041.0"
                     HEIGHT="296.0">
             <Shape><Polygon POINTS="261 2618 261 2638 311 2628 362 2618 412 2603 457 2593 507 2588 507 2588 553 2583 673 2598 678 2598 683 2598 688 2598 749 2553 799 2573 804 2573 809 2573 814 2573 819 2573 819 2568 849 2538 1050 2522 1055 2522 1060 2522 1111 2482 1287 2482 1277 2407 1256 2342 246 2548 261 2618"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="en date du six Mars 1915. Cqente de jire de"
                     HPOS="246.0"
                     VPOS="2342.0"
                     WIDTH="1041.0"
                     HEIGHT="296.0"
-                    ></String>
+                    WC="0.8525505651568257"></String>
           </TextLine>
           <TextLine ID="eSc_line_e33aa79b"
                     BASELINE="244 2668 618 2588" 
@@ -74,12 +74,12 @@
                     WIDTH="392.0"
                     HEIGHT="160.0">
             <Shape><Polygon POINTS="578 2553 527 2563 477 2573 427 2588 377 2598 331 2608 281 2618 271 2588 226 2593 241 2663 251 2708 618 2618 613 2583 598 2548 578 2553"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="détention préventive"
                     HPOS="226.0"
                     VPOS="2548.0"
                     WIDTH="392.0"
                     HEIGHT="160.0"
-                    ></String>
+                    WC="0.9417141621763055"></String>
           </TextLine>
           <TextLine ID="eSc_line_b4ec774c"
                     TAGREFS="LT11707"
@@ -89,12 +89,12 @@
                     WIDTH="341.0"
                     HEIGHT="186.0">
             <Shape><Polygon POINTS="603 2588 553 2598 573 2663 583 2708 824 2693 829 2693 834 2693 834 2688 894 2628 884 2583 864 2522 628 2553 603 2588"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le Greffier"
                     HPOS="553.0"
                     VPOS="2522.0"
                     WIDTH="341.0"
                     HEIGHT="186.0"
-                    ></String>
+                    WC="0.9379770864139904"></String>
           </TextLine>
           <TextLine ID="eSc_line_6fa5a0ee"
                     TAGREFS="LT11707"
@@ -104,12 +104,12 @@
                     WIDTH="403.0"
                     HEIGHT="258.0">
             <Shape><Polygon POINTS="703 2847 1049 2697 1025 2646 995 2589 945 2613 894 2600 891 2600 888 2600 884 2600 881 2600 881 2603 787 2687 724 2677 720 2677 717 2677 713 2677 713 2680 710 2680 710 2683 703 2700 646 2713 683 2801 703 2847"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="646.0"
                     VPOS="2589.0"
                     WIDTH="403.0"
                     HEIGHT="258.0"
-                    ></String>
+                    WC="0.9999998807907104"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

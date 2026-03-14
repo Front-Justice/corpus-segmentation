@@ -45,12 +45,12 @@
                     WIDTH="956"
                     HEIGHT="250">
             <Shape><Polygon POINTS="296 2593 301 2629 1242 2481 1242 2440 1226 2379 286 2527 296 2593"/></Shape>
-            <String CONTENT="suspendue par décision de M^r"
+            <String CONTENT="suspendue par décision de M^"
                     HPOS="286"
                     VPOS="2379"
                     WIDTH="956"
                     HEIGHT="250"
-                    WC="0.9893361588319143"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_61b650e3"
                     TAGREFS="LT10974"
@@ -75,12 +75,12 @@
                     WIDTH="910"
                     HEIGHT="235">
             <Shape><Polygon POINTS="260 2741 265 2782 1155 2660 1155 2609 1139 2547 245 2665 260 2741"/></Shape>
-            <String CONTENT="-en date du 18 mars 1915"
+            <String CONTENT="en date du 18 mars 1915"
                     HPOS="245"
                     VPOS="2547"
                     WIDTH="910"
                     HEIGHT="235"
-                    WC="0.9919835527737936"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_03660467"
                     TAGREFS="LT10974"
@@ -105,12 +105,12 @@
                     WIDTH="453"
                     HEIGHT="286">
             <Shape><Polygon POINTS="571 3056 575 3066 653 3039 657 3039 735 3053 738 3053 742 3053 817 3022 820 3022 820 3019 881 2954 885 2947 895 2947 949 2944 953 2944 956 2944 956 2940 987 2910 977 2886 932 2780 857 2811 854 2811 854 2815 844 2821 803 2869 677 2910 663 2910 616 2906 612 2906 609 2906 605 2906 534 2964 571 3056"/></Shape>
-            <String CONTENT="+Mat"
+            <String CONTENT="+"
                     HPOS="534"
                     VPOS="2780"
                     WIDTH="453"
                     HEIGHT="286"
-                    WC="0.9834553897380829"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

@@ -43,12 +43,12 @@
                     WIDTH="1153"
                     HEIGHT="152">
             <Shape><Polygon POINTS="1162 2713 1111 2713 1061 2713 1010 2713 959 2713 908 2713 857 2713 807 2718 756 2718 705 2718 654 2718 604 2718 553 2718 502 2718 451 2723 401 2723 350 2723 299 2723 248 2723 197 2723 147 2723 96 2723 91 2708 45 2708 50 2805 50 2835 609 2860 614 2860 1193 2825 1198 2784 1182 2713 1162 2713"/></Shape>
-            <String CONTENT="recevoir au exécution le 20 Mai 1917"
+            <String CONTENT="recevoir son exécution le 30 Mai 1917"
                     HPOS="45"
                     VPOS="2708"
                     WIDTH="1153"
                     HEIGHT="152"
-                    WC="0.9331057289162198"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_db06ae02"
                     BASELINE="308 2894 666 2882" 
@@ -57,12 +57,12 @@
                     WIDTH="366"
                     HEIGHT="152">
             <Shape><Polygon POINTS="304 2891 304 2942 477 2972 482 2972 487 2972 492 2972 548 2936 563 2931 659 2931 665 2881 649 2820 299 2825 304 2891"/></Shape>
-            <String CONTENT="Le greffier."
+            <String CONTENT="Le greffier"
                     HPOS="299"
                     VPOS="2820"
                     WIDTH="366"
                     HEIGHT="152"
-                    WC="0.9776506572961807"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_8c25699b"
                     BASELINE="301 3078 891 2955" 
@@ -71,12 +71,12 @@
                     WIDTH="614"
                     HEIGHT="244">
             <Shape><Polygon POINTS="299 3073 304 3094 451 3094 456 3094 461 3094 507 3063 512 3058 517 3063 543 3079 548 3079 553 3079 558 3079 563 3079 654 3038 695 3058 700 3058 705 3058 710 3058 893 2992 888 2952 852 2850 695 2911 619 2911 538 2911 533 2911 527 2911 522 2911 487 2942 477 2952 472 2947 441 2931 436 2931 431 2931 426 2931 279 2992 299 3073"/></Shape>
-            <String CONTENT="M. Chibant"
+            <String CONTENT="+"
                     HPOS="279"
                     VPOS="2850"
                     WIDTH="614"
                     HEIGHT="244"
-                    WC="0.9401183068752289"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

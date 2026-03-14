@@ -31,12 +31,12 @@
                     WIDTH="955.0"
                     HEIGHT="422.0">
             <Shape><Polygon POINTS="140 2618 150 2653 1070 2362 1050 2296 1025 2231 779 2286 774 2286 769 2286 769 2291 764 2291 764 2296 744 2331 558 2372 553 2372 548 2372 462 2432 281 2462 276 2462 115 2548 140 2618"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Peince pour compter du treize denvie 191"
                     HPOS="115.0"
                     VPOS="2231.0"
                     WIDTH="955.0"
                     HEIGHT="422.0"
-                    ></String>
+                    WC="0.8905847236514092"></String>
           </TextLine>
           <TextLine ID="eSc_line_456a487a"
                     TAGREFS="LT11707"
@@ -46,12 +46,12 @@
                     WIDTH="275.0"
                     HEIGHT="228.0">
             <Shape><Polygon POINTS="599 2583 623 2633 656 2643 660 2643 663 2643 667 2643 754 2603 757 2603 757 2600 760 2600 760 2596 781 2543 848 2512 831 2476 801 2415 573 2529 599 2583"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le Greffier"
                     HPOS="573.0"
                     VPOS="2415.0"
                     WIDTH="275.0"
                     HEIGHT="228.0"
-                    ></String>
+                    WC="0.9997884956273165"></String>
           </TextLine>
           <TextLine ID="eSc_line_9c341212"
                     TAGREFS="LT11707"
@@ -61,12 +61,12 @@
                     WIDTH="463.0"
                     HEIGHT="337.0">
             <Shape><Polygon POINTS="724 2799 935 2718 940 2718 1111 2573 1096 2538 1050 2462 879 2527 874 2527 874 2533 789 2608 648 2643 698 2749 724 2799"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="648.0"
                     VPOS="2462.0"
                     WIDTH="463.0"
                     HEIGHT="337.0"
-                    ></String>
+                    WC="1.0"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

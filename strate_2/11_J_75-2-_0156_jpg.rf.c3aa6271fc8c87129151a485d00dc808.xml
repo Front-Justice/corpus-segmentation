@@ -29,12 +29,12 @@
                     WIDTH="884"
                     HEIGHT="161">
             <Shape><Polygon POINTS="2884 2868 2884 2914 3758 2924 3763 2853 3748 2763 2879 2788 2884 2868"/></Shape>
-            <String CONTENT="Lémaire, sergent réserviste"
+            <String CONTENT="Lemaire, sergent réserviste"
                     HPOS="2879"
                     VPOS="2763"
                     WIDTH="884"
                     HEIGHT="161"
-                    WC="0.9830906308930496"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_e03f272d"
                     BASELINE="2878 2978 3576 2935" 
@@ -58,12 +58,12 @@
                     WIDTH="540"
                     HEIGHT="110">
             <Shape><Polygon POINTS="2972 3044 2972 3081 3324 3101 3328 3101 3331 3101 3405 3064 3408 3061 3509 3058 3509 3034 3499 2991 2969 2997 2972 3044"/></Shape>
-            <String CONTENT="Le Commes Greffier"
+            <String CONTENT="Le Commis-Greffier"
                     HPOS="2969"
                     VPOS="2991"
                     WIDTH="540"
                     HEIGHT="110"
-                    WC="0.9971890780660841"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_a7ee8db2"
                     TAGREFS="LT10974"
@@ -73,27 +73,12 @@
                     WIDTH="375"
                     HEIGHT="178">
             <Shape><Polygon POINTS="3070 3138 3073 3208 3130 3232 3133 3232 3137 3232 3217 3225 3220 3225 3224 3225 3321 3161 3344 3145 3438 3138 3438 3104 3431 3054 3204 3084 3063 3081 3070 3138"/></Shape>
-            <String CONTENT="+Lea"
+            <String CONTENT="+"
                     HPOS="3063"
                     VPOS="3054"
                     WIDTH="375"
                     HEIGHT="178"
-                    WC="0.9720849543809891"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_c75eecb3"
-                    TAGREFS="LT10974"
-                    BASELINE="2031 4705 2215 4709" 
-                    HPOS="2027"
-                    VPOS="4665"
-                    WIDTH="188"
-                    HEIGHT="84">
-            <Shape><Polygon POINTS="2031 4705 2027 4749 2212 4746 2215 4709 2212 4665 2031 4665 2031 4705"/></Shape>
-            <String CONTENT="+"
-                    HPOS="2027"
-                    VPOS="4665"
-                    WIDTH="188"
-                    HEIGHT="84"
-                    WC="0.9979521632194519"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

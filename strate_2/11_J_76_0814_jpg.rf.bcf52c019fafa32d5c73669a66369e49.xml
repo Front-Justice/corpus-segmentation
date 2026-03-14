@@ -29,12 +29,12 @@
                     WIDTH="1461"
                     HEIGHT="147">
             <Shape><Polygon POINTS="45 2800 45 2820 1496 2810 1501 2784 1486 2673 40 2693 45 2800"/></Shape>
-            <String CONTENT="Le présent jugement a commencé à Lecuvni"
+            <String CONTENT="Le présent jugement a commencé à recevoir"
                     HPOS="40"
                     VPOS="2673"
                     WIDTH="1461"
                     HEIGHT="147"
-                    WC="0.9841185336889222"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_0c42a930"
                     BASELINE="44 2896 1522 2874" 
@@ -71,12 +71,12 @@
                     WIDTH="380"
                     HEIGHT="173">
             <Shape><Polygon POINTS="700 2982 649 2982 598 2982 548 2982 522 2982 345 2987 350 3068 350 3109 411 3150 416 3150 421 3150 426 3155 527 3155 527 3150 532 3150 537 3150 608 3099 725 3099 725 3058 710 2982 700 2982"/></Shape>
-            <String CONTENT="Le grefficer"
+            <String CONTENT="Le greffier"
                     HPOS="345"
                     VPOS="2982"
                     WIDTH="380"
                     HEIGHT="173"
-                    WC="0.9757759521404902"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_13f1af97"
                     BASELINE="113 3318 635 3180 765 3145" 

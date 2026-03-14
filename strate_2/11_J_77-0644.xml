@@ -30,12 +30,12 @@
                     WIDTH="338.0"
                     HEIGHT="591.0">
             <Shape><Polygon POINTS="434 3647 424 3647 434 3657 434 3718 434 3773 434 3778 656 4213 727 4192 757 4172 762 4096 762 4091 762 4086 762 4081 601 3879 540 3672 540 3667 535 3667 535 3662 474 3622 434 3647"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="424.0"
                     VPOS="3622.0"
                     WIDTH="338.0"
                     HEIGHT="591.0"
-                    ></String>
+                    WC="1.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_48d4a96e"
                     TAGREFS="LT11707"
@@ -45,12 +45,12 @@
                     WIDTH="172.0"
                     HEIGHT="1207.0">
             <Shape><Polygon POINTS="429 3450 353 3450 373 4652 439 4652 495 4642 485 4405 525 4339 525 4334 525 4329 525 4324 525 4319 480 4213 480 3874 520 3753 520 3748 520 3743 510 3445 429 3450"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="&#x27;Officier d&#x27;Administration Greffier"
                     HPOS="353.0"
                     VPOS="3445.0"
                     WIDTH="172.0"
                     HEIGHT="1207.0"
-                    ></String>
+                    WC="0.9672620892524719"></String>
           </TextLine>
           <TextLine ID="eSc_line_763fad45"
                     TAGREFS="LT11707"
@@ -60,12 +60,12 @@
                     WIDTH="131.0"
                     HEIGHT="1496.0">
             <Shape><Polygon POINTS="161 3323 101 3323 116 4814 181 4814 232 4809 197 3318 161 3323"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le présent jucerent à commencé a recevoir son"
                     HPOS="101.0"
                     VPOS="3318.0"
                     WIDTH="131.0"
                     HEIGHT="1496.0"
-                    ></String>
+                    WC="0.9721418470144272"></String>
           </TextLine>
           <TextLine ID="eSc_line_4105c533"
                     TAGREFS="LT11707"
@@ -75,12 +75,12 @@
                     WIDTH="182.0"
                     HEIGHT="1172.0">
             <Shape><Polygon POINTS="328 3647 242 3647 277 3854 293 4814 363 4814 424 4804 394 4415 409 4202 409 4197 409 4192 409 4187 378 4137 404 4066 404 4061 404 4056 404 4051 373 3940 399 3819 399 3814 358 3642 328 3647"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="pour compter du 17 août 1917."
                     HPOS="242.0"
                     VPOS="3642.0"
                     WIDTH="182.0"
                     HEIGHT="1172.0"
-                    ></String>
+                    WC="0.9880877395470937"></String>
           </TextLine>
           <TextLine ID="eSc_line_767c9635"
                     TAGREFS="LT11707"
@@ -90,12 +90,12 @@
                     WIDTH="177.0"
                     HEIGHT="1652.0">
             <Shape><Polygon POINTS="232 3268 141 3268 151 3344 166 3349 166 3399 166 3450 166 3450 181 3561 192 4915 288 4915 318 4910 298 3263 232 3268"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="exécution le 20 octobre 1a la parade"
                     HPOS="141.0"
                     VPOS="3263.0"
                     WIDTH="177.0"
                     HEIGHT="1652.0"
-                    ></String>
+                    WC="0.9813652151339763"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

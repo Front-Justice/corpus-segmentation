@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_75(3)-0654.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT11711" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3585"
+          HEIGHT="6087"
+          PHYSICAL_IMG_NR="42"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3585"
+                  HEIGHT="6087">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_eafe35a0"
+                    TAGREFS="LT11711"
+                    BASELINE="37 2715 1247 2698" 
+                    HPOS="33"
+                    VPOS="2549"
+                    WIDTH="1214"
+                    HEIGHT="223">
+            <Shape><Polygon POINTS="37 2715 37 2759 456 2772 459 2772 463 2772 520 2745 794 2745 831 2766 835 2766 838 2766 842 2766 845 2766 936 2742 974 2766 977 2766 980 2766 984 2766 987 2766 990 2766 990 2762 1014 2739 1244 2729 1247 2698 1237 2549 1078 2553 1075 2553 1072 2553 970 2610 750 2610 747 2610 744 2610 740 2610 740 2614 710 2641 612 2624 608 2624 605 2624 602 2624 574 2644 382 2634 378 2634 375 2634 372 2634 372 2637 351 2654 260 2654 179 2583 175 2583 172 2583 169 2583 165 2583 162 2583 71 2647 33 2647 37 2715"/></Shape>
+            <String CONTENT=""
+                    HPOS="33"
+                    VPOS="2549"
+                    WIDTH="1214"
+                    HEIGHT="223"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_adab6012"
+                    TAGREFS="LT11711"
+                    BASELINE="37 2810 1339 2789" 
+                    HPOS="33"
+                    VPOS="2701"
+                    WIDTH="1306"
+                    HEIGHT="153">
+            <Shape><Polygon POINTS="1207 2701 1204 2701 1200 2701 1045 2756 906 2732 903 2732 899 2732 818 2759 703 2739 700 2739 696 2739 693 2739 693 2742 669 2762 605 2742 602 2742 598 2742 426 2766 375 2722 375 2718 372 2718 368 2718 365 2718 361 2718 358 2718 284 2762 33 2752 37 2810 37 2837 439 2850 443 2850 571 2833 598 2854 602 2854 605 2854 608 2854 612 2854 686 2830 852 2830 872 2847 875 2847 879 2847 882 2847 1001 2827 1335 2833 1339 2789 1332 2701 1217 2701 1207 2701"/></Shape>
+            <String CONTENT=""
+                    HPOS="33"
+                    VPOS="2701"
+                    WIDTH="1306"
+                    HEIGHT="153"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_26d14f00"
+                    TAGREFS="LT11711"
+                    BASELINE="60 2904 1268 2877" 
+                    HPOS="57"
+                    VPOS="2810"
+                    WIDTH="1211"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="60 2904 60 2931 1268 2921 1268 2877 1258 2810 1109 2830 1021 2813 1018 2813 1014 2813 940 2833 659 2820 656 2820 652 2820 605 2843 57 2843 60 2904"/></Shape>
+            <String CONTENT=""
+                    HPOS="57"
+                    VPOS="2810"
+                    WIDTH="1211"
+                    HEIGHT="121"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f8f63b42"
+                    TAGREFS="LT11711"
+                    BASELINE="287 2979 676 2969" 
+                    HPOS="284"
+                    VPOS="2914"
+                    WIDTH="392"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="287 2979 287 3016 541 3029 544 3029 676 3006 676 2969 666 2918 385 2931 304 2914 301 2914 297 2914 294 2914 294 2918 290 2918 284 2921 287 2979"/></Shape>
+            <String CONTENT=""
+                    HPOS="284"
+                    VPOS="2914"
+                    WIDTH="392"
+                    HEIGHT="115"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1f5d0ae1"
+                    TAGREFS="LT11711"
+                    BASELINE="96 3217 344 3124 574 3097" 
+                    HPOS="66"
+                    VPOS="2906"
+                    WIDTH="517"
+                    HEIGHT="325">
+            <Shape><Polygon POINTS="91 3215 91 3231 182 3231 182 3226 187 3226 299 3165 390 3195 396 3195 401 3195 406 3195 411 3195 462 3150 583 3144 573 3094 517 2906 375 2936 370 2936 365 2936 365 2942 360 2942 269 3068 66 3119 91 3215"/></Shape>
+            <String CONTENT=""
+                    HPOS="66"
+                    VPOS="2906"
+                    WIDTH="517"
+                    HEIGHT="325"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

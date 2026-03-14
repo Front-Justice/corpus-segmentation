@@ -45,12 +45,12 @@
                     WIDTH="1718"
                     HEIGHT="1146">
             <Shape><Polygon POINTS="55 1210 90 1266 341 1060 653 914 658 914 658 909 663 909 663 904 683 854 788 828 793 828 798 828 798 823 804 823 869 743 994 718 999 718 1005 718 1005 713 1010 713 1075 617 1200 592 1206 592 1211 592 1211 587 1216 587 1216 582 1236 527 1336 512 1341 512 1346 512 1346 507 1351 507 1422 432 1728 276 1698 216 1633 120 1608 150 1587 150 1447 125 1442 125 1437 125 1432 125 1105 316 1105 321 1100 321 1100 326 1010 507 999 537 949 547 894 562 889 562 884 562 884 567 879 567 854 607 834 638 804 638 743 643 738 643 733 643 603 758 502 773 497 773 492 773 492 778 487 778 381 899 271 929 266 929 266 934 261 934 185 1024 175 1040 165 1040 115 1040 110 1040 105 1040 100 1040 100 1045 10 1130 55 1210"/></Shape>
-            <String CONTENT="Remuise du restant de la veine a été ncet l1"
+            <String CONTENT="Remise du restant de la peine a été accordée"
                     HPOS="10"
                     VPOS="120"
                     WIDTH="1718"
                     HEIGHT="1146"
-                    WC="0.8501130543325258"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_8c6d02b7"
                     BASELINE="753 1323 1243 888" 
@@ -73,12 +73,12 @@
                     WIDTH="1472"
                     HEIGHT="990">
             <Shape><Polygon POINTS="50 1411 85 1462 195 1351 266 1351 266 1346 271 1346 276 1346 276 1341 281 1341 281 1336 351 1251 502 1160 552 1160 567 1160 572 1160 577 1160 582 1160 582 1155 587 1155 608 1125 648 1070 738 1040 824 1014 829 1014 829 1009 939 914 954 899 964 894 1085 859 1090 859 1090 854 1095 854 1160 768 1175 748 1200 743 1341 703 1346 703 1346 698 1477 557 1472 547 1422 472 1160 617 1095 617 1090 617 1085 617 1080 617 1080 622 1075 622 1030 703 879 753 874 753 874 758 869 758 869 763 849 818 773 818 768 818 763 818 758 818 758 823 753 823 703 904 628 894 623 894 618 894 613 894 512 954 447 994 447 999 442 999 442 1004 422 1070 351 1065 346 1065 341 1065 336 1065 336 1070 331 1070 331 1075 316 1130 281 1125 276 1125 271 1125 266 1125 266 1130 261 1130 231 1185 145 1195 140 1195 135 1195 135 1200 5 1331 50 1411"/></Shape>
-            <String CONTENT="par Décret en dat^e 1a, du 8 Juillet 1919."
+            <String CONTENT="par Décret en date du 8 Juillet 1919."
                     HPOS="5"
                     VPOS="472"
                     WIDTH="1472"
                     HEIGHT="990"
-                    WC="0.9548832947431609"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_154ad23d"
                     BASELINE="382 4802 1285 4288" 
@@ -87,12 +87,12 @@
                     WIDTH="980"
                     HEIGHT="613">
             <Shape><Polygon POINTS="381 4798 402 4833 849 4602 854 4602 854 4597 859 4597 894 4546 909 4531 959 4511 1140 4436 1145 4436 1296 4315 1281 4285 1241 4220 1155 4270 1145 4270 1090 4260 1085 4260 1080 4260 1075 4260 1075 4265 1070 4265 1025 4330 989 4330 984 4330 979 4330 974 4330 874 4411 748 4506 582 4556 477 4592 472 4592 316 4687 381 4798"/></Shape>
-            <String CONTENT="Per décèrion du Général"
+            <String CONTENT="Par décision du Général"
                     HPOS="316"
                     VPOS="4220"
                     WIDTH="980"
                     HEIGHT="613"
-                    WC="0.9205833187809697"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_c5427fc1"
                     BASELINE="2180 4849 2339 4772 3177 4280 3311 4183 3643 4012" 
@@ -101,12 +101,12 @@
                     WIDTH="1523"
                     HEIGHT="960">
             <Shape><Polygon POINTS="2175 4848 2211 4903 3658 4049 3638 4009 3597 3943 3336 4059 3331 4059 3135 4210 3085 4210 3080 4210 3075 4210 3070 4210 3070 4215 2989 4300 2989 4305 2984 4305 2919 4305 2914 4305 2909 4305 2904 4305 2904 4310 2899 4310 2899 4315 2879 4366 2874 4366 2738 4411 2733 4411 2537 4561 2527 4571 2517 4571 2346 4632 2180 4727 2175 4727 2175 4732 2170 4732 2135 4783 2175 4848"/></Shape>
-            <String CONTENT="Le présent jugement a commenée à recevoir son"
+            <String CONTENT="Le présent jugement a commencé à recevoir son"
                     HPOS="2135"
                     VPOS="3943"
                     WIDTH="1523"
                     HEIGHT="960"
-                    WC="0.981526605784893"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_e29b1523"
                     BASELINE="329 4921 1456 4296" 
@@ -115,12 +115,12 @@
                     WIDTH="1181"
                     HEIGHT="708">
             <Shape><Polygon POINTS="326 4918 341 4948 1472 4340 1452 4295 1417 4240 291 4853 326 4918"/></Shape>
-            <String CONTENT="Commandant la IV^e armée, en"
+            <String CONTENT="Commandant la IVe armée, en"
                     HPOS="291"
                     VPOS="4240"
                     WIDTH="1181"
                     HEIGHT="708"
-                    WC="0.9855076978946554"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_b3328209"
                     TAGREFS="LT10974"
@@ -130,12 +130,12 @@
                     WIDTH="409"
                     HEIGHT="268">
             <Shape><Polygon POINTS="2741 4933 2798 4930 2801 4930 2805 4930 2805 4927 2848 4876 2852 4876 2855 4876 2905 4883 2909 4883 2912 4883 2982 4849 2986 4849 2986 4846 2989 4846 2989 4843 3016 4789 3019 4779 3113 4736 3103 4709 3080 4665 2996 4702 2956 4699 2952 4699 2949 4699 2946 4699 2704 4846 2721 4893 2741 4933"/></Shape>
-            <String CONTENT="Le Greffier-"
+            <String CONTENT="Le Greffier"
                     HPOS="2704"
                     VPOS="4665"
                     WIDTH="409"
                     HEIGHT="268"
-                    WC="0.9081752399603525"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_e745c89b"
                     BASELINE="325 5036 1545 4318" 
@@ -158,12 +158,12 @@
                     WIDTH="1588"
                     HEIGHT="1010">
             <Shape><Polygon POINTS="3517 4074 3472 4099 3462 4099 3175 4270 3170 4280 3140 4295 3095 4320 3085 4330 3075 4330 2045 4948 2085 5009 2115 5059 3633 4170 3608 4124 3562 4049 3517 4074"/></Shape>
-            <String CONTENT="execution le six féarier 1915, à la parade, jour ou"
+            <String CONTENT="execution le six février 1915, à la parade, jour où"
                     HPOS="2045"
                     VPOS="4049"
                     WIDTH="1588"
                     HEIGHT="1010"
-                    WC="0.924142857205193"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_756ab4c5"
                     BASELINE="2154 5072 2208 5034 3080 4518 3435 4337" 
@@ -172,12 +172,12 @@
                     WIDTH="1347"
                     HEIGHT="834">
             <Shape><Polygon POINTS="2150 5069 2165 5099 3452 4376 3432 4335 3386 4265 2105 5004 2150 5069"/></Shape>
-            <String CONTENT="le condamne a subi la dégradation imilitaire:"
+            <String CONTENT="le condamné a subi la dégradation militaire"
                     HPOS="2105"
                     VPOS="4265"
                     WIDTH="1347"
                     HEIGHT="834"
-                    WC="0.9914323156294615"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_47df1ea5"
                     TAGREFS="LT10974"
@@ -202,12 +202,12 @@
                     WIDTH="409"
                     HEIGHT="362">
             <Shape><Polygon POINTS="3063 4769 2892 4886 2892 4890 2889 4890 2889 4893 2885 4903 2872 4937 2744 5007 2778 5064 2838 5131 2872 5074 2989 5014 3043 4983 3046 4983 3046 4980 3049 4980 3049 4977 3059 4957 3090 4890 3153 4883 3100 4809 3063 4769"/></Shape>
-            <String CONTENT="A.Matieie"
+            <String CONTENT="+"
                     HPOS="2744"
                     VPOS="4769"
                     WIDTH="409"
                     HEIGHT="362"
-                    WC="0.8399739099873437"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_ce26d66c"
                     BASELINE="320 5155 1571 4411" 
@@ -216,12 +216,12 @@
                     WIDTH="1316"
                     HEIGHT="865">
             <Shape><Polygon POINTS="1497 4340 266 5074 316 5154 346 5200 417 5129 482 5119 522 5109 527 5109 532 5109 532 5104 537 5104 567 5064 608 5019 648 5014 693 5009 698 5009 703 5009 703 5004 708 5004 708 4999 718 4973 723 4953 874 4873 1301 4647 1306 4647 1311 4642 1341 4617 1381 4587 1422 4556 1427 4551 1582 4436 1567 4406 1512 4335 1497 4340"/></Shape>
-            <String CONTENT="de la peine prononcée par le prérent"
+            <String CONTENT="de la peine prononcée par le présent"
                     HPOS="266"
                     VPOS="4335"
                     WIDTH="1316"
                     HEIGHT="865"
-                    WC="0.9656856326680434"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_cccba5ed"
                     TAGREFS="LT10974"
@@ -231,12 +231,12 @@
                     WIDTH="1266"
                     HEIGHT="834">
             <Shape><Polygon POINTS="683 4938 643 4963 597 4988 557 5014 512 5039 467 5064 427 5089 381 5114 341 5139 336 5134 296 5159 351 5250 381 5295 1562 4577 1532 4521 1492 4461 708 4918 683 4938"/></Shape>
-            <String CONTENT="jugement a été supenour sous la"
+            <String CONTENT="jugement a été suspendue sous la"
                     HPOS="296"
                     VPOS="4461"
                     WIDTH="1266"
                     HEIGHT="834"
-                    WC="0.9785152998837557"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_406b6b38"
                     TAGREFS="LT10974"

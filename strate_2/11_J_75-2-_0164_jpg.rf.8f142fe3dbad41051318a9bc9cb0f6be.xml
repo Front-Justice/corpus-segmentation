@@ -30,12 +30,12 @@
                     WIDTH="911"
                     HEIGHT="147">
             <Shape><Polygon POINTS="291 1256 291 1279 998 1272 1196 1239 1199 1222 1193 1152 1102 1152 1082 1135 1082 1132 1079 1132 1075 1132 1072 1132 1069 1132 1025 1152 925 1138 921 1138 918 1138 914 1138 878 1162 700 1168 663 1145 660 1145 656 1145 653 1145 532 1168 506 1152 502 1152 499 1152 496 1152 338 1158 335 1158 288 1182 291 1256"/></Shape>
-            <String CONTENT="Rehabilité par arret de la"
+            <String CONTENT="Rehabilité par arrêt de la"
                     HPOS="288"
                     VPOS="1132"
                     WIDTH="911"
                     HEIGHT="147"
-                    WC="0.9424382668954355"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_42dd385a"
                     TAGREFS="LT10974"
@@ -45,12 +45,12 @@
                     WIDTH="1026"
                     HEIGHT="154">
             <Shape><Polygon POINTS="234 1346 234 1379 549 1379 553 1379 613 1359 626 1356 666 1356 861 1363 864 1363 1253 1316 1253 1286 1243 1225 1193 1245 1092 1232 1075 1232 1072 1232 1069 1232 1062 1235 1005 1256 918 1245 914 1245 693 1272 630 1256 609 1252 606 1252 603 1252 599 1252 586 1259 556 1272 529 1262 512 1256 509 1256 506 1256 398 1262 395 1262 392 1262 385 1269 361 1286 227 1279 234 1346"/></Shape>
-            <String CONTENT="Cour d&#x27;Appel de doncis, en date"
+            <String CONTENT="Cour d&#x27;Appel de Douai, en date"
                     HPOS="227"
                     VPOS="1225"
                     WIDTH="1026"
                     HEIGHT="154"
-                    WC="0.9834199547767639"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_12a2bd8f"
                     TAGREFS="LT10974"
@@ -60,12 +60,12 @@
                     WIDTH="550"
                     HEIGHT="107">
             <Shape><Polygon POINTS="258 1426 258 1443 801 1426 801 1379 790 1336 251 1359 258 1426"/></Shape>
-            <String CONTENT="du 1^e mai 1919"
+            <String CONTENT="du 15 mai 1919"
                     HPOS="251"
                     VPOS="1336"
                     WIDTH="550"
                     HEIGHT="107"
-                    WC="0.9624074737230937"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_c6499e82"
                     TAGREFS="LT10974"
@@ -75,12 +75,12 @@
                     WIDTH="402"
                     HEIGHT="131">
             <Shape><Polygon POINTS="477 1512 477 1527 869 1522 869 1477 854 1396 467 1436 477 1512"/></Shape>
-            <String CONTENT="de, 10-6-19"
+            <String CONTENT="Le 10-6-19"
                     HPOS="467"
                     VPOS="1396"
                     WIDTH="402"
                     HEIGHT="131"
-                    WC="0.9813285199078646"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_b50ff2ee"
                     TAGREFS="LT10974"
@@ -90,12 +90,12 @@
                     WIDTH="327"
                     HEIGHT="131">
             <Shape><Polygon POINTS="964 1462 934 1391 909 1391 919 1472 919 1502 1085 1492 1120 1487 1170 1477 1170 1487 1236 1487 1236 1441 1221 1371 979 1386 964 1462"/></Shape>
-            <String CONTENT="Le Greffice:"
+            <String CONTENT="Le Greffier"
                     HPOS="909"
                     VPOS="1371"
                     WIDTH="327"
                     HEIGHT="131"
-                    WC="0.9063452407717705"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_df8a4c31"
                     TAGREFS="LT10974"
