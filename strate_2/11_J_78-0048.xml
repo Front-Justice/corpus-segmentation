@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_78-0048.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT11711" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3513"
+          HEIGHT="6095"
+          PHYSICAL_IMG_NR="452"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3513"
+                  HEIGHT="6095">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_77f6e38f"
+                    TAGREFS="LT11711"
+                    BASELINE="667 4374 657 4269 586 4110 371 3649 333 3598" 
+                    HPOS="274"
+                    VPOS="3540"
+                    WIDTH="534"
+                    HEIGHT="838">
+            <Shape><Polygon POINTS="330 3596 274 3621 284 3641 340 3631 335 3687 330 3728 447 3951 594 4378 665 4373 808 4296 691 4154 696 4068 696 4063 696 4058 655 3971 655 3966 650 3966 549 3870 549 3809 543 3804 543 3799 543 3794 452 3667 447 3540 330 3596"/></Shape>
+            <String CONTENT=""
+                    HPOS="274"
+                    VPOS="3540"
+                    WIDTH="534"
+                    HEIGHT="838"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_331afe5a"
+                    TAGREFS="LT11711"
+                    BASELINE="37 4817 77 3230" 
+                    HPOS="0"
+                    VPOS="3220"
+                    WIDTH="116"
+                    HEIGHT="1595">
+            <Shape><Polygon POINTS="5 3235 5 3286 5 3337 5 3387 5 3438 5 3489 5 3540 5 3590 5 3641 5 3692 5 3743 5 3794 5 3844 5 3895 5 3946 5 3997 5 4048 5 4098 5 4149 5 4200 5 4251 5 4302 5 4352 5 4403 5 4454 5 4505 5 4556 5 4606 5 4657 5 4708 5 4759 0 4799 35 4815 96 4815 116 3225 76 3225 5 3220 5 3235"/></Shape>
+            <String CONTENT=""
+                    HPOS="0"
+                    VPOS="3220"
+                    WIDTH="116"
+                    HEIGHT="1595"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_edc46871"
+                    TAGREFS="LT11711"
+                    BASELINE="318 4645 328 3761 341 3650 331 3382" 
+                    HPOS="228"
+                    VPOS="3377"
+                    WIDTH="224"
+                    HEIGHT="1265">
+            <Shape><Polygon POINTS="330 3377 228 3377 254 3651 233 4632 315 4642 452 4637 452 4393 447 4388 447 4383 366 4225 366 3982 421 3900 421 3895 421 3890 421 3885 421 3880 360 3662 406 3479 406 3474 406 3469 406 3463 360 3377 330 3377"/></Shape>
+            <String CONTENT=""
+                    HPOS="228"
+                    VPOS="3377"
+                    WIDTH="224"
+                    HEIGHT="1265"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4138d95e"
+                    TAGREFS="LT11711"
+                    BASELINE="237 4774 226 4486 237 3650" 
+                    HPOS="162"
+                    VPOS="3646"
+                    WIDTH="136"
+                    HEIGHT="1128">
+            <Shape><Polygon POINTS="237 3650 179 3646 179 4591 162 4771 237 4774 287 4767 264 4608 287 4378 287 4374 287 4371 287 4368 267 4334 267 4185 294 4097 294 4093 298 4093 298 3721 294 3717 294 3714 267 3650 237 3650"/></Shape>
+            <String CONTENT=""
+                    HPOS="162"
+                    VPOS="3646"
+                    WIDTH="136"
+                    HEIGHT="1128"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4f888905"
+                    TAGREFS="LT11711"
+                    BASELINE="135 4801 155 3206" 
+                    HPOS="67"
+                    VPOS="3203"
+                    WIDTH="136"
+                    HEIGHT="1598">
+            <Shape><Polygon POINTS="155 3206 101 3203 84 3321 84 3325 101 3457 81 3487 81 3491 81 3494 81 3497 98 3704 77 3772 77 3775 77 3778 94 3948 74 4019 74 4022 74 4026 74 4029 91 4063 74 4236 74 4239 74 4242 74 4246 91 4266 91 4425 67 4537 67 4540 84 4798 135 4801 165 4801 186 4662 186 4659 186 4655 169 4622 182 4476 182 4473 165 4334 193 4269 193 4266 193 4263 169 4059 189 4012 189 4009 189 4005 172 3917 193 3887 193 3883 193 3880 193 3877 172 3761 196 3707 196 3704 203 3463 203 3460 179 3206 155 3206"/></Shape>
+            <String CONTENT=""
+                    HPOS="67"
+                    VPOS="3203"
+                    WIDTH="136"
+                    HEIGHT="1598"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

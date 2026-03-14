@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>11_J_78-0589.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT11711" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="3552"
+          HEIGHT="6079"
+          PHYSICAL_IMG_NR="449"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3552"
+                  HEIGHT="6079">
+        <TextBlock ID="eSc_dummyblock_">
+          <TextLine ID="eSc_line_6b8ebe71"
+                    BASELINE="2185 1870 3102 938" 
+                    HPOS="2031"
+                    VPOS="876"
+                    WIDTH="1090"
+                    HEIGHT="1013">
+            <Shape><Polygon POINTS="2183 1869 2204 1889 2847 1286 2852 1286 3121 957 3101 937 3035 876 2898 1023 2721 1028 2715 1028 2710 1028 2710 1033 2644 1104 2639 1104 2639 1109 2639 1114 2614 1291 2523 1342 2523 1347 2518 1347 2518 1352 2472 1448 2330 1580 2173 1585 2168 1585 2163 1585 2163 1590 2031 1717 2183 1869"/></Shape>
+            <String CONTENT=""
+                    HPOS="2031"
+                    VPOS="876"
+                    WIDTH="1090"
+                    HEIGHT="1013"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0ba584fe"
+                    BASELINE="2261 1971 3287 885" 
+                    HPOS="2183"
+                    VPOS="825"
+                    WIDTH="1115"
+                    HEIGHT="1176">
+            <Shape><Polygon POINTS="3095 947 3060 982 3040 997 3030 1043 2624 1438 2619 1438 2523 1585 2442 1610 2437 1610 2437 1616 2183 1889 2259 1970 2295 2001 2406 1849 2508 1798 2513 1798 2513 1793 2518 1793 2518 1788 2579 1661 2741 1555 2741 1550 2746 1550 2746 1545 2776 1458 2883 1398 2888 1398 2888 1393 3075 1195 3080 1195 3080 1190 3106 1104 3227 1023 3227 1018 3232 1018 3298 896 3283 881 3222 825 3085 937 3095 947"/></Shape>
+            <String CONTENT=""
+                    HPOS="2183"
+                    VPOS="825"
+                    WIDTH="1115"
+                    HEIGHT="1176"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b13bb140"
+                    BASELINE="2809 1952 3269 1480" 
+                    HPOS="2695"
+                    VPOS="1377"
+                    WIDTH="628"
+                    HEIGHT="649">
+            <Shape><Polygon POINTS="3009 1509 2974 1545 2938 1580 2903 1616 2867 1651 2832 1691 2797 1727 2771 1752 2695 1838 2807 1950 2888 2026 3207 1737 3212 1737 3212 1732 3247 1616 3323 1534 3268 1479 3166 1377 3060 1489 3019 1494 3009 1509"/></Shape>
+            <String CONTENT=""
+                    HPOS="2695"
+                    VPOS="1377"
+                    WIDTH="628"
+                    HEIGHT="649"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9f554f16"
+                    BASELINE="2340 2025 3026 1326" 
+                    HPOS="2275"
+                    VPOS="1261"
+                    WIDTH="780"
+                    HEIGHT="805">
+            <Shape><Polygon POINTS="2376 1849 2340 1884 2305 1919 2275 1960 2335 2021 2386 2066 2533 1859 2609 1833 2614 1833 2614 1828 2619 1828 2700 1702 2741 1702 2741 1697 2746 1697 2751 1697 2751 1691 2756 1691 2756 1686 2802 1590 3055 1352 3025 1322 2964 1261 2411 1813 2376 1849"/></Shape>
+            <String CONTENT=""
+                    HPOS="2275"
+                    VPOS="1261"
+                    WIDTH="780"
+                    HEIGHT="805"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_eb2a4500"
+                    BASELINE="2431 2100 3439 1074" 
+                    HPOS="2366"
+                    VPOS="1003"
+                    WIDTH="1079"
+                    HEIGHT="1104">
+            <Shape><Polygon POINTS="2984 1367 2964 1382 2893 1504 2791 1555 2771 1580 2761 1636 2675 1681 2665 1691 2609 1793 2548 1808 2523 1833 2518 1833 2482 1904 2452 1904 2422 1930 2366 2036 2437 2107 2538 2011 2594 2011 2594 2006 2604 2006 2604 2001 2609 2001 2609 1990 2624 1925 2746 1854 2751 1854 2751 1849 2756 1849 2756 1838 2771 1783 2842 1757 2842 1752 2847 1752 2847 1747 2908 1636 3141 1464 3141 1458 3415 1180 3420 1180 3445 1084 3359 1003 3070 1322 2999 1347 2984 1367"/></Shape>
+            <String CONTENT=""
+                    HPOS="2366"
+                    VPOS="1003"
+                    WIDTH="1079"
+                    HEIGHT="1104"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
