@@ -29,12 +29,12 @@
                     WIDTH="143"
                     HEIGHT="321">
             <Shape><Polygon POINTS="428 1315 346 1305 326 1611 392 1621 469 1626 469 1320 428 1315"/></Shape>
-            <String CONTENT="A"
+            <String CONTENT="+"
                     HPOS="326"
                     VPOS="1305"
                     WIDTH="143"
                     HEIGHT="321"
-                    WC="0.9998517036437988"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_4cee7ec8"
                     BASELINE="301 1652 301 1282" 
@@ -43,12 +43,12 @@
                     WIDTH="189"
                     HEIGHT="372">
             <Shape><Polygon POINTS="300 1279 219 1279 193 1646 300 1651 382 1641 346 1279 300 1279"/></Shape>
-            <String CONTENT="Le Greffi"
+            <String CONTENT="Le Greffier"
                     HPOS="193"
                     VPOS="1279"
                     WIDTH="189"
                     HEIGHT="372"
-                    WC="0.8846839533911811"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_89363991"
                     BASELINE="94 2326 67 1036" 
@@ -57,12 +57,12 @@
                     WIDTH="117"
                     HEIGHT="1295">
             <Shape><Polygon POINTS="66 1034 5 1034 5 1050 5 1101 5 1152 5 1203 5 1254 5 1305 5 1356 5 1356 20 2324 91 2324 122 2314 112 1029 66 1034"/></Shape>
-            <String CONTENT="En arrêt du 23 aout 1919 le soldat"
+            <String CONTENT="Par arrêt du 23 aout 1919 le soldat"
                     HPOS="5"
                     VPOS="1029"
                     WIDTH="117"
                     HEIGHT="1295"
-                    WC="0.9851066078458514"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_bc767039"
                     BASELINE="183 2352 151 1020" 
@@ -71,12 +71,12 @@
                     WIDTH="153"
                     HEIGHT="1336">
             <Shape><Polygon POINTS="147 1019 76 1019 107 2350 178 2350 203 2345 229 2131 229 2126 173 1014 147 1019"/></Shape>
-            <String CONTENT="de Lonqueville a été réhabilité par le"
+            <String CONTENT="de Longueville a été réhabilité par le"
                     HPOS="76"
                     VPOS="1014"
                     WIDTH="153"
                     HEIGHT="1336"
-                    WC="0.9899314599377769"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_c1031321"
                     BASELINE="285 2352 247 1614" 
@@ -85,12 +85,12 @@
                     WIDTH="158"
                     HEIGHT="745">
             <Shape><Polygon POINTS="244 1611 173 1611 203 2350 280 2350 311 2345 331 2039 331 2034 275 1605 244 1611"/></Shape>
-            <String CONTENT="Cour d&#x27;appel de Paris."
+            <String CONTENT="Cour d&#x27;appel de Paris"
                     HPOS="173"
                     VPOS="1605"
                     WIDTH="158"
                     HEIGHT="745"
-                    WC="0.9725850468332117"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_a3eaa78e"
                     TAGREFS="LT10974"
@@ -205,12 +205,12 @@
                     WIDTH="535"
                     HEIGHT="137">
             <Shape><Polygon POINTS="66 3619 66 3655 453 3665 458 3665 464 3665 596 3630 596 3599 581 3528 61 3543 66 3619"/></Shape>
-            <String CONTENT="en lieu le 28"
+            <String CONTENT="eu lieu le 28"
                     HPOS="61"
                     VPOS="3528"
                     WIDTH="535"
                     HEIGHT="137"
-                    WC="0.998459898508512"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_bf7f9e56"
                     BASELINE="54 3734 559 3687" 

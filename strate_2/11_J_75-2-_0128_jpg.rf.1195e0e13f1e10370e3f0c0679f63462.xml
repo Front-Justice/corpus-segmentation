@@ -21,64 +21,6 @@
                   VPOS="0"
                   WIDTH="3804"
                   HEIGHT="6029">
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_b0ba9e03"
-                    BASELINE="2980 3694 3477 3682" 
-                    HPOS="2974"
-                    VPOS="3526"
-                    WIDTH="498"
-                    HEIGHT="201">
-            <Shape><Polygon POINTS="2979 3692 2979 3727 3467 3727 3472 3677 3457 3526 2974 3531 2979 3692"/></Shape>
-            <String CONTENT=""
-                    HPOS="2974"
-                    VPOS="3526"
-                    WIDTH="498"
-                    HEIGHT="201"
-                    ></String>
-          </TextLine>
-          <TextLine ID="eSc_line_c7c5058a"
-                    BASELINE="2970 3752 3534 3748" 
-                    HPOS="2964"
-                    VPOS="3657"
-                    WIDTH="568"
-                    HEIGHT="156">
-            <Shape><Polygon POINTS="3467 3682 3417 3682 3396 3682 3376 3687 3301 3682 3266 3687 3216 3687 3165 3687 3115 3692 3065 3692 3015 3692 3010 3667 2964 3667 2969 3748 2969 3813 3095 3793 3527 3808 3532 3743 3517 3657 3467 3667 3467 3682"/></Shape>
-            <String CONTENT=""
-                    HPOS="2964"
-                    VPOS="3657"
-                    WIDTH="568"
-                    HEIGHT="156"
-                    ></String>
-          </TextLine>
-          <TextLine ID="eSc_line_47969d97"
-                    BASELINE="3039 3819 3463 3817" 
-                    HPOS="3030"
-                    VPOS="3758"
-                    WIDTH="432"
-                    HEIGHT="125">
-            <Shape><Polygon POINTS="3035 3818 3035 3878 3135 3858 3200 3868 3321 3883 3326 3883 3331 3883 3462 3843 3462 3813 3447 3758 3030 3758 3035 3818"/></Shape>
-            <String CONTENT="Le Commis Greffier"
-                    HPOS="3030"
-                    VPOS="3758"
-                    WIDTH="432"
-                    HEIGHT="125"
-                    ></String>
-          </TextLine>
-          <TextLine ID="eSc_line_a55d0542"
-                    BASELINE="3035 3924 3415 3894" 
-                    HPOS="3020"
-                    VPOS="3828"
-                    WIDTH="392"
-                    HEIGHT="156">
-            <Shape><Polygon POINTS="3030 3923 3030 3984 3412 3943 3412 3893 3396 3828 3020 3833 3030 3923"/></Shape>
-            <String CONTENT="+"
-                    HPOS="3020"
-                    VPOS="3828"
-                    WIDTH="392"
-                    HEIGHT="156"
-                    ></String>
-          </TextLine>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>

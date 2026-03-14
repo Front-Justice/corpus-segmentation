@@ -45,12 +45,12 @@
                     WIDTH="929"
                     HEIGHT="180">
             <Shape><Polygon POINTS="240 2457 244 2505 349 2478 1163 2417 1160 2369 1149 2325 234 2396 240 2457"/></Shape>
-            <String CONTENT="suspendue par décision de Mle"
+            <String CONTENT="suspendue par décision de M^ le"
                     HPOS="234"
                     VPOS="2325"
                     WIDTH="929"
                     HEIGHT="180"
-                    WC="0.9739106078942616"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_b113d251"
                     TAGREFS="LT10974"
@@ -75,12 +75,12 @@
                     WIDTH="777"
                     HEIGHT="146">
             <Shape><Polygon POINTS="254 2596 254 2630 1024 2566 1024 2532 1014 2484 247 2535 254 2596"/></Shape>
-            <String CONTENT="endate du 5 Février 1915."
+            <String CONTENT="en date du 5 Février 1915"
                     HPOS="247"
                     VPOS="2484"
                     WIDTH="777"
                     HEIGHT="146"
-                    WC="0.9689246003444378"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_1e0bd84a"
                     TAGREFS="LT10974"
@@ -90,12 +90,12 @@
                     WIDTH="421"
                     HEIGHT="170">
             <Shape><Polygon POINTS="444 2664 447 2705 552 2732 556 2732 651 2722 654 2722 658 2722 719 2674 858 2654 858 2623 848 2573 763 2579 736 2562 732 2562 729 2562 725 2562 437 2613 444 2664"/></Shape>
-            <String CONTENT="Le Greffier."
+            <String CONTENT="Le Greffier"
                     HPOS="437"
                     VPOS="2562"
                     WIDTH="421"
                     HEIGHT="170"
-                    WC="0.993162473042806"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_d532c8a0"
                     TAGREFS="LT10974"
@@ -105,12 +105,12 @@
                     WIDTH="512"
                     HEIGHT="305">
             <Shape><Polygon POINTS="837 2627 807 2634 800 2634 780 2657 739 2695 678 2712 624 2712 525 2712 522 2712 518 2712 515 2712 515 2715 512 2715 474 2766 471 2773 427 2783 444 2837 474 2922 535 2871 590 2878 624 2881 627 2881 630 2881 712 2857 715 2857 715 2854 763 2810 783 2789 793 2796 807 2806 810 2806 814 2806 817 2806 820 2806 824 2806 824 2803 851 2776 864 2762 939 2739 922 2674 892 2617 837 2623 837 2627"/></Shape>
-            <String CONTENT="eMattent"
+            <String CONTENT="+"
                     HPOS="427"
                     VPOS="2617"
                     WIDTH="512"
                     HEIGHT="305"
-                    WC="0.9575588330626488"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

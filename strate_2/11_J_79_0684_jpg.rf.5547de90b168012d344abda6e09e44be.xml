@@ -45,12 +45,12 @@
                     WIDTH="153"
                     HEIGHT="1493">
             <Shape><Polygon POINTS="302 3157 233 3157 242 4129 247 4149 247 4199 247 4248 252 4298 252 4347 257 4397 257 4446 257 4496 262 4546 262 4595 262 4645 337 4645 386 4635 347 4427 347 4303 376 4248 381 4233 381 4228 381 4223 381 4218 371 4189 342 4099 357 3713 361 3480 361 3475 361 3470 347 3425 322 3366 327 3152 302 3157"/></Shape>
-            <String CONTENT="L&#x27;offieier d&#x27;administration greffier:"
+            <String CONTENT="L&#x27;officier d&#x27;administration greffier"
                     HPOS="233"
                     VPOS="3152"
                     WIDTH="153"
                     HEIGHT="1493"
-                    WC="0.9766250027192606"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_33093301"
                     TAGREFS="LT10974"
@@ -60,12 +60,12 @@
                     WIDTH="169"
                     HEIGHT="1602">
             <Shape><Polygon POINTS="153 3048 74 3048 59 3415 59 3420 79 3509 89 3564 79 3653 64 3772 64 3777 64 3782 79 3822 99 3871 79 3921 69 3946 69 3951 69 3956 69 3961 69 3966 74 3966 79 3975 104 4000 79 4050 79 4055 79 4060 79 4065 79 4094 114 4427 84 4640 193 4645 203 4640 228 4432 228 4427 168 3043 153 3048"/></Shape>
-            <String CONTENT="Jugement aevens dépuitif le 24 septemte 1918"
+            <String CONTENT="Jugement devenu définitif le 24 septembre 1918"
                     HPOS="59"
                     VPOS="3043"
                     WIDTH="169"
                     HEIGHT="1602"
-                    WC="0.960534393787384"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_51047ea7"
                     TAGREFS="LT10974"

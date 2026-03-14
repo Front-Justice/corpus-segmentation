@@ -29,12 +29,12 @@
                     WIDTH="419"
                     HEIGHT="148">
             <Shape><Polygon POINTS="2934 1345 2929 1402 3343 1396 3348 1356 3343 1279 2934 1254 2934 1345"/></Shape>
-            <String CONTENT="Amnistie"
+            <String CONTENT="Amnistié"
                     HPOS="2929"
                     VPOS="1254"
                     WIDTH="419"
                     HEIGHT="148"
-                    WC="0.9939662292599678"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_d39ab59d"
                     BASELINE="2714 1451 3619 1463" 
@@ -43,12 +43,12 @@
                     WIDTH="913"
                     HEIGHT="153">
             <Shape><Polygon POINTS="2710 1447 2705 1498 3608 1509 3618 1458 3613 1381 2710 1356 2710 1447"/></Shape>
-            <String CONTENT="L01 du 24octioie"
+            <String CONTENT="L0I du 24 oct 1919"
                     HPOS="2705"
                     VPOS="1356"
                     WIDTH="913"
                     HEIGHT="153"
-                    WC="0.919210247695446"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_d8d1e180"
                     BASELINE="3037 1540 3615 1557" 
@@ -57,12 +57,12 @@
                     WIDTH="582"
                     HEIGHT="132">
             <Shape><Polygon POINTS="3036 1539 3031 1585 3608 1585 3613 1554 3608 1483 3036 1453 3036 1539"/></Shape>
-            <String CONTENT="Le Groitie,"
+            <String CONTENT="Le Greffier"
                     HPOS="3031"
                     VPOS="1453"
                     WIDTH="582"
                     HEIGHT="132"
-                    WC="0.9934038628231395"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_adb1a41a"
                     BASELINE="3139 1693 3657 1633" 

@@ -31,7 +31,7 @@
                     WIDTH="145.0"
                     HEIGHT="1589.0">
             <Shape><Polygon POINTS="274 3118 199 3118 244 4702 309 4702 344 4692 309 3113 274 3118"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le present jugement a commencé à recevoir son"
                     HPOS="199.0"
                     VPOS="3113.0"
                     WIDTH="145.0"
@@ -46,7 +46,7 @@
                     WIDTH="145.0"
                     HEIGHT="1469.0">
             <Shape><Polygon POINTS="604 3838 574 3223 534 3228 464 3228 464 3833 469 3843 469 3893 469 3943 474 3993 474 4042 474 4092 479 4142 479 4192 479 4242 484 4292 484 4342 489 4392 489 4442 489 4492 494 4542 494 4592 494 4642 469 4647 474 4687 564 4692 584 4687 609 4227 609 4222 609 4217 609 4212 584 4177 604 3843 604 3838"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="L&#x27;Officier d&#x27;Administration Greffier."
                     HPOS="464.0"
                     VPOS="3223.0"
                     WIDTH="145.0"
@@ -55,32 +55,32 @@
           </TextLine>
           <TextLine ID="eSc_line_b7e73977"
                     TAGREFS="LT11707"
-                    BASELINE="683 4097 686 3695" 
-                    HPOS="619.0"
-                    VPOS="3688.0"
-                    WIDTH="105.0"
-                    HEIGHT="404.0">
-            <Shape><Polygon POINTS="684 3693 619 3688 619 4082 679 4092 724 4087 719 3693 684 3693"/></Shape>
-            <String CONTENT=""
-                    HPOS="619.0"
-                    VPOS="3688.0"
-                    WIDTH="105.0"
-                    HEIGHT="404.0"
-                    ></String>
+                    BASELINE="683 4211 686 3695" 
+                    HPOS="619"
+                    VPOS="3688"
+                    WIDTH="125"
+                    HEIGHT="519">
+            <Shape><Polygon POINTS="709 4207 744 4112 744 4107 744 4102 719 3693 684 3693 619 3688 619 4197 679 4207 709 4207"/></Shape>
+            <String CONTENT="+"
+                    HPOS="619"
+                    VPOS="3688"
+                    WIDTH="125"
+                    HEIGHT="519"
+                    WC="0.9999998807907104"></String>
           </TextLine>
           <TextLine ID="eSc_line_a8561358"
                     TAGREFS="LT11707"
-                    BASELINE="620 4198 613 3679" 
-                    HPOS="549.0"
-                    VPOS="3673.0"
-                    WIDTH="120.0"
-                    HEIGHT="524.0">
-            <Shape><Polygon POINTS="609 3678 549 3678 549 3948 549 3998 554 4047 554 4097 559 4147 559 4197 619 4197 669 4192 634 3673 609 3678"/></Shape>
-            <String CONTENT=""
-                    HPOS="549.0"
-                    VPOS="3673.0"
-                    WIDTH="120.0"
-                    HEIGHT="524.0"
+                    BASELINE="620 4312 613 3679" 
+                    HPOS="549"
+                    VPOS="3673"
+                    WIDTH="120"
+                    HEIGHT="634">
+            <Shape><Polygon POINTS="609 3678 549 3678 554 4127 559 4157 559 4207 574 4257 574 4307 619 4307 639 4302 669 4137 669 4132 634 3673 609 3678"/></Shape>
+            <String CONTENT="Le Commis Greffier"
+                    HPOS="549"
+                    VPOS="3673"
+                    WIDTH="120"
+                    HEIGHT="634"
                     ></String>
           </TextLine>
           <TextLine ID="eSc_line_669a356e"
@@ -91,12 +91,12 @@
                     WIDTH="145.0"
                     HEIGHT="1259.0">
             <Shape><Polygon POINTS="364 3408 294 3408 324 4662 409 4662 439 4657 439 3828 434 3823 389 3403 364 3408"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="exécution le treize septembre 1918"
                     HPOS="294.0"
                     VPOS="3403.0"
                     WIDTH="145.0"
                     HEIGHT="1259.0"
-                    ></String>
+                    WC="0.9850510478019714"></String>
           </TextLine>
           <TextLine ID="eSc_line_657ddf1e"
                     TAGREFS="LT11707"
@@ -106,12 +106,12 @@
                     WIDTH="160.0"
                     HEIGHT="1379.0">
             <Shape><Polygon POINTS="444 3283 374 3283 424 4657 494 4657 519 4652 534 4247 534 4242 469 3278 444 3283"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="pour compter du dix huit Août 1918"
                     HPOS="374.0"
                     VPOS="3278.0"
                     WIDTH="160.0"
                     HEIGHT="1379.0"
-                    ></String>
+                    WC="0.9792837006705147"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

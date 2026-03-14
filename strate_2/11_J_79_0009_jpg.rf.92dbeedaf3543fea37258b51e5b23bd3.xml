@@ -29,12 +29,12 @@
                     WIDTH="936"
                     HEIGHT="705">
             <Shape><Polygon POINTS="1304 759 1333 798 1583 597 1764 592 1931 582 1936 582 1941 582 1941 577 1946 577 1980 514 2176 391 2014 186 1936 93 1764 200 1764 205 1760 205 1666 328 1622 382 1593 386 1524 406 1519 406 1514 406 1387 504 1387 509 1382 509 1382 514 1382 519 1362 582 1328 587 1323 587 1318 587 1318 592 1313 592 1240 685 1304 759"/></Shape>
-            <String CONTENT="dele "
+            <String CONTENT="+"
                     HPOS="1240"
                     VPOS="93"
                     WIDTH="936"
                     HEIGHT="705"
-                    WC="0.814713716506958"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_096da97b"
                     TAGREFS="LT10974"
@@ -44,12 +44,12 @@
                     WIDTH="1049"
                     HEIGHT="138">
             <Shape><Polygon POINTS="147 1160 147 1185 1191 1190 1196 1160 1196 1087 1044 1052 1039 1052 828 1072 720 1082 622 1067 539 1052 534 1052 455 1062 284 1082 254 1057 254 1052 250 1052 245 1052 147 1052 147 1160"/></Shape>
-            <String CONTENT="suspension de peine accordée"
+            <String CONTENT="Suspension de peine accordée"
                     HPOS="147"
                     VPOS="1052"
                     WIDTH="1049"
                     HEIGHT="138"
-                    WC="0.9821133161413258"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_e8fd3f70"
                     TAGREFS="LT10974"
@@ -59,12 +59,12 @@
                     WIDTH="1025"
                     HEIGHT="113">
             <Shape><Polygon POINTS="102 1234 102 1263 1122 1283 1127 1234 1127 1170 102 1170 102 1234"/></Shape>
-            <String CONTENT="à à Misoike par décision du 15.3-19"
+            <String CONTENT="à à Missiha par décision du 15.3-19"
                     HPOS="102"
                     VPOS="1170"
                     WIDTH="1025"
                     HEIGHT="113"
-                    WC="0.9948341046508989"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_9e19b110"
                     TAGREFS="LT10974"
@@ -74,12 +74,12 @@
                     WIDTH="1064"
                     HEIGHT="112">
             <Shape><Polygon POINTS="117 1322 117 1351 1098 1351 1098 1346 1103 1346 1176 1317 1176 1297 1161 1239 112 1258 117 1322"/></Shape>
-            <String CONTENT="Dirigisur le 237^e R.A. C. aux armés"
+            <String CONTENT="D rédigé sur le 237^e R.A.C.^ aux armées"
                     HPOS="112"
                     VPOS="1239"
                     WIDTH="1064"
                     HEIGHT="112"
-                    WC="0.9589777508297482"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_a5bb64f3"
                     TAGREFS="LT10974"
@@ -89,12 +89,12 @@
                     WIDTH="701"
                     HEIGHT="113">
             <Shape><Polygon POINTS="534 1317 485 1317 436 1317 387 1317 387 1376 387 1425 1088 1425 1088 1376 1083 1312 544 1312 534 1317"/></Shape>
-            <String CONTENT="Le 24-3-14 de greffier"
+            <String CONTENT="Le 24-3-19 Le greffier"
                     HPOS="387"
                     VPOS="1312"
                     WIDTH="701"
                     HEIGHT="113"
-                    WC="0.978305383162065"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

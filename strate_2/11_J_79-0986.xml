@@ -31,12 +31,12 @@
                     WIDTH="124.0"
                     HEIGHT="352.0">
             <Shape><Polygon POINTS="629 3851 570 3851 575 4199 639 4199 694 4189 674 3847 629 3851"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="570.0"
                     VPOS="3847.0"
                     WIDTH="124.0"
                     HEIGHT="352.0"
-                    ></String>
+                    WC="0.9999988079071045"></String>
           </TextLine>
           <TextLine ID="eSc_line_5129c6e3"
                     BASELINE="569 4335 566 3880" 
@@ -45,12 +45,12 @@
                     WIDTH="99.0"
                     HEIGHT="456.0">
             <Shape><Polygon POINTS="510 3886 515 3936 515 3985 515 4035 515 4084 520 4134 520 4184 520 4233 525 4283 525 4332 565 4332 609 4327 609 3876 565 3876 510 3876 510 3886"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le C^ greffier"
                     HPOS="510.0"
                     VPOS="3876.0"
                     WIDTH="99.0"
                     HEIGHT="456.0"
-                    ></String>
+                    WC="0.9665752138410296"></String>
           </TextLine>
           <TextLine ID="eSc_line_d1daeec7"
                     TAGREFS="LT11707"
@@ -60,12 +60,12 @@
                     WIDTH="198.0"
                     HEIGHT="1289.0">
             <Shape><Polygon POINTS="495 3361 411 3361 456 4332 441 4640 530 4645 570 4635 570 4372 609 4288 609 4283 609 4278 595 3817 595 3812 550 3703 575 3623 575 3618 575 3614 555 3356 495 3361"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="L&#x27;Officier d&#x27;Administration Greffier"
                     HPOS="411.0"
                     VPOS="3356.0"
                     WIDTH="198.0"
                     HEIGHT="1289.0"
-                    ></String>
+                    WC="0.9750571946303049"></String>
           </TextLine>
           <TextLine ID="eSc_line_92d776f9"
                     TAGREFS="LT11707"
@@ -75,12 +75,12 @@
                     WIDTH="169.0"
                     HEIGHT="1467.0">
             <Shape><Polygon POINTS="242 3242 163 3242 188 4124 168 4347 168 4352 168 4357 193 4417 173 4699 267 4704 332 4694 302 3237 242 3242"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le présent jugement a commencé à recevoirson"
                     HPOS="163.0"
                     VPOS="3237.0"
                     WIDTH="169.0"
                     HEIGHT="1467.0"
-                    ></String>
+                    WC="0.9779038614696927"></String>
           </TextLine>
           <TextLine ID="eSc_line_98957fee"
                     TAGREFS="LT11707"
@@ -90,12 +90,12 @@
                     WIDTH="129.0"
                     HEIGHT="1086.0">
             <Shape><Polygon POINTS="327 3633 267 3633 282 4714 357 4714 396 4709 376 3628 327 3633"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="exécution le 17 Décembre 1918"
                     HPOS="267.0"
                     VPOS="3628.0"
                     WIDTH="129.0"
                     HEIGHT="1086.0"
-                    ></String>
+                    WC="0.9909423012887278"></String>
           </TextLine>
           <TextLine ID="eSc_line_3fbee073"
                     TAGREFS="LT11707"
@@ -105,12 +105,12 @@
                     WIDTH="173.0"
                     HEIGHT="1244.0">
             <Shape><Polygon POINTS="396 3480 337 3480 376 4719 441 4719 510 4704 476 4575 476 3668 476 3663 431 3475 396 3480"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="pour compter du 27 septembre 1918"
                     HPOS="337.0"
                     VPOS="3475.0"
                     WIDTH="173.0"
                     HEIGHT="1244.0"
-                    ></String>
+                    WC="0.9788938977501609"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

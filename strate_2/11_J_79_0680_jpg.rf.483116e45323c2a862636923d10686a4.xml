@@ -45,12 +45,12 @@
                     WIDTH="143"
                     HEIGHT="1552">
             <Shape><Polygon POINTS="183 3058 114 3058 123 4605 213 4605 233 4600 257 4352 257 4347 257 4342 233 4268 238 3420 238 3415 203 3053 183 3058"/></Shape>
-            <String CONTENT="Jugement devenu définitif le 2nseptenber 1918."
+            <String CONTENT="Jugement devenu définitif le 2 septembre 1918."
                     HPOS="114"
                     VPOS="3053"
                     WIDTH="143"
                     HEIGHT="1552"
-                    WC="0.9628872579716622"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_3e18f102"
                     TAGREFS="LT10974"
@@ -60,12 +60,12 @@
                     WIDTH="144"
                     HEIGHT="1636">
             <Shape><Polygon POINTS="262 2974 193 2974 218 4605 297 4605 337 4595 307 2969 262 2974"/></Shape>
-            <String CONTENT="Délention préventive du sept juillet 1918 au 26 septembre 1915.."
+            <String CONTENT="Délention préventive du sept juillet 1918 au 26 septembre 1918"
                     HPOS="193"
                     VPOS="2969"
                     WIDTH="144"
                     HEIGHT="1636"
-                    WC="0.9564811280279448"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

@@ -29,12 +29,12 @@
                     WIDTH="119"
                     HEIGHT="555">
             <Shape><Polygon POINTS="505 3713 505 3762 510 3812 510 3861 510 3911 510 3961 510 4010 515 4060 515 4109 515 4159 515 4208 515 4258 565 4263 614 4253 585 4109 614 4000 624 3970 624 3966 624 3961 624 3956 614 3926 595 3851 609 3713 585 3713 505 3708 505 3713"/></Shape>
-            <String CONTENT="alC^eme greffier"
+            <String CONTENT="Le C^ Greffier"
                     HPOS="505"
                     VPOS="3708"
                     WIDTH="119"
                     HEIGHT="555"
-                    WC="0.9584467001259327"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_7f8d6062"
                     BASELINE="648 4261 641 3812" 
@@ -51,60 +51,60 @@
                     WC="0.9999194145202637"></String>
           </TextLine>
           <TextLine ID="eSc_line_3e5d364c"
-                    BASELINE="521 4563 500 3248" 
-                    HPOS="426"
-                    VPOS="3242"
-                    WIDTH="144"
-                    HEIGHT="1318">
-            <Shape><Polygon POINTS="495 3247 426 3247 436 4089 441 4114 441 4164 441 4213 446 4263 446 4313 446 4362 446 4412 451 4461 451 4511 451 4560 520 4560 570 4555 535 3762 535 3658 550 3301 550 3296 550 3291 525 3242 495 3247"/></Shape>
-            <String CONTENT="NOuirier d&#x27;Administration Greffier."
-                    HPOS="426"
-                    VPOS="3242"
-                    WIDTH="144"
-                    HEIGHT="1318"
-                    WC="0.9612590040479387"></String>
+                    BASELINE="521 4632 490 3170" 
+                    HPOS="421"
+                    VPOS="3162"
+                    WIDTH="154"
+                    HEIGHT="1468">
+            <Shape><Polygon POINTS="485 3167 421 3167 436 4208 441 4233 441 4283 441 4332 441 4337 441 4387 446 4432 446 4481 446 4531 451 4580 451 4630 520 4630 575 4620 515 3162 485 3167"/></Shape>
+            <String CONTENT="L&#x27;Officier d&#x27;Administration Greffier"
+                    HPOS="421"
+                    VPOS="3162"
+                    WIDTH="154"
+                    HEIGHT="1468"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_278a6ce7"
-                    BASELINE="455 4635 422 3520" 
-                    HPOS="332"
-                    VPOS="3514"
-                    WIDTH="163"
-                    HEIGHT="1116">
-            <Shape><Polygon POINTS="421 3519 332 3519 332 3539 332 3589 337 3638 337 3688 342 3737 342 3787 342 3797 342 3881 347 3886 347 3886 376 4446 366 4506 371 4531 371 4580 371 4625 451 4630 495 4620 441 3514 421 3519"/></Shape>
-            <String CONTENT="pour compier du onze août 1918"
-                    HPOS="332"
-                    VPOS="3514"
-                    WIDTH="163"
-                    HEIGHT="1116"
-                    WC="0.9659213442956248"></String>
+                    BASELINE="455 4704 412 3442" 
+                    HPOS="322"
+                    VPOS="3435"
+                    WIDTH="178"
+                    HEIGHT="1264">
+            <Shape><Polygon POINTS="411 3440 322 3440 322 3460 327 3509 327 3559 327 3609 332 3658 332 3708 337 3757 337 3807 337 3807 376 4546 366 4590 371 4600 371 4650 371 4694 451 4699 500 4689 436 3435 411 3440"/></Shape>
+            <String CONTENT="pour compter du onze août 1918"
+                    HPOS="322"
+                    VPOS="3435"
+                    WIDTH="178"
+                    HEIGHT="1264"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_ae9e7961"
-                    BASELINE="298 4650 262 3136" 
-                    HPOS="178"
-                    VPOS="3133"
-                    WIDTH="159"
-                    HEIGHT="1512">
-            <Shape><Polygon POINTS="178 3133 218 4645 297 4645 312 4640 337 4546 337 4541 312 4194 297 4020 307 3926 317 3832 317 3827 307 3772 287 3688 297 3133 257 3133 178 3133"/></Shape>
-            <String CONTENT="Leprésentrement à commencé à recevoirson"
-                    HPOS="178"
-                    VPOS="3133"
-                    WIDTH="159"
-                    HEIGHT="1512"
-                    WC="0.9571749933741309"></String>
+                    BASELINE="298 4719 252 3058" 
+                    HPOS="173"
+                    VPOS="3048"
+                    WIDTH="149"
+                    HEIGHT="1666">
+            <Shape><Polygon POINTS="247 3053 173 3053 223 4714 297 4714 322 4704 277 3048 247 3053"/></Shape>
+            <String CONTENT="Le présent jugement à commencé à recevoir son"
+                    HPOS="173"
+                    VPOS="3048"
+                    WIDTH="149"
+                    HEIGHT="1666"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_b8de6abe"
-                    BASELINE="374 4647 328 3466" 
-                    HPOS="267"
-                    VPOS="3460"
-                    WIDTH="129"
-                    HEIGHT="1185">
-            <Shape><Polygon POINTS="327 3465 267 3465 267 3504 272 3554 272 3604 272 3653 277 3703 277 3752 277 3802 277 3851 282 3901 282 3951 282 4000 282 4050 287 4099 287 4149 287 4199 287 4248 292 4298 292 4347 292 4382 292 4481 297 4496 297 4511 302 4645 371 4645 396 4640 352 3460 327 3465"/></Shape>
-            <String CONTENT="exécusii le vingt septembre 1918"
-                    HPOS="267"
-                    VPOS="3460"
-                    WIDTH="129"
-                    HEIGHT="1185"
-                    WC="0.9959202842278914"></String>
+                    BASELINE="374 4716 318 3388" 
+                    HPOS="262"
+                    VPOS="3381"
+                    WIDTH="134"
+                    HEIGHT="1333">
+            <Shape><Polygon POINTS="317 3385 262 3385 262 3425 262 3475 262 3524 267 3574 267 3623 267 3673 272 3723 272 3772 272 3822 272 3866 272 3871 277 3921 277 3970 277 3985 277 4040 282 4070 282 4109 282 4208 287 4218 287 4228 307 4714 371 4714 391 4709 396 3990 396 3985 337 3381 317 3385"/></Shape>
+            <String CONTENT="exécution le vingt septembre 1918"
+                    HPOS="262"
+                    VPOS="3381"
+                    WIDTH="134"
+                    HEIGHT="1333"
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

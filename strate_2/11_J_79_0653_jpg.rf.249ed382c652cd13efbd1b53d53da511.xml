@@ -29,12 +29,12 @@
                     WIDTH="893"
                     HEIGHT="665">
             <Shape><Polygon POINTS="2679 1125 2634 1184 3457 1725 3492 1690 3527 1626 3338 1452 3338 1447 3333 1447 3065 1303 3021 1229 3016 1229 3016 1224 3011 1224 2847 1155 2812 1090 2812 1085 2807 1085 2807 1080 2803 1080 2798 1080 2718 1060 2679 1125"/></Shape>
-            <String CONTENT="Ounisteé en vertu de la"
+            <String CONTENT="Amnisteé en vertu de la"
                     HPOS="2634"
                     VPOS="1060"
                     WIDTH="893"
                     HEIGHT="665"
-                    WC="0.9352632450560728"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_6aed7d83"
                     BASELINE="2652 1266 3472 1797" 
@@ -57,12 +57,12 @@
                     WIDTH="436"
                     HEIGHT="337">
             <Shape><Polygon POINTS="3274 1675 3269 1675 3214 1670 3194 1670 3185 1650 3170 1626 3170 1621 3165 1621 3165 1616 3160 1616 3090 1591 3046 1685 3026 1715 3219 1868 3224 1868 3408 1928 3433 1893 3462 1814 3299 1690 3274 1675"/></Shape>
-            <String CONTENT="Le Greffir"
+            <String CONTENT="Le Greffeir"
                     HPOS="3026"
                     VPOS="1591"
                     WIDTH="436"
                     HEIGHT="337"
-                    WC="0.9187864154577255"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_18874ba2"
                     BASELINE="3035 1925 3441 1973" 
