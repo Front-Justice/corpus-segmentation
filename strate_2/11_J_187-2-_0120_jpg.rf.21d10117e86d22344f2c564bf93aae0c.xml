@@ -21,64 +21,6 @@
                   VPOS="0"
                   WIDTH="3764"
                   HEIGHT="6037">
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_35c3a559"
-                    BASELINE="58 4888 277 4870 364 4897" 
-                    HPOS="50"
-                    VPOS="4759"
-                    WIDTH="312"
-                    HEIGHT="161">
-            <Shape><Polygon POINTS="55 4884 55 4920 357 4915 362 4895 357 4759 50 4759 55 4884"/></Shape>
-            <String CONTENT="au 19 Juillet 191"
-                    HPOS="50"
-                    VPOS="4759"
-                    WIDTH="312"
-                    HEIGHT="161"
-                    WC="0.8691267826977898"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_f68e4f35"
-                    BASELINE="80 4931 324 4928" 
-                    HPOS="70"
-                    VPOS="4874"
-                    WIDTH="252"
-                    HEIGHT="111">
-            <Shape><Polygon POINTS="271 4874 221 4874 171 4879 120 4884 70 4884 75 4930 75 4970 317 4985 322 4925 311 4879 271 4874"/></Shape>
-            <String CONTENT="Roé apfrance"
-                    HPOS="70"
-                    VPOS="4874"
-                    WIDTH="252"
-                    HEIGHT="111"
-                    WC="0.8170092197564932"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_3e4f47a5"
-                    BASELINE="51 5013 223 5013" 
-                    HPOS="50"
-                    VPOS="4925"
-                    WIDTH="171"
-                    HEIGHT="156">
-            <Shape><Polygon POINTS="50 5010 50 5081 221 5061 221 5010 221 4945 50 4925 50 5010"/></Shape>
-            <String CONTENT="le Greffier"
-                    HPOS="50"
-                    VPOS="4925"
-                    WIDTH="171"
-                    HEIGHT="156"
-                    WC="0.9269872199405323"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_a2ccb939"
-                    BASELINE="127 5248 362 5127" 
-                    HPOS="45"
-                    VPOS="5020"
-                    WIDTH="337"
-                    HEIGHT="292">
-            <Shape><Polygon POINTS="125 5247 161 5312 382 5176 357 5126 296 5020 231 5066 181 5061 120 5055 115 5055 110 5055 105 5055 45 5101 125 5247"/></Shape>
-            <String CONTENT="+"
-                    HPOS="45"
-                    VPOS="5020"
-                    WIDTH="337"
-                    HEIGHT="292"
-                    WC="0.9998952150344849"></String>
-          </TextLine>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>

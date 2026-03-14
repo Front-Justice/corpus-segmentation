@@ -29,12 +29,12 @@
                     WIDTH="1400"
                     HEIGHT="142">
             <Shape><Polygon POINTS="20 2698 15 2734 1410 2734 1415 2713 1405 2602 1273 2632 1105 2607 1075 2602 1070 2602 1065 2602 1055 2607 994 2632 938 2607 918 2597 913 2597 908 2597 903 2597 867 2607 806 2627 786 2607 771 2597 766 2597 760 2597 755 2597 375 2617 202 2622 192 2617 136 2592 131 2592 126 2592 121 2592 20 2617 20 2698"/></Shape>
-            <String CONTENT="Le présent jugement a conmencé à recevoin"
+            <String CONTENT="Le présent jugement a commencé à recevoir"
                     HPOS="15"
                     VPOS="2592"
                     WIDTH="1400"
                     HEIGHT="142"
-                    WC="0.976477487520738"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_1ee2fd45"
                     BASELINE="11 2792 1154 2802" 
@@ -43,12 +43,12 @@
                     WIDTH="1146"
                     HEIGHT="127">
             <Shape><Polygon POINTS="1075 2713 1024 2713 974 2713 923 2708 872 2708 837 2708 634 2718 603 2708 568 2708 517 2708 466 2703 415 2703 365 2703 334 2703 10 2713 10 2789 5 2805 1141 2830 1151 2800 1151 2723 1100 2713 1075 2713"/></Shape>
-            <String CONTENT="son exécution par le 23 Mai 1917."
+            <String CONTENT="son exécution le 23 Mai 1917"
                     HPOS="5"
                     VPOS="2703"
                     WIDTH="1146"
                     HEIGHT="127"
-                    WC="0.9831401092164657"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_ce1484e5"
                     BASELINE="43 2863 1231 2883" 
@@ -57,12 +57,12 @@
                     WIDTH="1192"
                     HEIGHT="137">
             <Shape><Polygon POINTS="801 2800 750 2800 700 2800 649 2800 598 2800 547 2794 497 2794 446 2794 395 2794 344 2794 294 2794 243 2794 192 2794 142 2794 91 2794 40 2794 40 2860 35 2906 248 2891 268 2911 273 2911 273 2916 279 2916 284 2916 289 2916 334 2911 441 2896 679 2906 1146 2931 1151 2931 1156 2931 1222 2901 1227 2881 1222 2810 826 2800 801 2800"/></Shape>
-            <String CONTENT="Détention préventive: du 6 au 23 Mai 1917"
+            <String CONTENT="Détention préventive : du 6 au 23 Mai 1917"
                     HPOS="35"
                     VPOS="2794"
                     WIDTH="1192"
                     HEIGHT="137"
-                    WC="0.9559751846069513"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_59d00011"
                     BASELINE="179 2960 571 2938" 
@@ -71,12 +71,12 @@
                     WIDTH="396"
                     HEIGHT="117">
             <Shape><Polygon POINTS="527 2871 476 2871 426 2871 375 2871 324 2865 309 2865 172 2886 177 2957 177 2982 563 2977 568 2936 558 2871 527 2871"/></Shape>
-            <String CONTENT="Le greffice,"
+            <String CONTENT="Le greffier"
                     HPOS="172"
                     VPOS="2865"
                     WIDTH="396"
                     HEIGHT="117"
-                    WC="0.9638151476780573"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_397359a2"
                     BASELINE="98 3093 707 3028" 

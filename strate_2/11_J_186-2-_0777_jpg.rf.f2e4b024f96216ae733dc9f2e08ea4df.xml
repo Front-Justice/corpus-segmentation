@@ -23,74 +23,74 @@
                   HEIGHT="6071">
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_2cb5eb29"
-                    BASELINE="2595 1385 3246 1381" 
-                    HPOS="2586"
-                    VPOS="1305"
-                    WIDTH="657"
-                    HEIGHT="136">
-            <Shape><Polygon POINTS="2591 1381 2591 1441 3238 1441 3243 1376 3228 1305 2586 1305 2591 1381"/></Shape>
-            <String CONTENT="IFRACTON AMNSTIE."
-                    HPOS="2586"
-                    VPOS="1305"
-                    WIDTH="657"
-                    HEIGHT="136"
-                    WC="0.9352918495150173"></String>
+                    BASELINE="2440 1370 3347 1381" 
+                    HPOS="2434"
+                    VPOS="1290"
+                    WIDTH="911"
+                    HEIGHT="156">
+            <Shape><Polygon POINTS="2439 1365 2434 1396 2540 1401 2575 1436 2575 1441 2581 1441 2586 1441 2909 1446 2915 1446 2920 1446 2925 1446 2950 1426 2970 1446 2975 1446 2980 1446 2985 1446 3264 1441 3269 1441 3340 1406 3345 1376 3345 1295 2439 1290 2439 1365"/></Shape>
+            <String CONTENT="INFRACTON AMNISTIÉE"
+                    HPOS="2434"
+                    VPOS="1290"
+                    WIDTH="911"
+                    HEIGHT="156"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_fa9f19aa"
-                    BASELINE="2385 1507 3257 1490" 
-                    HPOS="2378"
-                    VPOS="1396"
-                    WIDTH="876"
-                    HEIGHT="131">
-            <Shape><Polygon POINTS="2383 1502 2383 1527 3254 1527 3254 1487 3238 1396 2378 1406 2383 1502"/></Shape>
-            <String CONTENT="Art. 5 de la loi d. 24"
-                    HPOS="2378"
-                    VPOS="1396"
-                    WIDTH="876"
-                    HEIGHT="131"
-                    WC="0.9828725457191467"></String>
+                    BASELINE="2230 1492 3358 1490" 
+                    HPOS="2226"
+                    VPOS="1421"
+                    WIDTH="1129"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="2226 1487 2226 1507 2424 1548 2429 1548 2697 1512 2818 1543 2823 1543 2828 1543 3036 1517 3208 1548 3213 1548 3218 1548 3355 1507 3355 1487 3355 1421 2226 1421 2226 1487"/></Shape>
+            <String CONTENT="Art^. 5 de la loi du 24"
+                    HPOS="2226"
+                    VPOS="1421"
+                    WIDTH="1129"
+                    HEIGHT="127"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_6b0ce3e6"
-                    BASELINE="2626 1605 3124 1595" 
-                    HPOS="2616"
+                    BASELINE="2471 1590 3225 1595" 
+                    HPOS="2464"
                     VPOS="1492"
-                    WIDTH="506"
-                    HEIGHT="167">
-            <Shape><Polygon POINTS="3071 1492 3021 1492 2970 1492 2920 1497 2869 1497 2818 1497 2768 1497 2717 1497 2667 1502 2616 1502 2621 1603 2621 1659 3122 1649 3122 1593 3112 1492 3071 1492"/></Shape>
+                    WIDTH="759"
+                    HEIGHT="142">
+            <Shape><Polygon POINTS="2631 1492 2626 1492 2621 1492 2621 1497 2591 1522 2469 1522 2469 1588 2464 1629 3213 1634 3223 1593 3218 1522 2636 1492 2631 1492"/></Shape>
             <String CONTENT="Octobre 1919"
-                    HPOS="2616"
+                    HPOS="2464"
                     VPOS="1492"
-                    WIDTH="506"
-                    HEIGHT="167"
+                    WIDTH="759"
+                    HEIGHT="142"
                     WC="0.9957476258277893"></String>
           </TextLine>
           <TextLine ID="eSc_line_5e8869fc"
-                    BASELINE="2535 1735 3271 1710" 
-                    HPOS="2525"
-                    VPOS="1639"
-                    WIDTH="744"
-                    HEIGHT="141">
-            <Shape><Polygon POINTS="2530 1730 2530 1780 3269 1740 3269 1709 3254 1639 2525 1644 2530 1730"/></Shape>
-            <String CONTENT="Oricier brenter.  a Depor"
-                    HPOS="2525"
-                    VPOS="1639"
-                    WIDTH="744"
-                    HEIGHT="141"
-                    WC="0.865042142868042"></String>
+                    BASELINE="2380 1720 3372 1710" 
+                    HPOS="2373"
+                    VPOS="1634"
+                    WIDTH="997"
+                    HEIGHT="136">
+            <Shape><Polygon POINTS="2378 1715 2378 1770 3365 1745 3370 1709 3355 1634 2373 1639 2378 1715"/></Shape>
+            <String CONTENT="L&#x27;Officier-Greffier Cdt^ du Dépôt"
+                    HPOS="2373"
+                    VPOS="1634"
+                    WIDTH="997"
+                    HEIGHT="136"
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_c1c9d9f9"
-                    BASELINE="2441 1826 3327 1784" 
-                    HPOS="2434"
+                    BASELINE="2286 1811 3428 1784" 
+                    HPOS="2277"
                     VPOS="1699"
-                    WIDTH="890"
+                    WIDTH="1149"
                     HEIGHT="162">
-            <Shape><Polygon POINTS="3243 1715 3193 1715 3142 1715 3092 1715 3041 1720 2990 1720 2940 1720 2889 1725 2839 1725 2788 1725 2753 1725 2717 1725 2687 1730 2641 1730 2434 1735 2439 1821 2439 1861 3319 1836 3324 1780 3309 1699 3238 1699 3243 1715"/></Shape>
-            <String CONTENT="Contral d&#x27;Archives de la susne Militatre"
-                    HPOS="2434"
+            <Shape><Polygon POINTS="3340 1715 3289 1715 3238 1715 3188 1715 3137 1715 3087 1715 3066 1715 2277 1745 2282 1806 2282 1836 2727 1861 2732 1861 3426 1811 3426 1780 3410 1699 3340 1699 3340 1715"/></Shape>
+            <String CONTENT="Central d&#x27;Archives de la Justice Militaire"
+                    HPOS="2277"
                     VPOS="1699"
-                    WIDTH="890"
+                    WIDTH="1149"
                     HEIGHT="162"
-                    WC="0.9628700196743012"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>

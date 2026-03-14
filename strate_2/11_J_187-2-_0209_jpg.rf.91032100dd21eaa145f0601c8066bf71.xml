@@ -21,64 +21,6 @@
                   VPOS="0"
                   WIDTH="3876"
                   HEIGHT="6102">
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_b93eaf48"
-                    BASELINE="97 2228 313 2207" 
-                    HPOS="86"
-                    VPOS="2130"
-                    WIDTH="224"
-                    HEIGHT="132">
-            <Shape><Polygon POINTS="96 2227 96 2262 310 2262 310 2206 295 2130 86 2140 96 2227"/></Shape>
-            <String CONTENT="majorité"
-                    HPOS="86"
-                    VPOS="2130"
-                    WIDTH="224"
-                    HEIGHT="132"
-                    WC="0.9947195185555352"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_7553b167"
-                    BASELINE="58 2345 377 2341" 
-                    HPOS="50"
-                    VPOS="2237"
-                    WIDTH="326"
-                    HEIGHT="152">
-            <Shape><Polygon POINTS="55 2344 55 2389 376 2389 376 2339 361 2247 188 2272 50 2237 55 2344"/></Shape>
-            <String CONTENT="Rénoi appouve"
-                    HPOS="50"
-                    VPOS="2237"
-                    WIDTH="326"
-                    HEIGHT="152"
-                    WC="0.897467200245176"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_a59d2830"
-                    BASELINE="101 2430 317 2433" 
-                    HPOS="91"
-                    VPOS="2354"
-                    WIDTH="224"
-                    HEIGHT="173">
-            <Shape><Polygon POINTS="96 2425 91 2527 310 2486 315 2430 310 2359 96 2354 96 2425"/></Shape>
-            <String CONTENT=" Greffier"
-                    HPOS="91"
-                    VPOS="2354"
-                    WIDTH="224"
-                    HEIGHT="173"
-                    WC="0.8142597807778252"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_dfa576fa"
-                    BASELINE="143 2697 386 2571" 
-                    HPOS="50"
-                    VPOS="2466"
-                    WIDTH="367"
-                    HEIGHT="279">
-            <Shape><Polygon POINTS="142 2695 172 2745 249 2674 417 2659 381 2567 325 2466 239 2506 188 2491 137 2481 132 2481 127 2481 122 2481 50 2517 142 2695"/></Shape>
-            <String CONTENT="+"
-                    HPOS="50"
-                    VPOS="2466"
-                    WIDTH="367"
-                    HEIGHT="279"
-                    WC="0.9999873638153076"></String>
-          </TextLine>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>

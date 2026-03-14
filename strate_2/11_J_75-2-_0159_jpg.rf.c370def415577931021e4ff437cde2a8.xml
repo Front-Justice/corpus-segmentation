@@ -45,12 +45,12 @@
                     WIDTH="885"
                     HEIGHT="180">
             <Shape><Polygon POINTS="288 2471 288 2495 1119 2413 1122 2413 1166 2389 1166 2362 1156 2315 281 2413 288 2471"/></Shape>
-            <String CONTENT="suspendue, par décision de M^r le"
+            <String CONTENT="suspendue, par décision de M^ le"
                     HPOS="281"
                     VPOS="2315"
                     WIDTH="885"
                     HEIGHT="180"
-                    WC="0.9802718881298514"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_d28f3527"
                     TAGREFS="LT10974"
@@ -75,12 +75,12 @@
                     WIDTH="750"
                     HEIGHT="176">
             <Shape><Polygon POINTS="284 2620 284 2647 451 2650 454 2650 457 2650 512 2630 532 2623 559 2627 627 2634 630 2634 729 2613 803 2593 1024 2586 1020 2535 1007 2474 864 2505 803 2495 800 2495 797 2495 786 2495 624 2532 274 2545 284 2620"/></Shape>
-            <String CONTENT="en date du 28 Janvier 191"
+            <String CONTENT="en date du 28 Janvier 1915"
                     HPOS="274"
                     VPOS="2474"
                     WIDTH="750"
                     HEIGHT="176"
-                    WC="0.9912081575393676"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_2d14cc34"
                     TAGREFS="LT10974"
@@ -90,12 +90,12 @@
                     WIDTH="597"
                     HEIGHT="162">
             <Shape><Polygon POINTS="468 2701 471 2735 722 2701 756 2722 780 2732 783 2732 786 2732 1054 2698 1048 2623 1041 2579 871 2573 868 2573 864 2573 695 2623 651 2603 647 2603 644 2603 566 2613 563 2613 457 2650 468 2701"/></Shape>
-            <String CONTENT="Le Commis. Greffier."
+            <String CONTENT="Le Commis-Greffier."
                     HPOS="457"
                     VPOS="2573"
                     WIDTH="597"
                     HEIGHT="162"
-                    WC="0.9724547177553177"></String>
+                    ></String>
           </TextLine>
           <TextLine ID="eSc_line_4f4c2a0b"
                     TAGREFS="LT10974"
@@ -105,12 +105,12 @@
                     WIDTH="447"
                     HEIGHT="156">
             <Shape><Polygon POINTS="542 2793 546 2830 780 2827 783 2827 831 2810 912 2783 976 2796 970 2715 953 2674 783 2705 753 2695 719 2681 715 2681 712 2681 529 2715 542 2793"/></Shape>
-            <String CONTENT="L Lomaire"
+            <String CONTENT="+"
                     HPOS="529"
                     VPOS="2674"
                     WIDTH="447"
                     HEIGHT="156"
-                    WC="0.9924347069528368"></String>
+                    ></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
