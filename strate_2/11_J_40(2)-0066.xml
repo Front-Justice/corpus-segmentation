@@ -31,12 +31,12 @@
                     WIDTH="1394.0"
                     HEIGHT="157.0">
             <Shape><Polygon POINTS="1388 2386 1338 2391 1287 2401 1236 2406 1231 2360 542 2386 370 2350 364 2350 359 2350 354 2350 304 2396 238 2396 192 2350 192 2345 187 2345 182 2345 20 2345 25 2461 25 2502 1414 2482 1414 2441 1399 2380 1388 2386"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le présent jugement a commencé à recevoir"
                     HPOS="20.0"
                     VPOS="2345.0"
                     WIDTH="1394.0"
                     HEIGHT="157.0"
-                    ></String>
+                    WC="0.9787851165641438"></String>
           </TextLine>
           <TextLine ID="eSc_line_18766ddd"
                     TAGREFS="LT11707"
@@ -46,12 +46,12 @@
                     WIDTH="1166.0"
                     HEIGHT="127.0">
             <Shape><Polygon POINTS="50 2543 50 2583 1206 2578 1211 2517 1196 2456 45 2472 50 2543"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="son exécution le 15 Janvier 1919 pour"
                     HPOS="45.0"
                     VPOS="2456.0"
                     WIDTH="1166.0"
                     HEIGHT="127.0"
-                    ></String>
+                    WC="0.950041148223375"></String>
           </TextLine>
           <TextLine ID="eSc_line_7b45b3bc"
                     TAGREFS="LT11707"
@@ -61,12 +61,12 @@
                     WIDTH="973.0"
                     HEIGHT="178.0">
             <Shape><Polygon POINTS="30 2619 30 2710 217 2710 223 2710 339 2659 405 2695 410 2695 415 2695 420 2695 542 2649 608 2674 613 2674 618 2674 993 2654 998 2598 983 2532 25 2543 30 2619"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Compter du 11 octobre 1918."
                     HPOS="25.0"
                     VPOS="2532.0"
                     WIDTH="973.0"
                     HEIGHT="178.0"
-                    ></String>
+                    WC="0.9710543420579698"></String>
           </TextLine>
           <TextLine ID="eSc_line_0d7eca35"
                     TAGREFS="LT11707"
@@ -76,12 +76,12 @@
                     WIDTH="459.0"
                     HEIGHT="158.0">
             <Shape><Polygon POINTS="510 2711 510 2742 564 2742 655 2782 658 2782 662 2782 793 2772 797 2772 800 2772 800 2769 803 2769 834 2732 888 2722 959 2725 962 2681 952 2624 503 2630 510 2711"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="Le Greffier"
                     HPOS="503.0"
                     VPOS="2624.0"
                     WIDTH="459.0"
                     HEIGHT="158.0"
-                    ></String>
+                    WC="0.9916250163858588"></String>
           </TextLine>
           <TextLine ID="eSc_line_e7d464a7"
                     TAGREFS="LT11707"
@@ -91,12 +91,12 @@
                     WIDTH="419.0"
                     HEIGHT="186.0">
             <Shape><Polygon POINTS="763 2833 766 2860 1168 2796 1161 2752 1141 2674 993 2701 989 2701 986 2701 986 2705 945 2745 749 2779 763 2833"/></Shape>
-            <String CONTENT=""
+            <String CONTENT="+"
                     HPOS="749.0"
                     VPOS="2674.0"
                     WIDTH="419.0"
                     HEIGHT="186.0"
-                    ></String>
+                    WC="1.0"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
