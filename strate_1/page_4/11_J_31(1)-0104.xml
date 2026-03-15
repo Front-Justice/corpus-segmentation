@@ -10,6 +10,7 @@
   </Description>
   <Tags>
     <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT12008" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
     <Page WIDTH="3690"
@@ -756,18 +757,17 @@
                     ></String>
           </TextLine>
           <TextLine ID="55264998"
-                    TAGREFS="LT6926"
-                    BASELINE="474 5377 3156 5374" 
-                    HPOS="467"
-                    VPOS="5285"
-                    WIDTH="2685"
-                    HEIGHT="181">
-            <Shape><Polygon POINTS="472 5375 472 5390 547 5426 552 5426 558 5426 995 5406 1060 5406 1065 5411 1085 5426 1085 5431 1090 5431 1095 5431 1100 5431 1105 5431 1171 5411 1211 5400 1231 5416 1286 5451 1292 5451 1297 5451 1302 5451 1307 5451 1312 5451 1312 5446 1347 5416 1372 5395 1452 5421 1523 5441 1528 5441 1533 5441 1538 5441 1603 5426 1739 5390 1784 5431 1789 5431 1794 5431 1799 5431 1804 5431 1809 5431 1845 5400 1980 5395 2015 5426 2020 5426 2025 5426 2031 5426 2036 5426 2151 5395 2403 5400 2533 5451 2578 5466 2584 5466 2589 5466 2649 5456 2759 5431 3142 5466 3152 5370 3137 5285 467 5305 472 5375"/></Shape>
+                    BASELINE="474 5377 3249 5378" 
+                    HPOS="472"
+                    VPOS="5310"
+                    WIDTH="2775"
+                    HEIGHT="166">
+            <Shape><Polygon POINTS="472 5375 472 5390 552 5431 1065 5411 1095 5436 1116 5436 1216 5406 1292 5456 1317 5456 1317 5451 1377 5400 1563 5446 1573 5446 1744 5395 1789 5436 1814 5436 1850 5400 1985 5395 2020 5426 2041 5426 2156 5395 2408 5400 2589 5471 2604 5471 2764 5431 2945 5471 2950 5476 3247 5476 3247 5310 472 5310 472 5375"/></Shape>
             <String CONTENT=""
-                    HPOS="467"
-                    VPOS="5285"
-                    WIDTH="2685"
-                    HEIGHT="181"
+                    HPOS="472"
+                    VPOS="5310"
+                    WIDTH="2775"
+                    HEIGHT="166"
                     ></String>
           </TextLine>
           <TextLine ID="68662016"

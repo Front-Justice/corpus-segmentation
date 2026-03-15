@@ -10,6 +10,7 @@
   </Description>
   <Tags>
     <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT12008" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
     <Page WIDTH="3658"
@@ -755,9 +756,9 @@
                     HEIGHT="115"
                     ></String>
           </TextLine>
-          <TextLine ID="61203825"
+          <TextLine ID="eSc_line_880ebac6"
                     TAGREFS="LT6926"
-                    BASELINE="462 5377 2196 5387" 
+                    BASELINE="462 5377 2196 5387 2234 5390 3097 5394" 
                     HPOS="455"
                     VPOS="5300"
                     WIDTH="1739"
@@ -767,21 +768,6 @@
                     HPOS="455"
                     VPOS="5300"
                     WIDTH="1739"
-                    HEIGHT="135"
-                    ></String>
-          </TextLine>
-          <TextLine ID="32598956"
-                    TAGREFS="LT6926"
-                    BASELINE="2234 5390 3097 5394" 
-                    HPOS="2224"
-                    VPOS="5310"
-                    WIDTH="872"
-                    HEIGHT="135">
-            <Shape><Polygon POINTS="2229 5385 2224 5410 2295 5445 2300 5445 2305 5445 2520 5415 2560 5445 2565 5445 2570 5445 2575 5445 2580 5445 2690 5415 2996 5445 3001 5445 3006 5445 3091 5410 3096 5390 3091 5325 2229 5310 2229 5385"/></Shape>
-            <String CONTENT=""
-                    HPOS="2224"
-                    VPOS="5310"
-                    WIDTH="872"
                     HEIGHT="135"
                     ></String>
           </TextLine>

@@ -771,34 +771,19 @@
                     HEIGHT="134"
                     ></String>
           </TextLine>
-          <TextLine ID="eSc_line_cac0d4f3"
-                    TAGREFS="LT12008"
-                    BASELINE="1372 5506 2191 5500" 
-                    HPOS="1368"
-                    VPOS="5443"
-                    WIDTH="823"
-                    HEIGHT="97">
-            <Shape><Polygon POINTS="1372 5506 1372 5540 2188 5540 2191 5500 2185 5446 1445 5443 1442 5443 1439 5443 1368 5459 1372 5506"/></Shape>
-            <String CONTENT=""
-                    HPOS="1368"
-                    VPOS="5443"
-                    WIDTH="823"
-                    HEIGHT="97"
-                    ></String>
-          </TextLine>
           <TextLine ID="eSc_line_e79660cd"
                     TAGREFS="LT12008"
-                    BASELINE="1787 5570 2821 5567" 
-                    HPOS="1783"
-                    VPOS="5503"
-                    WIDTH="1038"
-                    HEIGHT="124">
-            <Shape><Polygon POINTS="1787 5570 1787 5613 2165 5627 2168 5627 2171 5627 2225 5597 2419 5593 2473 5627 2476 5627 2479 5627 2483 5627 2486 5627 2489 5627 2543 5593 2714 5617 2717 5617 2720 5617 2724 5617 2754 5593 2817 5593 2821 5567 2814 5523 2724 5503 2720 5503 2573 5520 2523 5503 2519 5503 2516 5503 2406 5520 1783 5506 1787 5570"/></Shape>
+                    BASELINE="2280 5569 2821 5567" 
+                    HPOS="2279"
+                    VPOS="5500"
+                    WIDTH="537"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="2279 5565 2279 5615 2816 5610 2816 5565 2816 5500 2279 5500 2279 5565"/></Shape>
             <String CONTENT=""
-                    HPOS="1783"
-                    VPOS="5503"
-                    WIDTH="1038"
-                    HEIGHT="124"
+                    HPOS="2279"
+                    VPOS="5500"
+                    WIDTH="537"
+                    HEIGHT="115"
                     ></String>
           </TextLine>
           <TextLine ID="eSc_line_9303630c"

@@ -10,6 +10,7 @@
   </Description>
   <Tags>
     <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT12008" LABEL="default" DESCRIPTION="line type default"/>
   </Tags>
   <Layout>
     <Page WIDTH="3649"
@@ -813,21 +814,6 @@
                     VPOS="5645"
                     WIDTH="736"
                     HEIGHT="125"
-                    ></String>
-          </TextLine>
-          <TextLine ID="05583674"
-                    TAGREFS="LT11106"
-                    BASELINE="2450 5690 2907 5690" 
-                    HPOS="2447"
-                    VPOS="5545"
-                    WIDTH="456"
-                    HEIGHT="230">
-            <Shape><Polygon POINTS="2447 5685 2447 5720 2622 5720 2632 5725 2702 5770 2707 5770 2712 5770 2717 5775 2863 5775 2863 5770 2868 5770 2873 5770 2903 5740 2903 5685 2903 5605 2833 5545 2828 5545 2823 5545 2722 5545 2717 5545 2712 5545 2707 5545 2632 5610 2447 5610 2447 5685"/></Shape>
-            <String CONTENT=""
-                    HPOS="2447"
-                    VPOS="5545"
-                    WIDTH="456"
-                    HEIGHT="230"
                     ></String>
           </TextLine>
         </TextBlock>

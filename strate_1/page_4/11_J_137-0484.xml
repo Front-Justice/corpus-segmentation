@@ -787,21 +787,6 @@
                     HEIGHT="105"
                     ></String>
           </TextLine>
-          <TextLine ID="eSc_line_e9775407"
-                    TAGREFS="LT12008"
-                    BASELINE="505 5570 2119 5560" 
-                    HPOS="501"
-                    VPOS="5505"
-                    WIDTH="1618"
-                    HEIGHT="99">
-            <Shape><Polygon POINTS="505 5570 505 5604 2116 5583 2119 5560 2109 5505 501 5512 505 5570"/></Shape>
-            <String CONTENT=""
-                    HPOS="501"
-                    VPOS="5505"
-                    WIDTH="1618"
-                    HEIGHT="99"
-                    ></String>
-          </TextLine>
           <TextLine ID="eSc_line_f2f5d2e4"
                     TAGREFS="LT12008"
                     BASELINE="2325 5629 2853 5631" 
